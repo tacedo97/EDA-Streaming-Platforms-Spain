@@ -1,0 +1,717 @@
+,original_title,title,id,genre_ids,release_date,popularity,vote_average,vote_count,original_language,adult
+0,Salem's Lot,Salem's Lot,748230,"[27, 9648]",2024-10-03,684.695,6.3,243,en,False
+1,Joker,Joker,475557,"[80, 53, 18]",2019-10-01,579.469,8.151,25422,en,False
+2,Beetlejuice,Beetlejuice,4011,"[14, 35]",1988-03-30,531.07,7.379,7298,en,False
+3,Furiosa: A Mad Max Saga,Furiosa: A Mad Max Saga,786892,"[28, 12, 878]",2024-05-22,381.235,7.5,3243,en,False
+4,Godzilla x Kong: The New Empire,Godzilla x Kong: The New Empire,823464,"[28, 12, 878]",2024-03-27,333.651,7.157,3681,en,False
+5,Corpse Bride,Corpse Bride,3933,"[10749, 14, 16]",2005-09-12,327.432,7.568,9040,en,False
+6,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,120,"[12, 14, 28]",2001-12-18,322.203,8.4,24975,en,False
+7,The Shawshank Redemption,The Shawshank Redemption,278,"[18, 80]",1994-09-23,318.748,8.707,26945,en,False
+8,Venom,Venom,335983,"[878, 28]",2018-09-28,306.294,6.8,15704,en,False
+9,Batman v Superman: Dawn of Justice,Batman v Superman: Dawn of Justice,209112,"[28, 12, 14]",2016-03-23,296.503,6.0,17822,en,False
+10,Venom: Let There Be Carnage,Venom: Let There Be Carnage,580489,"[878, 28, 12]",2021-09-30,287.264,6.797,9957,en,False
+11,Dune: Part Two,Dune: Part Two,693134,"[878, 12]",2024-02-27,272.445,8.2,5378,en,False
+12,Kingsman: The Secret Service,Kingsman: The Secret Service,207703,"[80, 35, 28, 12]",2015-01-24,270.108,7.6,16553,en,False
+13,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,122,"[12, 14, 28]",2003-12-17,257.964,8.5,24030,en,False
+14,Spider-Man: No Way Home,Spider-Man: No Way Home,634649,"[28, 12, 878]",2021-12-15,257.436,7.959,19951,en,False
+15,Caddo Lake,Caddo Lake,863873,"[18, 9648, 878, 53]",2024-10-09,241.144,7.6,94,en,False
+16,Harry Potter and the Philosopher's Stone,Harry Potter and the Philosopher's Stone,671,"[12, 14]",2001-11-16,239.195,7.913,27202,en,False
+17,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,121,"[12, 14, 28]",2002-12-18,237.429,8.4,21692,en,False
+18,The Godfather,The Godfather,238,"[18, 80]",1972-03-14,230.929,8.691,20458,en,False
+19,Barbie,Barbie,346698,"[35, 12]",2023-07-19,205.759,7.016,8972,en,False
+20,The Batman,The Batman,414906,"[80, 9648, 53]",2022-03-01,201.597,7.672,10127,en,False
+21,Meg 2: The Trench,Meg 2: The Trench,615656,"[28, 878, 27]",2023-08-02,201.459,6.495,3344,en,False
+22,Horrible Bosses 2,Horrible Bosses 2,227159,[35],2014-11-12,197.926,6.2,4085,en,False
+23,Harry Potter and the Chamber of Secrets,Harry Potter and the Chamber of Secrets,672,"[12, 14]",2002-11-13,189.457,7.7,21771,en,False
+24,The Watchers,The Watchers,1086747,"[27, 9648, 53]",2024-06-06,189.422,6.5,935,en,False
+25,Interstellar,Interstellar,157336,"[12, 18, 878]",2014-11-05,189.287,8.44,35350,en,False
+26,The Dark Knight,The Dark Knight,155,"[18, 28, 80, 53]",2008-07-16,187.471,8.5,32691,en,False
+27,Titanic,Titanic,597,"[18, 10749]",1997-11-18,184.78,7.9,25187,en,False
+28,The Suicide Squad,The Suicide Squad,436969,"[28, 35, 12]",2021-07-28,182.829,7.511,8514,en,False
+29,Dune,Dune,438631,"[878, 12]",2021-09-15,176.047,7.8,12499,en,False
+30,Evil Dead Rise,Evil Dead Rise,713704,"[27, 53]",2023-04-12,171.349,7.0,3017,en,False
+31,Harry Potter and the Prisoner of Azkaban,Harry Potter and the Prisoner of Azkaban,673,"[12, 14]",2004-05-31,166.229,8.0,21382,en,False
+32,The Hangover,The Hangover,18785,[35],2009-06-02,164.948,7.3,16718,en,False
+33,Spider-Man: Far From Home,Spider-Man: Far From Home,429617,"[28, 12, 878]",2019-06-28,164.345,7.4,15522,en,False
+34,Harry Potter and the Half-Blood Prince,Harry Potter and the Half-Blood Prince,767,"[12, 14]",2009-07-15,159.337,7.7,19263,en,False
+35,Shazam! Fury of the Gods,Shazam! Fury of the Gods,594767,"[35, 28, 14]",2023-03-15,158.661,6.5,3049,en,False
+36,Harry Potter and the Goblet of Fire,Harry Potter and the Goblet of Fire,674,"[12, 14]",2005-11-16,152.438,7.812,20503,en,False
+37,The Conjuring: The Devil Made Me Do It,The Conjuring: The Devil Made Me Do It,423108,"[27, 9648, 53]",2021-05-25,151.956,7.435,5852,en,False
+38,It,It,346364,[27],2017-09-06,148.645,7.2,18894,en,False
+39,Wonka,Wonka,787699,"[35, 10751, 14]",2023-12-06,148.372,7.134,3400,en,False
+40,Black Adam,Black Adam,436270,"[28, 12, 878]",2022-10-19,147.181,6.913,6199,en,False
+41,Inception,Inception,27205,"[28, 878, 12]",2010-07-15,144.005,8.4,36377,en,False
+42,World War Z,World War Z,72190,"[28, 27, 878, 53]",2013-06-19,141.432,6.818,15230,en,False
+43,Harry Potter and the Deathly Hallows: Part 2,Harry Potter and the Deathly Hallows: Part 2,12445,"[14, 12]",2011-07-12,137.152,8.1,20388,en,False
+44,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix,675,"[12, 14]",2007-07-08,134.625,7.679,19285,en,False
+45,The Dark Knight Rises,The Dark Knight Rises,49026,"[28, 80, 18, 53]",2012-07-17,133.328,7.781,22541,en,False
+46,Garfield,Garfield,8920,"[16, 35, 10751]",2004-06-10,131.632,5.718,3957,en,False
+47,The Godfather Part II,The Godfather Part II,240,"[18, 80]",1974-12-20,129.897,8.6,12340,en,False
+48,The Nun II,The Nun II,968051,[27],2023-09-06,129.736,6.768,1982,en,False
+49,A Nightmare on Elm Street,A Nightmare on Elm Street,23437,"[27, 9648, 53]",2010-04-30,129.356,5.5,2654,en,False
+50,Harry Potter and the Deathly Hallows: Part 1,Harry Potter and the Deathly Hallows: Part 1,12444,"[12, 14]",2010-11-17,128.193,7.751,18899,en,False
+51,Mission: Impossible - Fallout,Mission: Impossible - Fallout,353081,"[28, 12]",2018-07-13,127.98,7.4,8120,en,False
+52,Kingsman: The Golden Circle,Kingsman: The Golden Circle,343668,"[28, 12, 35]",2017-09-20,127.494,7.0,10239,en,False
+53,Aquaman and the Lost Kingdom,Aquaman and the Lost Kingdom,572802,"[28, 12, 14]",2023-12-20,127.183,6.681,2731,en,False
+54,The Nun,The Nun,439079,[27],2018-09-05,124.587,5.893,6592,en,False
+55,The Meg,The Meg,345940,"[28, 878, 27]",2018-08-09,124.37,6.3,7561,en,False
+56,San Andreas,San Andreas,254128,"[28, 18, 53]",2015-05-27,124.141,6.2,8454,en,False
+57,Batman Begins,Batman Begins,272,"[28, 80, 18]",2005-06-10,123.817,7.708,20793,en,False
+58,It Chapter Two,It Chapter Two,474350,"[27, 18, 14]",2019-09-04,123.5,6.846,8637,en,False
+59,The Matrix,The Matrix,603,"[28, 878]",1999-03-31,123.108,8.218,25490,en,False
+60,Space Jam,Space Jam,2300,"[10751, 16, 35, 878, 12, 14]",1996-11-15,122.741,6.823,5947,en,False
+61,Charlie and the Chocolate Factory,Charlie and the Chocolate Factory,118,"[12, 35, 10751, 14]",2005-07-13,119.703,7.05,15038,en,False
+62,Baywatch,Baywatch,339846,"[35, 28, 80]",2017-05-25,119.031,6.1,7956,en,False
+63,Annabelle Comes Home,Annabelle Comes Home,521029,[27],2019-06-26,117.839,6.4,3458,en,False
+64,Fantastic Beasts: The Secrets of Dumbledore,Fantastic Beasts: The Secrets of Dumbledore,338953,"[14, 12]",2022-04-06,115.787,6.7,4402,en,False
+65,Mad Max: Fury Road,Mad Max: Fury Road,76341,"[28, 12, 878]",2015-05-13,114.524,7.614,22457,en,False
+66,King Arthur: Legend of the Sword,King Arthur: Legend of the Sword,274857,"[28, 18, 14]",2017-05-10,112.69,6.5,5633,en,False
+67,Eyes Wide Shut,Eyes Wide Shut,345,"[18, 53, 9648]",1999-07-16,112.238,7.484,6093,en,False
+68,The Man from U.N.C.L.E.,The Man from U.N.C.L.E.,203801,"[35, 28, 12]",2015-08-13,110.013,7.1,6271,en,False
+69,The Equalizer 2,The Equalizer 2,345887,"[28, 53, 80]",2018-07-19,109.957,6.754,5274,en,False
+70,Jack Reacher: Never Go Back,Jack Reacher: Never Go Back,343611,"[28, 53]",2016-10-19,109.644,6.0,4817,en,False
+71,Braveheart,Braveheart,197,"[28, 18, 36, 10752]",1995-05-24,109.495,7.941,10037,en,False
+72,Blade Runner 2049,Blade Runner 2049,335984,"[878, 18]",2017-10-04,109.392,7.6,13508,en,False
+73,Spider-Man: Homecoming,Spider-Man: Homecoming,315635,"[28, 12, 878, 18]",2017-07-05,108.8,7.3,21605,en,False
+74,The Flash,The Flash,298618,"[12, 28, 878]",2023-06-13,108.208,6.702,4176,en,False
+75,The Shining,The Shining,694,"[27, 53]",1980-05-23,104.175,8.216,17318,en,False
+76,The Hangover Part II,The Hangover Part II,45243,[35],2011-05-25,103.249,6.483,10362,en,False
+77,Geostorm,Geostorm,274855,"[28, 878, 53]",2017-10-12,102.81,6.1,4738,en,False
+78,A Nightmare on Elm Street Part 2: Freddy's Revenge,A Nightmare on Elm Street Part 2: Freddy's Revenge,10014,[27],1985-11-01,101.583,5.8,1834,en,False
+79,2001: A Space Odyssey,2001: A Space Odyssey,62,"[878, 9648, 12]",1968-04-02,101.235,8.072,11403,en,False
+80,The Mask,The Mask,854,"[10749, 35, 80, 14]",1994-07-29,101.04,6.959,10155,en,False
+81,The Last Samurai,The Last Samurai,616,"[18, 28, 10752]",2003-12-05,100.209,7.589,6779,en,False
+82,Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse,324857,"[16, 28, 12, 878]",2018-12-06,100.164,8.4,15487,en,False
+83,The Polar Express,The Polar Express,5255,"[16, 12, 10751, 14]",2004-11-10,98.818,6.72,6195,en,False
+84,Lara Croft: Tomb Raider,Lara Croft: Tomb Raider,1995,"[12, 14, 28, 53]",2001-06-11,96.093,5.9,6004,en,False
+85,Annabelle,Annabelle,250546,[27],2014-10-02,92.945,5.8,6037,en,False
+86,Zack Snyder's Justice League,Zack Snyder's Justice League,791373,"[28, 12, 14]",2021-03-18,92.795,8.1,9911,en,False
+87,A Quiet Place,A Quiet Place,447332,"[27, 18, 878]",2018-04-03,92.709,7.403,14038,en,False
+88,Cidade de Deus,City of God,598,"[18, 80]",2002-08-30,92.147,8.425,7324,pt,False
+89,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),495764,"[28, 80]",2020-02-05,91.339,6.9,10164,en,False
+90,Suicide Squad,Suicide Squad,297761,"[28, 12, 14]",2016-08-03,90.772,5.9,20981,en,False
+91,The Exorcist,The Exorcist,9552,"[27, 18]",1973-12-26,90.256,7.735,7880,en,False
+92,Pretty Woman,Pretty Woman,114,"[10749, 35]",1990-03-23,88.353,7.466,8138,en,False
+93,Superman,Superman,1924,"[878, 28, 12]",1978-12-14,88.264,7.1,3772,en,False
+94,Grease,Grease,621,"[10749, 35]",1978-07-07,86.624,7.4,7149,en,False
+95,A Nightmare on Elm Street,A Nightmare on Elm Street,377,[27],1984-10-31,86.246,7.3,5030,en,False
+96,Star Trek Beyond,Star Trek Beyond,188927,"[28, 12, 878]",2016-07-07,85.785,6.8,6552,en,False
+97,The Hangover Part III,The Hangover Part III,109439,[35],2013-05-23,85.662,6.2,8551,en,False
+98,Friday the 13th,Friday the 13th,4488,[27],1980-05-09,85.367,6.4,2874,en,False
+99,DC League of Super-Pets,DC League of Super-Pets,539681,"[16, 28, 10751, 35, 878]",2022-07-27,84.262,7.2,1523,en,False
+100,Godzilla: King of the Monsters,Godzilla: King of the Monsters,373571,"[878, 28]",2019-05-29,83.329,6.702,6098,en,False
+101,Blue Beetle,Blue Beetle,565770,"[28, 878, 12]",2023-08-16,81.152,6.75,2553,en,False
+102,Willy Wonka & the Chocolate Factory,Willy Wonka & the Chocolate Factory,252,"[10751, 14, 35]",1971-06-29,81.121,7.493,3545,en,False
+103,Fantastic Beasts: The Crimes of Grindelwald,Fantastic Beasts: The Crimes of Grindelwald,338952,"[14, 12]",2018-11-14,80.753,6.9,10727,en,False
+104,Good Will Hunting,Good Will Hunting,489,[18],1997-12-05,79.408,8.158,12234,en,False
+105,Mad Max 2,Mad Max 2,8810,"[12, 28, 53, 878]",1981-12-24,79.192,7.395,3692,en,False
+106,Justice League,Justice League,141052,"[28, 12, 878]",2017-11-15,78.555,6.1,12848,en,False
+107,Clash of the Titans,Clash of the Titans,18823,"[12, 14, 28]",2010-03-26,76.496,5.9,6160,en,False
+108,The Lego Ninjago Movie,The Lego Ninjago Movie,274862,"[10751, 16, 28, 12, 35]",2017-09-21,76.488,6.5,1032,en,False
+109,Training Day,Training Day,2034,"[28, 80, 18]",2001-10-05,76.161,7.5,5823,en,False
+110,Full Metal Jacket,Full Metal Jacket,600,"[18, 10752]",1987-06-26,75.08,8.131,10365,en,False
+111,Man of Steel,Man of Steel,49521,"[28, 12, 878]",2013-06-12,74.311,6.627,15003,en,False
+112,Storks,Storks,332210,"[12, 16, 35, 10751]",2016-09-22,74.285,6.7,2311,en,False
+113,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,4922,"[18, 14, 10749]",2008-12-25,73.956,7.588,12653,en,False
+114,Tom and Jerry Blast Off to Mars!,Tom and Jerry Blast Off to Mars!,21078,"[16, 10751]",2005-01-18,73.545,6.5,133,en,False
+115,Troy,Troy,652,"[12, 36, 10752]",2004-05-13,73.451,7.2,10053,en,False
+116,The Godfather Part III,The Godfather Part III,242,"[80, 18, 53]",1990-12-25,73.31,7.4,6134,en,False
+117,Zodiac,Zodiac,1949,"[80, 18, 9648, 53]",2007-03-02,72.682,7.527,10376,en,False
+118,The Matrix Resurrections,The Matrix Resurrections,624860,"[878, 28, 12]",2021-12-16,72.412,6.407,5661,en,False
+119,Batman,Batman,268,"[14, 28, 80]",1989-06-21,71.815,7.2,7741,en,False
+120,Sherlock Holmes,Sherlock Holmes,10528,"[28, 12, 80, 9648]",2009-12-23,71.559,7.2,13799,en,False
+121,Horizon: An American Saga - Chapter 1,Horizon: An American Saga - Chapter 1,932086,"[37, 18]",2024-06-26,70.681,7.0,285,en,False
+122,Fantastic Beasts and Where to Find Them,Fantastic Beasts and Where to Find Them,259316,"[14, 12]",2016-11-16,70.433,7.3,18635,en,False
+123,The Matrix Reloaded,The Matrix Reloaded,604,"[12, 28, 53, 878]",2003-05-15,69.635,7.1,10862,en,False
+124,The Bodyguard,The Bodyguard,619,"[28, 18, 10749]",1992-11-25,69.619,6.692,2910,en,False
+125,I Am Legend,I Am Legend,6479,"[18, 878, 53]",2007-12-12,69.539,7.2,15574,en,False
+126,Cloverfield,Cloverfield,7191,"[28, 53, 878]",2008-01-15,69.478,6.7,6985,en,False
+127,The Wizard of Oz,The Wizard of Oz,630,"[12, 14, 10751]",1939-08-15,69.129,7.6,5474,en,False
+128,Cold Pursuit,Cold Pursuit,438650,"[28, 80, 53, 35]",2019-02-07,68.135,5.822,2544,en,False
+129,In the Heart of the Sea,In the Heart of the Sea,205775,"[53, 18, 12, 28, 36]",2015-12-03,67.855,6.8,4058,en,False
+130,The Autopsy of Jane Doe,The Autopsy of Jane Doe,397243,"[27, 9648]",2016-12-21,66.873,6.797,4184,en,False
+131,Se7en,Se7en,807,"[80, 9648, 53]",1995-09-22,66.37,8.375,20845,en,False
+132,Don't Worry Darling,Don't Worry Darling,619730,"[9648, 53]",2022-09-21,66.234,6.8,2393,en,False
+133,Me contro Te: Il film - Vacanze in Transilvania,Me contro Te: Il film - Vacanze in Transilvania,1117006,"[10751, 14]",2023-10-19,65.637,6.8,14,es,False
+134,Dark Shadows,Dark Shadows,62213,"[35, 14]",2012-05-09,65.474,6.1,7108,en,False
+135,Dolphin Tale 2,Dolphin Tale 2,227735,"[10751, 18]",2014-09-11,65.415,7.0,343,en,False
+136,The Outlaw Josey Wales,The Outlaw Josey Wales,10747,[37],1976-06-30,65.346,7.4,1125,en,False
+137,Blade,Blade,36647,"[27, 28]",1998-08-21,65.178,6.8,5945,en,False
+138,Annabelle: Creation,Annabelle: Creation,396422,[27],2017-08-03,64.238,6.6,5546,en,False
+139,GoodFellas,GoodFellas,769,"[18, 80]",1990-09-12,63.686,8.5,12771,en,False
+140,Elf,Elf,10719,"[35, 10751, 14]",2003-10-09,63.438,6.7,3976,en,False
+141,The Lego Movie 2: The Second Part,The Lego Movie 2: The Second Part,280217,"[28, 12, 16, 35, 10751]",2019-02-06,63.347,6.7,2167,en,False
+142,Top Gun,Top Gun,744,"[28, 18]",1986-05-16,63.194,7.1,8484,en,False
+143,The Hunger Games,The Hunger Games,70160,"[878, 12, 14]",2012-03-12,62.535,7.2,21800,en,False
+144,Am I OK?,Am I OK?,641934,"[35, 10749, 18]",2024-06-11,61.515,6.407,193,en,False
+145,The Last Duel,The Last Duel,617653,"[36, 18, 28]",2021-10-13,61.474,7.44,3307,en,False
+146,The Devil's Advocate,The Devil's Advocate,1813,"[18, 9648, 53, 27]",1997-10-17,61.097,7.5,5908,en,False
+147,Paddington 2,Paddington 2,346648,"[12, 35, 10751]",2017-11-09,60.129,7.5,2317,en,False
+148,Taking Chance,Taking Chance,25405,"[18, 10752, 10770]",2009-09-21,59.548,7.1,160,en,False
+149,A Clockwork Orange,A Clockwork Orange,185,"[878, 80]",1971-12-19,59.544,8.196,12744,en,False
+150,Singin' in the Rain,Singin' in the Rain,872,"[35, 10749]",1952-04-09,59.443,8.159,3101,en,False
+151,Mission: Impossible - Rogue Nation,Mission: Impossible - Rogue Nation,177677,"[28, 12]",2015-07-23,58.687,7.207,8730,en,False
+152,Interview with the Vampire,Interview with the Vampire,628,"[27, 18, 14]",1994-11-11,56.907,7.384,5770,en,False
+153,The Witches of Eastwick,The Witches of Eastwick,6069,"[35, 14, 27]",1987-06-12,56.834,6.5,1371,en,False
+154,The Matrix Revolutions,The Matrix Revolutions,605,"[12, 28, 53, 878]",2003-11-05,56.771,6.7,9789,en,False
+155,余命10年,The Last 10 Years,876797,"[18, 10749]",2022-03-04,56.63,6.9,88,ja,False
+156,Scooby-Doo! and the Monster of Mexico,Scooby-Doo! and the Monster of Mexico,21956,"[16, 35, 10751, 9648]",2003-09-30,55.56,7.3,313,en,False
+157,The Father,The Father,600354,[18],2020-12-23,55.262,8.123,3145,en,False
+158,Sicario: Day of the Soldado,Sicario: Day of the Soldado,400535,"[28, 80, 53]",2018-06-27,54.646,6.9,3525,en,False
+159,Blade Runner,Blade Runner,78,"[878, 18, 53]",1982-06-25,53.832,7.9,13664,en,False
+160,Gremlins,Gremlins,927,"[14, 27, 35]",1984-06-08,53.63,7.114,6257,en,False
+161,Lara Croft: Tomb Raider - The Cradle of Life,Lara Croft: Tomb Raider - The Cradle of Life,1996,"[28, 12, 14, 53]",2003-07-21,53.098,5.746,4151,en,False
+162,Horrible Bosses,Horrible Bosses,51540,"[35, 80]",2011-07-08,52.895,6.574,6277,en,False
+163,Evil Dead,Evil Dead,109428,[27],2013-04-05,52.746,6.552,4553,en,False
+164,Mission: Impossible - Ghost Protocol,Mission: Impossible - Ghost Protocol,56292,"[28, 53, 12]",2011-12-07,51.921,7.1,9779,en,False
+165,Steven Universe: The Movie,Steven Universe: The Movie,537061,"[10770, 16, 12, 35, 14, 10402]",2019-10-07,51.764,8.171,773,en,False
+166,Magnum Force,Magnum Force,10648,"[18, 80, 28]",1973-12-13,51.645,7.1,1042,en,False
+167,Looney Tunes: Back in Action,Looney Tunes: Back in Action,10715,"[16, 35, 10751]",2003-11-14,51.435,6.357,1485,en,False
+168,Godzilla vs. Kong,Godzilla vs. Kong,399566,"[28, 878, 12]",2021-03-24,51.199,7.6,9909,en,False
+169,Kong: Skull Island,Kong: Skull Island,293167,"[28, 12, 14]",2017-03-08,51.089,6.5,10356,en,False
+170,Once Upon a Time... in Hollywood,Once Upon a Time... in Hollywood,466272,"[35, 18, 53]",2019-07-24,50.94,7.4,13299,en,False
+171,Scooby-Doo,Scooby-Doo,9637,"[9648, 12, 35]",2002-06-14,50.018,6.089,4388,en,False
+172,Wonder Woman,Wonder Woman,297762,"[28, 12, 14]",2017-05-30,49.637,7.2,19805,en,False
+173,The Lego Batman Movie,The Lego Batman Movie,324849,"[16, 28, 35, 10751]",2017-02-08,49.511,7.2,4938,en,False
+174,Batman & Robin,Batman & Robin,415,"[28, 878, 12]",1997-06-20,49.295,4.4,4946,en,False
+175,Superman II,Superman II,8536,"[878, 28, 12]",1980-12-12,48.909,6.7,2224,en,False
+176,Ocean's Eleven,Ocean's Eleven,161,"[53, 80]",2001-12-07,48.548,7.4,11476,en,False
+177,The Dead Pool,The Dead Pool,10651,"[28, 80, 53]",1988-07-13,48.504,6.261,823,en,False
+178,Aquaman,Aquaman,297802,"[28, 12, 14]",2018-12-07,48.419,6.888,13939,en,False
+179,Ben 10 vs. the Universe: The Movie,Ben 10 vs. the Universe: The Movie,724475,"[16, 28, 12, 878]",2020-10-02,48.014,7.5,119,en,False
+180,Godzilla,Godzilla,124905,"[28, 18, 878]",2014-05-14,47.627,6.339,9038,en,False
+181,A Star Is Born,A Star Is Born,332562,"[10402, 18, 10749]",2018-10-03,47.139,7.5,11557,en,False
+182,Ocean's Eight,Ocean's Eight,402900,"[80, 35, 28]",2018-06-07,46.843,6.984,8217,en,False
+183,Wonder Woman 1984,Wonder Woman 1984,464052,"[28, 12, 14]",2020-12-16,45.66,6.4,8359,en,False
+184,The Prestige,The Prestige,1124,"[18, 9648, 878]",2006-10-17,45.425,8.2,15893,en,False
+185,Edge of Tomorrow,Edge of Tomorrow,137113,"[28, 878]",2014-05-27,45.135,7.623,13705,en,False
+186,Green Lantern,Green Lantern,44912,"[12, 28, 53, 878]",2011-06-14,45.04,5.2,7155,en,False
+187,Gremlins 2: The New Batch,Gremlins 2: The New Batch,928,"[35, 27, 14]",1990-06-15,45.0,6.5,2530,en,False
+188,Sex and the City,Sex and the City,4564,"[35, 18, 10749]",2008-05-12,44.583,6.6,2099,en,False
+189,Space Jam: A New Legacy,Space Jam: A New Legacy,379686,"[10751, 16, 35, 878]",2021-07-08,44.511,6.7,3985,en,False
+190,The Boogeyman,The Boogeyman,532408,"[27, 53, 9648]",2023-05-31,43.846,6.423,847,en,False
+191,Mission: Impossible,Mission: Impossible,954,"[12, 28, 53]",1996-05-22,43.75,6.99,8792,en,False
+192,We're the Millers,We're the Millers,138832,"[35, 80]",2013-08-07,43.708,6.8,8798,en,False
+193,Happy Feet,Happy Feet,9836,"[16, 35, 10751]",2006-11-16,43.618,6.19,5028,en,False
+194,Scooby-Doo! in Where's My Mummy?,Scooby-Doo! in Where's My Mummy?,20558,"[9648, 16, 10751, 12, 35, 14]",2005-05-13,43.478,7.4,391,en,False
+195,King Richard,King Richard,614917,"[18, 36]",2021-11-18,43.212,7.7,2425,en,False
+196,V for Vendetta,V for Vendetta,752,"[28, 53, 878]",2006-02-23,43.205,7.897,14338,en,False
+197,A Nightmare on Elm Street 4: The Dream Master,A Nightmare on Elm Street 4: The Dream Master,10131,"[27, 53]",1988-08-19,43.114,5.9,1395,en,False
+198,Gravity,Gravity,49047,"[878, 53, 18]",2013-10-03,42.927,7.2,15190,en,False
+199,The Lego Movie,The Lego Movie,137106,"[16, 10751, 12, 35, 14]",2014-02-06,42.908,7.418,7754,en,False
+200,The Social Network,The Social Network,37799,[18],2010-10-01,42.797,7.4,11955,en,False
+201,Batman Returns,Batman Returns,364,"[28, 14]",1992-06-19,42.281,6.928,6426,en,False
+202,Tom & Jerry,Tom & Jerry,587807,"[35, 10751, 16]",2021-02-10,42.194,6.8,2425,en,False
+203,Jupiter Ascending,Jupiter Ascending,76757,"[878, 14, 28]",2015-02-04,42.138,5.456,6686,en,False
+204,The Many Saints of Newark,The Many Saints of Newark,524369,"[80, 18]",2021-09-22,42.014,6.3,651,en,False
+205,Grand Piano,Grand Piano,220286,"[53, 9648]",2013-10-11,41.888,6.0,495,en,False
+206,Frequently Asked Questions About Time Travel,Frequently Asked Questions About Time Travel,22494,"[35, 18, 10749, 878]",2009-04-24,41.312,6.9,581,en,False
+207,Unforgiven,Unforgiven,33,[37],1992-08-07,40.794,7.9,4349,en,False
+208,Tenet,Tenet,577922,"[28, 53, 878]",2020-08-22,40.666,7.2,9757,en,False
+209,Money Electric: The Bitcoin Mystery,Money Electric: The Bitcoin Mystery,1365712,"[99, 9648]",2024-10-08,40.502,7.0,7,en,False
+210,The Enforcer,The Enforcer,10649,"[80, 28]",1976-12-16,40.204,6.7,861,en,False
+211,Doctor Sleep,Doctor Sleep,501170,"[27, 53, 14]",2019-10-30,39.259,7.2,4340,en,False
+212,Gone with the Wind,Gone with the Wind,770,"[18, 10752, 10749]",1939-03-12,39.013,7.944,3980,en,False
+213,Mortal Kombat,Mortal Kombat,460465,"[28, 14, 12]",2021-04-07,38.438,7.0,5769,en,False
+214,Mission: Impossible III,Mission: Impossible III,956,"[12, 28, 53]",2006-04-25,37.936,6.74,6705,en,False
+215,Boogie Nights,Boogie Nights,4995,[18],1997-10-10,37.785,7.642,3104,en,False
+216,Fantasy Island,Fantasy Island,539537,"[12, 14, 27, 9648]",2020-02-12,37.576,5.802,2423,en,False
+217,Ocean's Twelve,Ocean's Twelve,163,"[53, 80]",2004-12-09,37.087,6.569,7176,en,False
+218,Mad Max,Mad Max,9659,"[12, 28, 53, 878]",1979-04-12,37.072,6.688,4393,en,False
+219,Craig Before the Creek,Craig Before the Creek,928833,"[16, 10751, 10770, 12, 35, 14]",2023-12-11,36.952,7.7,55,en,False
+220,Sully,Sully,363676,"[18, 36]",2016-09-07,36.937,7.2,7090,en,False
+221,Batman Forever,Batman Forever,414,"[28, 80, 14]",1995-06-16,36.93,5.4,5098,en,False
+222,Inherent Vice,Inherent Vice,171274,"[18, 9648, 35]",2014-12-12,36.896,6.56,2455,en,False
+223,Ghost in the Shell,Ghost in the Shell,315837,"[878, 18, 28]",2017-03-29,36.728,6.1,7923,en,False
+224,Magic Mike's Last Dance,Magic Mike's Last Dance,906221,"[35, 18, 10749]",2023-02-09,36.642,6.633,460,en,False
+225,The Mule,The Mule,504172,"[80, 18]",2018-12-14,36.268,6.847,4890,en,False
+226,Mission: Impossible II,Mission: Impossible II,955,"[12, 28, 53]",2000-05-24,35.866,6.128,6650,en,False
+227,A Nightmare on Elm Street: The Dream Child,A Nightmare on Elm Street: The Dream Child,10160,"[27, 53]",1989-08-11,35.785,5.4,1240,en,False
+228,Emma és Eddie: A képen kívül,Emma and Eddie: A Working Couple,1268818,"[99, 18]",2024-04-25,35.587,5.647,17,en,False
+229,Casablanca,Casablanca,289,"[18, 10749]",1943-01-15,34.78,8.2,5375,en,False
+230,Before Sunrise,Before Sunrise,76,"[18, 10749]",1995-01-27,33.148,7.97,4082,en,False
+231,The Immortal Life of Henrietta Lacks,The Immortal Life of Henrietta Lacks,424600,"[18, 10770]",2017-04-22,33.031,6.5,95,en,False
+232,Momias,Mummies,816904,"[16, 12, 14]",2023-01-05,32.645,7.0,454,es,False
+233,The Witches,The Witches,10166,"[14, 10751, 27]",1990-05-25,32.402,6.9,1230,en,False
+234,Dangerous Liaisons,Dangerous Liaisons,859,"[18, 10749]",1988-12-21,32.03,7.201,1138,en,False
+235,Escape Room: Tournament of Champions,Escape Room: Tournament of Champions,585216,"[27, 53, 9648]",2021-07-01,32.006,6.55,1977,en,False
+236,Mars Attacks!,Mars Attacks!,75,"[35, 14, 878]",1996-12-13,31.873,6.408,5347,en,False
+237,L'Immortale,The Immortal,599845,"[80, 18, 53]",2019-12-05,31.482,6.648,464,it,False
+238,El juego de las llaves,The Key Game,901908,[35],2022-04-13,31.347,5.9,60,es,False
+239,The Legend of Tarzan,The Legend of Tarzan,258489,"[14, 28, 12]",2016-06-29,31.224,5.9,6162,en,False
+240,The Fallout,The Fallout,795514,[18],2021-03-17,31.07,7.613,1085,en,False
+241,Men in Black: International,Men in Black: International,479455,"[35, 878, 28]",2019-06-12,31.052,5.915,4844,en,False
+242,Gemini Man,Gemini Man,453405,"[878, 28, 12, 53]",2019-10-02,31.05,6.3,5060,en,False
+243,The Assassination of Jesse James by the Coward Robert Ford,The Assassination of Jesse James by the Coward Robert Ford,4512,"[18, 37]",2007-09-20,30.974,7.0,2454,en,False
+244,The Goonies,The Goonies,9340,"[12, 35, 10751]",1985-06-07,30.926,7.5,5634,en,False
+245,Sudden Impact,Sudden Impact,10650,"[53, 80, 28]",1983-12-08,30.575,6.5,875,en,False
+246,Scooby-Doo! and the Loch Ness Monster,Scooby-Doo! and the Loch Ness Monster,12902,"[10751, 12, 16, 35, 14, 9648]",2004-05-20,30.476,7.3,413,en,False
+247,Happy Feet Two,Happy Feet Two,65759,"[16, 35, 10751]",2011-11-17,30.342,6.1,1573,en,False
+248,Pan,Pan,266647,"[14, 12, 10751, 28]",2015-09-24,29.812,6.0,2701,en,False
+249,The Color Purple,The Color Purple,873,"[18, 36]",1985-12-18,29.732,7.754,1755,en,False
+250,Dolores Claiborne,Dolores Claiborne,11929,"[80, 18, 9648]",1995-03-24,29.61,7.2,748,en,False
+251,Dunkirk,Dunkirk,374720,"[10752, 28, 18]",2017-07-19,29.419,7.456,16344,en,False
+252,The Left Handed Gun,The Left Handed Gun,42402,[37],1958-05-07,29.274,6.0,101,en,False
+253,Sherlock Holmes: A Game of Shadows,Sherlock Holmes: A Game of Shadows,58574,"[12, 28, 80, 9648]",2011-11-22,29.02,7.1,10217,en,False
+254,Sex and the City 2,Sex and the City 2,37786,"[35, 18, 10749]",2010-05-26,29.006,6.1,1609,en,False
+255,Garfield: A Tail of Two Kitties,Garfield: A Tail of Two Kitties,9513,"[16, 35, 10751, 12, 18, 14]",2006-06-15,28.89,5.6,2162,en,False
+256,Superman Returns,Superman Returns,1452,"[878, 28, 12]",2006-06-28,28.749,5.77,4133,en,False
+257,As Neves,As Neves,1172611,[18],2024-05-10,28.415,6.2,2,gl,False
+258,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,817,"[12, 35, 80, 878]",1999-06-08,28.079,6.3,3273,en,False
+259,The Great Gatsby,The Great Gatsby,64682,"[18, 10749]",2013-05-09,27.953,7.4,12123,en,False
+260,Crazy Rich Asians,Crazy Rich Asians,455207,"[35, 10749]",2018-08-15,27.716,7.1,3593,en,False
+261,Hostile Waters,Hostile Waters,2131,"[10770, 18, 53, 10752]",1997-10-18,27.282,5.7,23,en,False
+262,Kon-Tiki,Kon-Tiki,70667,"[12, 36]",2012-08-24,27.264,6.917,738,no,False
+263,La niña de la comunión,The Communion Girl,1008005,[27],2023-02-09,27.1,6.0,220,es,False
+264,The Bridges of Madison County,The Bridges of Madison County,688,"[18, 10749]",1995-06-02,26.88,7.7,2114,en,False
+265,Game of Thrones: The Last Watch,Game of Thrones: The Last Watch,591278,[99],2019-05-26,26.872,7.1,323,en,False
+266,The Accountant,The Accountant,302946,"[80, 53, 18]",2016-10-13,26.739,7.1,6070,en,False
+267,Paddington,Paddington,116149,"[35, 12, 10751]",2014-11-24,26.668,7.09,3646,en,False
+268,Mystic River,Mystic River,322,"[53, 80, 18, 9648]",2003-10-07,26.449,7.742,6563,en,False
+269,Deadwood: The Movie,Deadwood: The Movie,538225,"[37, 18]",2019-05-31,26.446,6.749,372,en,False
+270,Elephant,Elephant,1807,"[80, 18]",2003-09-20,26.263,7.1,1869,en,False
+271,Lethal Weapon 2,Lethal Weapon 2,942,"[28, 12, 35, 80, 53]",1989-07-07,26.238,7.0,3331,en,False
+272,Scooby-Doo! Camp Scare,Scooby-Doo! Camp Scare,45752,"[16, 35, 10751, 9648]",2010-09-14,25.831,7.868,295,en,False
+273,Lethal Weapon,Lethal Weapon,941,"[12, 28, 35, 53, 80]",1987-03-06,25.709,7.3,4486,en,False
+274,Erin Brockovich,Erin Brockovich,462,[18],2000-03-17,25.642,7.44,3136,en,False
+275,Mad Max Beyond Thunderdome,Mad Max Beyond Thunderdome,9355,"[28, 12, 878]",1985-06-29,25.264,6.221,2881,en,False
+276,Yogi Bear,Yogi Bear,41515,"[35, 10751, 16, 12]",2010-12-17,25.19,5.568,864,en,False
+277,Stopping the Steal,Stopping the Steal,1352173,[99],2024-09-17,25.108,7.375,8,en,False
+278,Elijo creer,I Choose to Believe,1192578,[99],2023-12-07,25.025,7.612,85,es,False
+279,A Nightmare on Elm Street 3: Dream Warriors,A Nightmare on Elm Street 3: Dream Warriors,10072,"[27, 53, 14]",1987-02-27,24.909,6.7,1742,en,False
+280,Mike Tyson: Undisputed Truth,Mike Tyson: Undisputed Truth,210041,"[35, 18, 99, 10770]",2013-12-01,24.851,7.1,49,en,False
+281,Turtles All the Way Down,Turtles All the Way Down,574451,"[18, 10749]",2024-04-27,24.656,7.6,116,en,False
+282,Smallfoot,Smallfoot,446894,"[10751, 16, 12, 14, 35]",2018-09-20,24.325,6.782,1492,en,False
+283,Mother's Day,Mother's Day,353069,"[35, 18, 10749]",2016-04-28,24.195,6.0,1253,en,False
+284,Ocean's Thirteen,Ocean's Thirteen,298,"[80, 53]",2007-06-05,24.143,6.727,6254,en,False
+285,Lethal Weapon 4,Lethal Weapon 4,944,"[28, 12, 35, 80, 53]",1998-07-10,24.133,6.6,2597,en,False
+286,Lethal Weapon 3,Lethal Weapon 3,943,"[12, 28, 35, 53, 80]",1992-05-15,23.746,6.7,2856,en,False
+287,The Color Purple,The Color Purple,558915,[18],2023-12-25,23.622,7.1,252,en,False
+288,The Kill Team,The Kill Team,489245,"[10752, 28, 18]",2019-10-17,23.45,6.5,384,en,False
+289,Scooby-Doo! Stage Fright,Scooby-Doo! Stage Fright,203696,"[10751, 12, 16, 35, 9648]",2013-08-10,23.388,7.6,211,en,False
+290,Dirty Harry,Dirty Harry,984,"[28, 80, 53]",1971-12-23,23.033,7.5,2412,en,False
+291,The Wizard of Lies,The Wizard of Lies,363992,"[80, 18, 36, 53, 10770]",2017-05-11,22.954,6.6,561,en,False
+292,We Bare Bears: The Movie,We Bare Bears: The Movie,677638,"[16, 12, 10751, 35, 10770]",2020-06-30,22.925,7.8,805,en,False
+293,Batman: Mask of the Phantasm,Batman: Mask of the Phantasm,14919,"[28, 16, 80, 9648, 18]",1993-12-25,22.803,7.469,1084,en,False
+294,Albert Brooks: Defending My Life,Albert Brooks: Defending My Life,1184849,[99],2023-11-12,22.472,7.8,15,en,False
+295,Godzilla,Godzilla,929,"[878, 28, 53]",1998-05-20,22.433,5.6,3848,en,False
+296,The Stroll,The Stroll,1058623,[99],2023-01-23,22.431,6.8,18,en,False
+297,David Holmes: The Boy Who Lived,David Holmes: The Boy Who Lived,1190725,[99],2023-11-13,22.336,7.5,42,en,False
+298,Kimi,Kimi,800510,"[53, 9648, 80]",2022-02-10,22.167,6.221,853,en,False
+299,Scoob!,Scoob!,385103,"[16, 35, 10751, 9648]",2020-07-08,22.063,7.1,1677,en,False
+300,Temple Grandin,Temple Grandin,33602,"[18, 36]",2010-02-06,22.02,7.7,439,en,False
+301,Verdens verste menneske,The Worst Person in the World,660120,"[18, 10749, 35]",2021-10-13,21.704,7.5,1320,no,False
+302,Aloha Scooby-Doo!,Aloha Scooby-Doo!,24615,"[9648, 10751, 16, 12, 35]",2005-02-08,21.667,7.1,426,en,False
+303,As You Like It,As You Like It,19103,"[35, 18, 10749]",2006-09-01,21.541,5.7,84,en,False
+304,Superman IV: The Quest for Peace,Superman IV: The Quest for Peace,11411,"[28, 12, 878]",1987-07-24,21.494,4.558,1225,en,False
+305,Little Nicky,Little Nicky,9678,"[35, 14]",2000-11-10,21.437,5.862,1782,en,False
+306,Catwoman,Catwoman,314,"[28, 14, 80]",2004-07-22,21.124,4.603,3278,en,False
+307,Superman III,Superman III,9531,"[35, 878, 28, 12]",1983-06-17,21.116,5.493,1661,en,False
+308,Wyatt Earp,Wyatt Earp,12160,"[37, 18, 28, 12]",1994-06-24,20.95,6.8,831,en,False
+309,Elizabeth Taylor: The Lost Tapes,Elizabeth Taylor: The Lost Tapes,1279112,[99],2024-05-16,20.869,7.2,4,en,False
+310,Rendel: Cycle of Revenge,Rendel: Cycle of Revenge,547475,[28],2024-06-28,20.565,4.5,12,en,False
+311,Jerry Maguire,Jerry Maguire,9390,"[35, 18, 10749]",1996-12-13,20.553,6.966,3235,en,False
+312,Austin Powers in Goldmember,Austin Powers in Goldmember,818,"[35, 80, 878]",2002-07-26,20.206,6.0,3074,en,False
+313,Druk,Another Round,580175,"[35, 18]",2020-09-24,19.918,7.642,3203,da,False
+314,El Diablo,El Diablo,71143,"[37, 35, 10770]",1990-07-22,19.8,5.5,27,en,False
+315,Father of the Bride,Father of the Bride,746419,"[10749, 35, 18]",2022-07-21,19.698,6.406,165,en,False
+316,Excellent Cadavers,Excellent Cadavers,19189,"[18, 53, 36, 10770, 80]",1999-10-16,19.268,6.0,20,en,False
+317,The Tale,The Tale,369523,"[18, 9648]",2018-01-20,18.929,7.1,422,en,False
+318,Gran Torino,Gran Torino,13223,[18],2008-12-12,18.822,7.991,10603,en,False
+319,Before Sunset,Before Sunset,80,"[18, 10749]",2004-06-16,18.747,7.818,3329,en,False
+320,Teen Titans Go! To the Movies,Teen Titans Go! To the Movies,474395,"[16, 28, 35, 878]",2018-07-27,18.52,7.2,1097,en,False
+321,Vendetta,Vendetta,105462,"[18, 10770]",1999-09-12,18.42,6.4,14,en,False
+322,I Am Bolt,I Am Bolt,422469,[99],2016-11-28,18.387,7.1,99,en,False
+323,Cast a Deadly Spell,Cast a Deadly Spell,52660,"[10770, 9648, 35, 27, 14]",1991-09-07,18.269,6.0,105,en,False
+324,Call Me Miss Cleo,Call Me Miss Cleo,1055854,[99],2022-12-15,17.894,6.1,7,en,False
+325,No Sudden Move,No Sudden Move,649409,"[80, 53]",2021-06-24,17.885,6.4,674,en,False
+326,Motherless Brooklyn,Motherless Brooklyn,504562,"[18, 53]",2019-10-31,17.647,6.706,1417,en,False
+327,Behind the Candelabra,Behind the Candelabra,119675,"[18, 10749]",2013-05-26,17.459,6.6,764,en,False
+328,And Starring Pancho Villa as Himself,And Starring Pancho Villa as Himself,24241,"[18, 36, 10752, 37, 10770]",2003-09-07,17.395,7.0,83,en,False
+329,"Love to Love You, Donna Summer","Love to Love You, Donna Summer",1055378,"[99, 10402]",2023-02-21,17.345,7.3,12,en,False
+330,Gia,Gia,14533,"[10749, 18]",1998-01-31,17.241,7.109,723,en,False
+331,Red Lights,Red Lights,75638,[53],2012-03-02,17.096,6.2,1230,en,False
+332,Tre di troppo,Tre di troppo,870098,"[35, 14, 10751]",2023-01-01,17.081,6.508,130,it,False
+333,You Were My First Boyfriend,You Were My First Boyfriend,1072905,"[99, 18]",2024-03-01,17.003,8.0,2,en,False
+334,Eine Million Minuten,A Million Minutes,1162321,"[18, 10751]",2024-02-01,16.998,6.7,24,de,False
+335,Life Itself,Life Itself,446696,"[18, 10749]",2018-09-21,16.941,7.227,540,en,False
+336,Cry Macho,Cry Macho,749274,[18],2021-09-16,16.867,5.954,990,en,False
+337,Becoming Warren Buffett,Becoming Warren Buffett,438137,[99],2017-01-30,16.733,7.2,63,en,False
+338,The Postman,The Postman,9922,"[878, 12, 28]",1997-12-25,16.627,6.2,1053,en,False
+339,Scream: The True Story,Scream: The True Story,927569,[99],2022-01-14,16.612,7.2,6,en,False
+340,Scooby-Doo! and the Legend of the Vampire,Scooby-Doo! and the Legend of the Vampire,30074,"[10751, 16, 35, 14, 10402, 9648]",2003-03-04,16.588,7.1,311,en,False
+341,Argo,Argo,68734,"[18, 53]",2012-10-11,16.542,7.278,8188,en,False
+342,LEGO Scooby-Doo! Knight Time Terror,LEGO Scooby-Doo! Knight Time Terror,370086,"[9648, 16, 10751, 35]",2015-11-25,16.481,8.1,75,en,False
+343,Let Them All Talk,Let Them All Talk,623856,"[35, 18]",2020-12-10,16.25,5.7,245,en,False
+344,An American Bombing: The Road to April 19th,An American Bombing: The Road to April 19th,1263371,[99],2024-04-16,15.951,7.1,8,en,False
+345,American Splendor,American Splendor,2771,"[35, 18]",2003-08-15,15.87,7.2,460,en,False
+346,Grey Gardens,Grey Gardens,19851,"[36, 18, 10770]",2009-06-21,15.75,6.9,137,en,False
+347,Overdrive,Overdrive,404733,"[53, 28, 9648]",2017-06-16,15.655,6.1,926,en,False
+348,A todo tren 2: Ahora son ellas,The Kids Are Alright 2,892068,"[35, 10751]",2022-12-02,15.435,6.3,45,es,False
+349,Sherlock: The Abominable Bride,Sherlock: The Abominable Bride,379170,"[80, 18, 9648]",2016-01-01,15.111,7.847,2229,en,False
+350,You Don't Know Jack,You Don't Know Jack,36950,"[18, 10770]",2010-06-27,14.813,7.1,376,en,False
+351,Me contro Te: Il film - Missione giungla,Me contro Te: Il film - Missione giungla,955659,"[10751, 14]",2023-01-19,14.777,8.2,9,it,False
+352,Phil Spector,Phil Spector,173153,"[18, 10770]",2013-06-14,14.692,5.7,123,en,False
+353,Juice WRLD: Into the Abyss,Juice WRLD: Into the Abyss,888491,"[99, 10402]",2021-11-12,14.494,8.3,14,en,False
+354,The Laramie Project,The Laramie Project,19448,"[80, 18, 10770]",2002-01-10,14.332,6.4,50,en,False
+355,La mujer dormida,The Sleeping Woman,1235926,"[53, 27, 14]",2024-05-31,14.205,7.5,11,es,False
+356,Colectiv,Collective,618363,[99],2019-02-13,14.162,7.6,161,ro,False
+357,Ben 10: Alien X-Tinction,Ben 10: Alien X-Tinction,882878,[16],2021-04-11,14.092,3.9,8,en,False
+358,Before Midnight,Before Midnight,132344,"[10749, 18]",2013-04-05,13.975,7.515,2353,en,False
+359,Stuart: A Life Backwards,Stuart: A Life Backwards,50032,"[18, 10770]",2007-09-23,13.825,7.4,182,en,False
+360,Cast a Deadly Spell,Cast a Deadly Spell,52660,"[10770, 9648, 35, 27, 14]",1991-09-07,18.269,6.0,105,en,False
+361,Life Itself,Life Itself,446696,"[18, 10749]",2018-09-21,16.941,7.227,540,en,False
+362,Motherless Brooklyn,Motherless Brooklyn,504562,"[18, 53]",2019-10-31,17.647,6.706,1417,en,False
+363,Behind the Candelabra,Behind the Candelabra,119675,"[18, 10749]",2013-05-26,17.459,6.6,764,en,False
+364,"Love to Love You, Donna Summer","Love to Love You, Donna Summer",1055378,"[99, 10402]",2023-02-21,17.345,7.3,12,en,False
+365,Loreak,Flowers,260313,[18],2014-10-10,7.409,6.9,56,eu,False
+366,Cry Macho,Cry Macho,749274,[18],2021-09-16,16.867,5.954,989,en,False
+367,Red Lights,Red Lights,75638,[53],2012-03-02,17.096,6.2,1230,en,False
+368,Hemingway & Gellhorn,Hemingway & Gellhorn,111839,"[18, 10749]",2012-08-27,13.342,6.1,173,en,False
+369,The Owners,The Owners,659986,"[27, 9648, 53]",2020-08-27,8.841,5.6,380,en,False
+370,You Were My First Boyfriend,You Were My First Boyfriend,1072905,"[99, 18]",2024-03-01,17.003,8.0,2,en,False
+371,Becoming Warren Buffett,Becoming Warren Buffett,438137,[99],2017-01-30,16.733,7.2,63,en,False
+372,Scream: The True Story,Scream: The True Story,927569,[99],2022-01-14,16.612,7.2,6,en,False
+373,LEGO Scooby-Doo! Knight Time Terror,LEGO Scooby-Doo! Knight Time Terror,370086,"[9648, 16, 10751, 35]",2015-11-25,16.481,8.1,75,en,False
+374,The Enemy Within,The Enemy Within,59121,"[53, 18, 10770]",1994-08-24,7.05,5.6,32,en,False
+375,Let Them All Talk,Let Them All Talk,623856,"[35, 18]",2020-12-10,16.25,5.7,245,en,False
+376,The Venture Bros.: Radiant Is the Blood of the Baboon Heart,The Venture Bros.: Radiant Is the Blood of the Baboon Heart,828898,"[16, 28, 12, 878]",2023-07-21,13.643,7.3,71,en,False
+377,American Splendor,American Splendor,2771,"[35, 18]",2003-08-15,15.87,7.2,460,en,False
+378,Senna,Senna,58496,[99],2010-10-07,12.691,8.115,1017,en,False
+379,Grey Gardens,Grey Gardens,19851,"[36, 18, 10770]",2009-06-21,15.75,6.9,137,en,False
+380,The Perfect Weapon,The Perfect Weapon,728209,"[99, 80]",2020-10-16,11.703,6.8,20,en,False
+381,Unpregnant,Unpregnant,632666,"[18, 35]",2020-09-10,11.619,7.047,287,en,False
+382,Mamá o papá,You Keep the Kids,755437,"[35, 10751]",2021-12-17,11.316,7.2,187,es,False
+383,"Crazy, Not Insane","Crazy, Not Insane",682589,[99],2020-03-18,11.281,7.4,68,en,False
+384,Game Change,Game Change,91010,"[10770, 18, 35, 36]",2012-02-28,11.257,6.9,307,en,False
+385,Strip Search,Strip Search,41847,"[18, 10770]",2004-04-27,11.243,6.2,38,en,False
+386,The Normal Heart,The Normal Heart,113833,[18],2014-05-25,11.19,7.8,866,en,False
+387,Brandy Hellville & the Cult of Fast Fashion,Brandy Hellville & the Cult of Fast Fashion,1242388,[99],2024-03-11,11.143,5.8,10,en,False
+388,La librería,The Bookshop,444539,[18],2017-11-10,11.012,6.502,422,en,False
+389,Tom and Jerry: The Magic Ring,Tom and Jerry: The Magic Ring,14787,"[16, 35, 10751, 14]",2002-03-12,10.993,6.4,247,en,False
+390,Joe's Palace,Joe's Palace,43741,[18],2007-11-04,10.984,6.1,16,en,False
+391,映画ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～,Doraemon: Nobita and the Island of Miracles – Animal Adventure,160642,"[10751, 16, 12]",2012-03-03,10.968,6.9,66,ja,False
+392,Wunderschön,Wunderschön,750466,"[18, 35, 10749]",2022-02-03,10.863,7.3,87,de,False
+393,The Gallows,The Gallows,299245,"[27, 53]",2015-07-09,10.727,5.0,920,en,False
+394,Muhammad Ali's Greatest Fight,Muhammad Ali's Greatest Fight,196355,"[18, 10770]",2013-10-04,10.605,6.4,36,en,False
+395,When Trumpets Fade,When Trumpets Fade,13935,"[18, 10752, 10770]",1998-06-27,10.55,6.6,127,en,False
+396,Fahrenheit 451,Fahrenheit 451,401905,"[18, 878, 53]",2018-05-12,10.519,5.421,837,en,False
+397,Metalocalypse: Army of the Doomstar,Metalocalypse: Army of the Doomstar,828899,"[16, 35, 10402]",2023-08-22,10.492,6.8,49,en,False
+398,Quad Gods,Quad Gods,1275790,[99],2024-06-07,10.378,8.0,1,en,False
+399,An American Girl: Chrissa Stands Strong,An American Girl: Chrissa Stands Strong,18182,"[18, 10751]",2009-01-05,10.29,6.5,37,en,False
+400,Citizen X,Citizen X,12554,"[80, 18]",1995-02-25,10.247,7.2,321,en,False
+401,A Dog Year,A Dog Year,41496,"[35, 18, 10770]",2009-09-03,10.208,6.2,73,en,False
+402,Las niñas,Schoolgirls,619443,[18],2020-09-04,10.118,6.605,110,es,False
+403,Bessie,Bessie,330544,"[18, 10402, 10770]",2015-05-16,10.093,6.4,111,en,False
+404,Bama Rush,Bama Rush,1053722,[99],2023-05-23,10.055,4.0,12,en,False
+405,Sugar,Sugar,17003,[18],2008-04-03,9.962,6.5,57,en,False
+406,"Ben 10: Ben 10,010","Ben 10: Ben 10,010",834802,"[16, 28]",2021-04-02,9.939,6.2,83,en,False
+407,The Jack Bull,The Jack Bull,16331,"[37, 10770]",1999-04-17,9.904,6.4,83,en,False
+408,Navalny,Navalny,926676,[99],2022-04-08,9.717,7.258,217,en,False
+409,Time Bomb Y2K,Time Bomb Y2K,1088233,[99],2023-03-03,9.694,5.8,17,en,False
+410,The Second Civil War,The Second Civil War,45046,"[18, 35, 10770, 10752]",1997-12-04,9.68,6.3,39,en,False
+411,Bury My Heart at Wounded Knee,Bury My Heart at Wounded Knee,13470,"[37, 18, 36, 10770]",2007-05-27,9.626,6.5,110,en,False
+412,Stand Up & Shout: Songs from a Philly High School,Stand Up & Shout: Songs from a Philly High School,1189028,[99],2023-10-20,9.563,10.0,1,en,False
+413,Embarazados,We Are Pregnant,336435,"[35, 18, 10749]",2016-01-29,9.548,5.3,97,es,False
+414,Conspiracy,Conspiracy,12900,"[36, 18, 10752, 10770]",2001-05-19,9.494,7.3,394,en,False
+415,The Last Outlaw,The Last Outlaw,20333,"[10770, 28, 37]",1993-10-30,9.481,5.2,51,en,False
+416,La naranja prohibida,A Forbidden Orange,888492,"[99, 36]",2021-10-23,9.394,5.0,11,es,False
+417,John McCain: For Whom the Bell Tolls,John McCain: For Whom the Bell Tolls,525949,[99],2018-05-28,9.384,6.8,13,en,False
+418,The Ringleader: The Case of the Bling Ring,The Ringleader: The Case of the Bling Ring,1181623,"[99, 80]",2023-10-01,9.328,7.0,3,en,False
+419,Bernard and Doris,Bernard and Doris,38163,"[35, 18, 10770]",2006-09-01,9.281,6.0,84,en,False
+420,8-Bit Christmas,8-Bit Christmas,802217,"[10751, 35, 14]",2021-11-24,9.216,6.377,374,en,False
+421,The Commandant's Shadow,The Commandant's Shadow,1277783,"[99, 36, 10752]",2024-05-29,9.169,8.5,9,en,False
+422,Cheyenne Autumn,Cheyenne Autumn,40630,[37],1964-10-15,8.878,6.7,130,en,False
+423,The Owners,The Owners,659986,"[27, 9648, 53]",2020-08-27,8.841,5.6,380,en,False
+424,Last Days,Last Days,1665,[18],2005-06-12,8.808,5.5,361,en,False
+425,Hors Normes,The Specials,579245,"[35, 18]",2019-10-23,8.687,7.841,899,fr,False
+426,Pu-239,Pu-239,26431,[18],2006-09-12,8.623,6.7,63,en,False
+427,Katrina Babies,Katrina Babies,866074,[99],2022-06-14,8.595,7.2,7,en,False
+428,The Special Relationship,The Special Relationship,45371,"[10770, 18, 36]",2010-05-29,8.588,6.5,58,en,False
+429,Dolphin Tale,Dolphin Tale,62837,"[18, 10751]",2011-09-22,8.531,6.9,632,en,False
+430,No Accident,No Accident,1171371,[99],2023-09-29,8.487,6.2,5,en,False
+431,Into the Storm,Into the Storm,36465,"[18, 36, 10770]",2009-05-31,8.435,6.4,78,en,False
+432,Einstein and Eddington,Einstein and Eddington,15044,"[36, 18]",2008-11-29,8.431,6.8,129,en,False
+433,The Gathering Storm,The Gathering Storm,36464,"[18, 36]",2002-04-22,8.371,6.6,63,en,False
+434,Ben Gen 10,Ben Gen 10,828397,[16],2021-06-05,8.237,6.1,112,en,False
+435,Spielberg,Spielberg,467062,[99],2017-10-05,8.217,7.576,277,en,False
+436,Holiday Harmony,Holiday Harmony,1028935,"[10749, 35, 10402, 10770]",2022-11-24,8.21,6.6,35,en,False
+437,A Tree of Life: The Pittsburgh Synagogue Shooting,A Tree of Life: The Pittsburgh Synagogue Shooting,1034809,[99],2022-10-26,8.168,6.8,4,en,False
+438,ขุนพันธ์ 3,Khun Pan 3,938553,"[28, 14, 53]",2023-03-02,8.002,6.9,14,th,False
+439,El test,El test,901944,[35],2022-09-02,7.856,6.2,81,es,False
+440,A Dangerous Son,A Dangerous Son,522773,[99],2018-05-07,7.848,6.3,11,en,False
+441,Blind Justice,Blind Justice,45188,"[28, 37, 10752]",1994-06-25,7.746,5.1,21,en,False
+442,The Sunset Limited,The Sunset Limited,56831,"[18, 10770]",2011-02-12,7.728,7.2,423,en,False
+443,Mistrial,Mistrial,291613,"[53, 18, 28, 10770]",1996-11-02,7.638,4.8,16,en,False
+444,Too Big to Fail,Too Big to Fail,65034,"[18, 10770]",2011-11-25,7.627,7.0,216,en,False
+445,Escape from Kabul,Escape from Kabul,1013258,[99],2021-09-21,7.574,7.0,21,en,False
+446,The Late Shift,The Late Shift,30330,"[35, 18, 10770]",1996-02-24,7.509,6.4,54,en,False
+447,Wild Wild Space,Wild Wild Space,1283214,[99],2024-06-15,7.499,7.688,8,en,False
+448,Oslo,Oslo,553087,"[10770, 18, 36]",2021-05-29,7.445,6.5,94,en,False
+449,Loreak,Flowers,260313,[18],2014-10-10,7.409,6.9,56,eu,False
+450,Wig,Wig,596670,[99],2019-05-04,7.375,6.2,12,en,False
+451,Clear History,Clear History,133790,"[35, 10770]",2014-05-02,7.362,6.0,245,en,False
+452,Path to War,Path to War,31018,"[18, 36, 10770]",2003-10-28,7.331,6.7,51,en,False
+453,I Am Evidence,I Am Evidence,448452,[99],2017-06-15,7.197,6.4,23,en,False
+454,Hello Ladies: The Movie,Hello Ladies: The Movie,303623,"[35, 10770]",2014-11-22,7.141,6.5,147,en,False
+455,Trespass Against Us,Trespass Against Us,256569,"[28, 80, 18]",2016-10-14,7.058,5.8,321,en,False
+456,The Enemy Within,The Enemy Within,59121,"[53, 18, 10770]",1994-08-24,7.05,5.6,32,en,False
+457,Sin rodeos,Empowered,505015,[35],2018-03-02,6.946,5.9,128,es,False
+458,BS High,BS High,1070807,[99],2023-06-14,6.835,6.9,16,en,False
+459,Oskars Kleid,Oskar's Dress,916712,[18],2022-12-22,6.761,7.5,51,de,False
+460,The Leisure Class,The Leisure Class,363810,"[10770, 35]",2015-11-02,6.761,3.9,25,en,False
+461,All That Breathes,All That Breathes,913838,"[99, 18]",2022-10-21,6.741,6.915,65,en,False
+462,Paterno,Paterno,467867,"[18, 10770]",2018-04-07,6.739,6.2,173,en,False
+463,Stevie Van Zandt: Disciple,Stevie Van Zandt: Disciple,1278112,"[99, 10402]",2024-06-08,6.734,8.2,6,en,False
+464,Ghost Adventures: Goldfield Hotel,Ghost Adventures: Goldfield Hotel,887394,"[99, 10770, 878]",2023-10-03,6.695,8.5,4,en,False
+465,A Christmas Story Christmas,A Christmas Story Christmas,929340,"[35, 10751, 18, 14]",2022-12-08,6.675,6.5,112,en,False
+466,Like.Share.Follow.,Like.Share.Follow.,486011,"[27, 53]",2017-10-31,6.671,5.2,134,en,False
+467,Trophy,Trophy,433029,[99],2017-01-20,6.615,7.0,17,en,False
+468,Adrienne,Adrienne,887171,"[99, 18]",2021-11-14,6.611,7.3,19,en,False
+469,The Iceman and the Psychiatrist,The Iceman and the Psychiatrist,278388,"[99, 80, 53, 27]",2004-06-01,6.558,7.5,17,en,False
+470,Thought Crimes,Thought Crimes,333382,[99],2015-05-11,6.555,6.2,44,en,False
+471,Ein Fest fürs Leben,Ein Fest fürs Leben,1159844,[35],2023-10-19,6.507,4.6,7,de,False
+472,Life of Crime: 1984-2020,Life of Crime: 1984-2020,854345,"[99, 18]",2021-09-06,6.405,8.3,15,en,False
+473,The Inventor: Out for Blood in Silicon Valley,The Inventor: Out for Blood in Silicon Valley,566228,[99],2019-01-24,6.392,7.1,243,en,False
+474,In the Shadow of the Towers: Stuyvesant High on 9/11,In the Shadow of the Towers: Stuyvesant High on 9/11,625331,[99],2019-09-11,6.369,6.5,15,en,False
+475,A Hollywood Christmas,A Hollywood Christmas,1028938,"[35, 10749]",2022-12-01,6.346,6.1,49,en,False
+476,Te doy mis ojos,Take My Eyes,1418,"[10749, 18]",2003-10-08,6.17,7.2,200,es,False
+477,Everyday People,Everyday People,41851,"[18, 10770]",2004-01-18,6.148,6.3,15,en,False
+478,Sous les étoiles : road trip au pays du Drive-in,Under the Stars,1057094,[99],2022-10-15,6.125,5.8,5,fr,False
+479,O.G.,O.G.,506558,[18],2018-04-20,6.039,5.9,97,en,False
+480,Totem,Totem,483737,[27],2017-10-31,6.037,5.2,169,en,False
+481,"MoviePass, MovieCrash","MoviePass, MovieCrash",1229898,[99],2024-03-09,6.036,7.0,17,en,False
+482,Witness Protection,Witness Protection,98431,"[18, 80, 10770]",1999-12-11,5.956,6.5,30,en,False
+483,Without Warning: The James Brady Story,Without Warning: The James Brady Story,124034,"[18, 10770]",1991-06-16,5.843,6.0,1,en,False
+484,Sometimes in April,Sometimes in April,16374,"[18, 36, 10752]",2005-02-17,5.799,7.1,70,en,False
+485,Dead Silence,Dead Silence,223389,"[28, 18, 53, 10770]",1997-09-22,5.788,5.9,21,en,False
+486,Recount,Recount,14050,"[18, 36, 10770]",2008-05-25,5.767,6.8,169,en,False
+487,Me contro Te: Il film - Persi nel tempo,Me contro Te: Il film - Persi nel tempo,839738,"[10751, 14]",2022-01-01,5.722,7.8,47,it,False
+488,Intemperie,Out in the Open,630018,[18],2019-11-22,5.716,6.6,87,es,False
+489,Natalie Wood: What Remains Behind,Natalie Wood: What Remains Behind,571123,[99],2020-01-27,5.702,6.3,27,en,False
+490,The Cheshire Murders,The Cheshire Murders,209204,[99],2013-07-22,5.649,6.5,51,en,False
+491,Aqua Teen Forever: Plantasm,Aqua Teen Forever: Plantasm,828900,"[16, 35, 878]",2022-10-06,5.639,6.3,32,en,False
+492,Being Mary Tyler Moore,Being Mary Tyler Moore,1072873,[99],2023-03-13,5.636,6.9,15,en,False
+493,Real Women Have Curves,Real Women Have Curves,30309,"[35, 18]",2002-10-18,5.6,6.1,80,en,False
+494,"Great Photo, Lovely Life","Great Photo, Lovely Life",1073097,[99],2023-03-10,5.538,7.9,9,en,False
+495,The Swamp,The Swamp,725239,[99],2020-08-04,5.498,6.6,45,en,False
+496,The Janes,The Janes,913829,[99],2022-05-03,5.431,5.6,39,en,False
+497,Liberty: Mother of Exiles,Liberty: Mother of Exiles,604927,[99],2019-10-24,5.419,7.4,7,en,False
+498,Native Son,Native Son,512199,[18],2019-01-24,5.418,5.5,82,en,False
+499,After the Bite,After the Bite,1123113,[99],2023-06-21,5.329,7.0,12,en,False
+500,Camera café: la película,Camera Cafe: The Movie,762823,[35],2022-03-25,5.327,5.4,56,es,False
+501,True Justice: Bryan Stevenson's Fight for Equality,True Justice: Bryan Stevenson's Fight for Equality,604920,[99],2019-06-19,5.326,7.2,5,en,False
+502,Nasty,Nasty,1262310,[99],2024-04-16,5.312,7.5,12,en,False
+503,Jane Fonda in Five Acts,Jane Fonda in Five Acts,490082,[99],2018-01-21,5.303,7.5,52,en,False
+504,A Waltons Thanksgiving,A Waltons Thanksgiving,1038724,"[10770, 18]",2022-11-20,5.299,4.7,3,en,False
+505,A Christmas Mystery,A Christmas Mystery,987919,"[10751, 35, 18, 9648]",2022-11-24,5.285,6.6,37,en,False
+506,Wolke unterm Dach,Cloud Under the Roof,915997,[18],2022-04-28,5.225,6.4,28,de,False
+507,Transhood,Transhood,695762,[99],2020-05-28,5.222,5.3,11,en,False
+508,Einfach mal was Schönes,Just Something Nice,982804,"[35, 18, 10749]",2022-11-17,5.141,7.0,30,de,False
+509,The Words That Built America,The Words That Built America,464655,[99],2017-07-04,5.125,6.0,13,en,False
+510,After Truth: Disinformation and the Cost of Fake News,After Truth: Disinformation and the Cost of Fake News,680438,[99],2020-03-19,5.118,6.8,38,en,False
+511,Alabama Snake,Alabama Snake,766238,"[99, 80]",2020-12-09,5.062,6.2,26,en,False
+512,Dolly Parton's Mountain Magic Christmas,Dolly Parton's Mountain Magic Christmas,1044116,"[10770, 10751, 99]",2022-12-01,5.05,7.0,3,en,False
+513,Warm Springs,Warm Springs,46661,"[18, 10770]",2005-04-30,4.925,6.9,21,en,False
+514,Witch Hunt,Witch Hunt,41595,"[10770, 9648, 35, 14]",1994-12-10,4.921,5.3,40,en,False
+515,El asesino de los caprichos,The Goya Murders,573150,"[18, 53]",2019-10-18,4.865,5.0,69,es,False
+516,What Happened on September 11,What Happened on September 11,630338,[99],2019-09-11,4.843,6.4,21,en,False
+517,The Truth About Killer Robots,The Truth About Killer Robots,543086,[99],2018-09-06,4.745,5.0,15,en,False
+518,Cinema Verite,Cinema Verite,64566,[18],2011-04-23,4.739,5.7,74,en,False
+519,Showbiz Kids,Showbiz Kids,585530,"[99, 36, 18]",2020-07-14,4.713,6.9,45,en,False
+520,King in the Wilderness,King in the Wilderness,493001,[99],2018-01-22,4.684,7.0,19,en,False
+521,Listening to Kenny G,Listening to Kenny G,858016,"[99, 10402]",2021-09-12,4.679,7.091,12,en,False
+522,Capturing Mary,Capturing Mary,132426,"[10770, 18]",2007-11-12,4.656,6.3,25,en,False
+523,Very Ralph,Very Ralph,618597,[99],2019-11-12,4.617,6.7,9,en,False
+524,How Do You Measure a Year?,How Do You Measure a Year?,846854,[99],2021-08-13,4.578,6.3,21,en,False
+525,Risky Drinking,Risky Drinking,432344,[99],2016-12-19,4.529,7.2,6,en,False
+526,Planes para mañana,Plans for Tomorrow,73921,[18],2010-11-18,4.5,5.1,7,es,False
+527,Every Brilliant Thing,Every Brilliant Thing,426135,"[99, 10770]",2016-11-11,4.49,7.8,9,en,False
+528,Bekenntnisse des Hochstaplers Felix Krull,Confessions of Felix Krull,835433,"[80, 18]",2021-09-02,4.445,6.6,27,de,False
+529,Ghost Adventures: Cecil Hotel,Ghost Adventures: Cecil Hotel,1040706,[],2023-10-04,4.43,8.0,2,en,False
+530,La contadora de películas,The Movie Teller,928118,"[18, 36]",2023-10-27,4.415,6.3,16,es,False
+531,Indictment: The McMartin Trial,Indictment: The McMartin Trial,46725,"[10770, 18]",1995-05-20,4.372,7.0,55,en,False
+532,The Pentagon Wars,The Pentagon Wars,14439,"[35, 18, 10752, 10770]",1998-02-28,4.344,6.8,53,en,False
+533,537 Votes,537 Votes,748911,[99],2020-10-21,4.277,7.3,7,en,False
+534,Swiped: Hooking Up in the Digital Age,Swiped: Hooking Up in the Digital Age,543631,[99],2018-09-10,4.277,6.5,11,en,False
+535,Ali & Cavett: The Tale of the Tapes,Ali & Cavett: The Tale of the Tapes,502153,[99],2018-08-02,4.259,6.8,5,en,False
+536,Carmina y amén,Carmina and Amen,241968,"[18, 35]",2014-04-30,4.202,6.1,79,es,False
+537,The Cherokee Kid,The Cherokee Kid,56281,"[37, 28, 35, 10751, 10770]",1996-12-14,4.185,5.0,22,en,False
+538,Jagged,Jagged,844143,"[10402, 99]",2021-09-14,4.152,7.0,23,en,False
+539,The Insurrectionist Next Door,The Insurrectionist Next Door,1189671,[99],2023-10-15,4.131,5.0,3,en,False
+540,Judgment,Judgment,369454,"[18, 10770]",1990-10-13,4.112,5.7,12,en,False
+541,The Last of His Tribe,The Last of His Tribe,412296,"[18, 37, 10770]",1992-03-28,4.102,6.2,9,en,False
+542,Marathon: The Patriots Day Bombing,Marathon: The Patriots Day Bombing,418693,[99],2016-11-21,4.015,6.8,22,en,False
+543,South to Black Power,South to Black Power,1132495,[99],2023-11-28,4.005,6.0,1,en,False
+544,The Curse of Lizzie Borden,The Curse of Lizzie Borden,873081,"[99, 9648]",2021-09-10,3.882,5.8,2,en,False
+545,Por los pelos,Por los pelos,826218,[35],2022-08-12,3.825,6.5,38,es,False
+546,Master Moley By Royal Invitation,Master Moley By Royal Invitation,743960,[16],2020-09-17,3.812,5.8,5,en,False
+547,Lansky,Lansky,76739,"[18, 80, 10770]",1999-02-27,3.794,5.5,23,en,False
+548,The Super Bob Einstein Movie,The Super Bob Einstein Movie,918632,[99],2021-12-28,3.78,6.717,23,en,False
+549,You Don't Know Jack: The Jack Soo Story,You Don't Know Jack: The Jack Soo Story,977391,[99],2009-03-15,3.779,0.0,0,en,False
+550,The Last Truck: Closing of a GM Plant,The Last Truck: Closing of a GM Plant,37098,[99],2009-09-07,3.601,5.8,8,en,False
+551,El crítico,The Critic,1018931,[99],2022-09-16,3.585,6.4,8,es,False
+552,Las buenas compañías,In the Company of Women,1096751,[18],2023-10-18,3.536,6.8,14,es,False
+553,The Iceman Confesses: Secrets of a Mafia Hitman,The Iceman Confesses: Secrets of a Mafia Hitman,216043,"[99, 80, 53, 27]",2001-03-01,3.49,7.5,21,en,False
+554,A Choice of Weapons: Inspired by Gordon Parks,A Choice of Weapons: Inspired by Gordon Parks,822100,[99],2021-06-18,3.393,6.9,18,en,False
+555,Santa Camp,Santa Camp,1043581,[99],2022-11-12,3.387,5.4,8,en,False
+556,Alien Endgame,Alien Endgame,978406,[99],2022-05-20,3.374,6.6,7,en,False
+557,Skinheads USA: Soldiers of the Race War,Skinheads USA: Soldiers of the Race War,333185,[99],1993-03-22,3.347,5.3,3,en,False
+558,aka Mr. Chow,aka Mr. Chow,1165485,[99],2023-10-20,3.339,9.2,4,en,False
+559,"Say Hey, Willie Mays!","Say Hey, Willie Mays!",1029966,[99],2022-10-27,3.273,6.4,8,en,False
+560,In Pursuit of Honor,In Pursuit of Honor,139826,[37],1995-03-18,3.272,5.7,19,en,False
+561,Soțul Meu Musulman,My Muslim Husband,1183225,"[99, 18]",2023-10-27,3.269,10.0,1,ro,False
+562,The Fastest Woman on Earth,The Fastest Woman on Earth,1034195,[99],2022-10-20,3.233,7.6,8,en,False
+563,"Apolonia, Apolonia","Apolonia, Apolonia",1047128,[99],2023-03-23,3.181,7.1,15,fr,False
+564,Dirty War,Dirty War,39182,"[18, 53, 10770]",2004-09-26,3.167,6.0,36,en,False
+565,Bully. Coward. Victim. The Story of Roy Cohn,Bully. Coward. Victim. The Story of Roy Cohn,575236,[99],2019-09-29,3.14,6.4,19,en,False
+566,Foster,Foster,523997,[99],2018-06-14,3.137,6.4,12,en,False
+567,And Just Like That… The Documentary,And Just Like That… The Documentary,933255,[99],2022-02-03,3.129,7.1,16,en,False
+568,Spring Awakening: Those You've Known,Spring Awakening: Those You've Known,959130,"[99, 10402]",2022-05-03,3.116,7.7,17,en,False
+569,Icebox,Icebox,543772,[18],2018-09-09,3.106,7.1,26,es,False
+570,Warning: This Drug May Kill You,Warning: This Drug May Kill You,452372,"[10770, 99]",2017-05-01,3.094,7.1,14,en,False
+571,Rock and a Hard Place,Rock and a Hard Place,444526,[99],2017-03-27,3.094,6.2,22,en,False
+572,Walkout,Walkout,93511,"[18, 10770]",2006-03-18,3.072,5.9,11,en,False
+573,The Unbreakable Tatiana Suarez,The Unbreakable Tatiana Suarez,1232553,[99],2024-01-31,3.047,7.8,4,en,False
+574,Daybreak,Daybreak,47945,"[28, 18, 10749, 878, 10770]",1993-05-08,3.038,5.2,28,en,False
+575,Persona: The Dark Truth Behind Personality Tests,Persona: The Dark Truth Behind Personality Tests,800164,[99],2021-03-04,3.027,5.6,18,en,False
+576,Arthur Miller: Writer,Arthur Miller: Writer,473399,[99],2017-12-08,2.964,7.3,16,en,False
+577,The Vagina Monologues,The Vagina Monologues,36945,[35],2002-02-14,2.923,6.0,16,en,False
+578,Generation Beziehungsunfähig,Commitment Phobia,835365,"[35, 10749]",2021-07-01,2.9,6.189,37,de,False
+579,Alien Abduction: Travis Walton,Alien Abduction: Travis Walton,941387,[99],2022-02-18,2.89,6.4,4,en,False
+580,Ghost Adventures,Ghost Adventures,29721,"[99, 27]",2007-07-25,2.883,8.1,45,en,False
+581,Endangered,Endangered,897374,[99],2022-06-12,2.878,6.3,17,en,False
+582,The Soul of America,The Soul of America,754334,[99],2020-10-22,2.814,5.4,5,en,False
+583,Fellow Traveller,Fellow Traveller,248840,"[18, 53]",1989-09-29,2.807,3.5,2,en,False
+584,Black Art: In the Absence of Light,Black Art: In the Absence of Light,794227,[99],2021-02-09,2.724,7.1,9,en,False
+585,Fake Famous,Fake Famous,788610,[99],2021-02-02,2.721,7.3,37,en,False
+586,Running with Beto,Running with Beto,575812,[99],2019-03-09,2.664,6.8,16,en,False
+587,Love Crimes Of Kabul,Love Crimes Of Kabul,70834,[99],2011-07-11,2.654,4.7,3,en,False
+588,Kill Chain: The Cyber War on America's Elections,Kill Chain: The Cyber War on America's Elections,685814,[99],2020-03-26,2.65,7.0,13,en,False
+589,Les distàncies,The Distances,441583,[18],2018-09-07,2.638,5.4,37,ca,False
+590,Uno para todos,One for All,651391,[18],2020-09-18,2.617,6.2,29,es,False
+591,Oprah & The Color Purple Journey,Oprah & The Color Purple Journey,1218168,[99],2023-12-28,2.608,5.0,1,en,False
+592,Faye,Faye,1280483,[99],2024-05-15,2.605,7.0,12,en,False
+593,Mama's Boy,Mama's Boy,1024528,[99],2022-10-18,2.56,3.7,3,en,False
+594,DMX: Don't Try to Understand,DMX: Don't Try to Understand,754848,"[99, 10402]",2021-11-13,2.555,6.8,8,en,False
+595,They Called Him Mostly Harmless,They Called Him Mostly Harmless,1105868,"[99, 80, 9648]",2024-02-08,2.551,6.6,18,en,False
+596,White Mile,White Mile,110570,"[18, 53, 10770]",1994-05-21,2.521,5.6,15,en,False
+597,Stockton on My Mind,Stockton on My Mind,712393,[99],2020-06-18,2.436,0.0,0,en,False
+598,The Day Sports Stood Still,The Day Sports Stood Still,804244,[99],2021-03-24,2.423,6.4,13,en,False
+599,The Newspaperman: The Life and Times of Ben Bradlee,The Newspaperman: The Life and Times of Ben Bradlee,479119,"[10770, 99]",2017-12-04,2.418,8.3,7,en,False
+600,The Fever,The Fever,64192,"[18, 10770]",2004-09-23,2.406,5.6,14,en,False
+601,"There Is No ""I"" in Threesome","There Is No ""I"" in Threesome",790846,[99],2021-01-30,2.389,5.1,11,en,False
+602,15 Minutes of Shame,15 Minutes of Shame,641363,[99],2021-10-07,2.369,6.3,15,en,False
+603,In the Same Breath,In the Same Breath,776518,[99],2021-01-28,2.358,7.1,35,en,False
+604,Héroes de barrio,Héroes de barrio,810214,"[35, 18]",2022-06-24,2.349,5.6,14,es,False
+605,A Family Is a Family Is a Family: A Rosie O'Donnell Celebration,A Family Is a Family Is a Family: A Rosie O'Donnell Celebration,243665,[99],2010-01-31,2.334,4.4,5,en,False
+606,1000% Me: Growing Up Mixed,1000% Me: Growing Up Mixed,1104004,[99],2023-04-22,2.224,3.0,3,en,False
+607,"Introducing, Selma Blair","Introducing, Selma Blair",795613,[99],2021-10-15,2.187,7.1,10,en,False
+608,Our Towns,Our Towns,812018,[99],2021-04-13,2.176,5.0,5,en,False
+609,The Last Cruise,The Last Cruise,800394,[99],2021-03-16,2.121,6.7,23,en,False
+610,Atomic Homefront,Atomic Homefront,479540,[99],2017-11-17,2.083,6.7,7,en,False
+611,The Exorcism of Roland Doe,The Exorcism of Roland Doe,803381,[99],2021-02-05,2.06,5.6,7,en,False
+612,Brillo Box (3¢ off),Brillo Box (3¢ off),419416,[99],2016-06-13,2.051,6.7,10,en,False
+613,The Apollo,The Apollo,585527,[99],2019-04-24,2.002,6.3,16,en,False
+614,Eyes on the Prize: Hallowed Ground,Eyes on the Prize: Hallowed Ground,852336,[99],2021-08-19,2.001,0.0,0,en,False
+615,Hope,The One With Hope,1303181,[99],2024-06-11,1.989,7.5,1,pl,False
+616,Prawy chłopak,Polish Prayers,1047567,[99],2022-11-14,1.988,6.3,7,pl,False
+617,Meth Storm,Meth Storm,438473,[99],2017-03-11,1.949,6.3,11,en,False
+618,We Met in Virtual Reality,We Met in Virtual Reality,913850,"[99, 16]",2022-03-27,1.932,6.0,11,en,False
+619,Say Her Name: The Life and Death of Sandra Bland,Say Her Name: The Life and Death of Sandra Bland,511689,"[99, 10770]",2018-04-25,1.919,7.1,11,en,False
+620,Life Support,Life Support,56555,"[18, 10770]",2007-03-10,1.912,5.8,13,en,False
+621,Stolen Daughters: Kidnapped By Boko Haram,Stolen Daughters: Kidnapped By Boko Haram,543638,[99],2018-10-22,1.911,7.8,8,en,False
+622,Agnelli,Agnelli,459954,[99],2017-12-18,1.904,7.5,21,en,False
+623,The Number on Great-Grandpa's Arm,The Number on Great-Grandpa's Arm,497274,[99],2018-01-27,1.883,6.5,9,en,False
+624,Simple As Water,Simple As Water,698499,[99],2021-06-20,1.844,5.8,5,en,False
+625,Class Divide,Class Divide,381399,[99],2016-04-18,1.823,5.9,15,en,False
+626,We Are the Dream: The Kids of the Oakland MLK Oratorical Fest,We Are the Dream: The Kids of the Oakland MLK Oratorical Fest,677639,[99],2020-02-18,1.767,7.0,2,en,False
+627,Saudi Women's Driving School,Saudi Women's Driving School,642239,[99],2019-10-24,1.763,7.2,5,en,False
+628,The Visitors,The Visitors,1099656,[99],2022-09-05,1.748,8.0,1,en,False
+629,A döntés,Holy Dilemma,1054452,[99],2022-06-09,1.735,0.0,0,hu,False
+630,We Are Not Done Yet,We Are Not Done Yet,543647,[99],2018-11-08,1.702,6.8,5,en,False
+631,Icahn: The Restless Billionaire,Icahn: The Restless Billionaire,933249,[99],2022-02-15,1.663,6.8,4,en,False
+632,Manhunt: The Inside Story of the Hunt for Bin Laden,Manhunt: The Inside Story of the Hunt for Bin Laden,159011,[99],2013-01-20,1.64,6.8,21,en,False
+633,Thin,Thin,45051,[99],2006-10-21,1.632,7.0,20,en,False
+634,The Forever Prisoner,The Forever Prisoner,902547,"[99, 80]",2021-12-03,1.627,8.3,6,en,False
+635,Traffic Stop,Traffic Stop,491206,[99],2017-11-14,1.618,6.1,26,en,False
+636,Angel Rodriguez,Angel Rodriguez,126292,"[18, 10770]",2005-09-15,1.603,4.8,6,en,False
+637,Alien Invasion: Hudson Valley,Alien Invasion: Hudson Valley,861735,[99],2021-08-14,1.602,7.0,3,en,False
+638,Donyale Luna: Supermodel,Donyale Luna: Supermodel,1123521,[99],2023-06-15,1.584,5.5,2,en,False
+639,Baby God,Baby God,682588,[99],2020-06-23,1.58,5.667,21,en,False
+640,Sermon on the Mount,Sermon on the Mount,613322,"[99, 10770]",2019-06-30,1.574,6.7,3,en,False
+641,Happening: A Clean Energy Revolution,Happening: A Clean Energy Revolution,489137,[99],2017-10-07,1.554,6.5,4,en,False
+642,Notes from the Field,Notes from the Field,491846,"[18, 10770]",2018-02-24,1.548,8.3,3,en,False
+643,38 at the Garden,38 at the Garden,967183,[99],2022-06-13,1.53,6.7,16,en,False
+644,Sulle nuvole,On the Clouds,785645,"[18, 10749]",2022-04-26,1.529,6.0,19,it,False
+645,Primo,Primo,140831,"[18, 10770]",2005-04-01,1.497,7.2,5,en,False
+646,"Clínica de Migrantes: Life, Liberty, and the Pursuit of Happiness","Clínica de Migrantes: Life, Liberty, and the Pursuit of Happiness",444544,[99],2016-04-09,1.495,6.7,3,en,False
+647,Wild Card: The Downfall of a Radio Loudmouth,Wild Card: The Downfall of a Radio Loudmouth,746764,"[99, 10770]",2020-10-07,1.487,6.5,5,en,False
+648,It Will be Chaos,It Will be Chaos,523996,[99],2018-06-18,1.476,7.0,2,ar,False
+649,It's a Hard Truth Ain't It,It's a Hard Truth Ain't It,520369,"[99, 16]",2018-04-25,1.449,6.8,11,en,False
+650,The Legend of the Underground,The Legend of the Underground,821969,[99],2021-06-10,1.438,4.8,10,en,False
+651,Nikki Glaser: Someday You'll Die,Nikki Glaser: Someday You'll Die,1276771,[35],2024-05-10,1.426,6.6,16,en,False
+652,5 American Handguns - 5 American Kids,5 American Handguns - 5 American Kids,288127,[99],1995-03-11,1.425,6.5,2,en,False
+653,When We Were Bullies,When We Were Bullies,776769,[99],2021-01-28,1.42,4.9,20,en,False
+654,Frederick Douglass: In Five Speeches,Frederick Douglass: In Five Speeches,933721,"[99, 36]",2022-02-23,1.354,6.0,3,en,False
+655,Moonlight Sonata: Deafness in Three Movements,Moonlight Sonata: Deafness in Three Movements,565726,[99],2019-01-27,1.284,5.4,5,en,False
+656,Life According to Sam,Life According to Sam,159009,[99],2013-01-21,1.28,7.0,16,en,False
+657,Alien Abduction: Betty and Barney Hill,Alien Abduction: Betty and Barney Hill,946587,[99],2022-02-18,1.264,6.7,3,en,False
+658,A Radical Life,A Radical Life,1011905,[99],2022-10-09,1.263,8.6,5,en,False
+659,Habla Now,Habla Now,965198,[99],2020-09-18,1.242,8.0,1,en,False
+660,El espíritu de la salsa,The Spirit of Salsa,229450,[99],2010-04-22,1.236,6.0,1,en,False
+661,Brooks and the Shawshank Redemption,Brooks and the Shawshank Redemption,1367980,[18],1994-10-14,1.207,0.0,0,en,False
+662,Outside the Bubble: On the Road with Alexandra Pelosi,Outside the Bubble: On the Road with Alexandra Pelosi,557779,[99],2018-10-29,1.197,5.8,5,en,False
+663,Baltimore Rising,Baltimore Rising,446022,[99],2017-11-20,1.184,6.8,6,en,False
+664,My So-Called High School Rank,My So-Called High School Rank,1028062,[99],2022-09-30,1.141,6.0,2,en,False
+665,A La Calle,A La Calle,765426,[99],2020-11-11,1.141,7.5,2,es,False
+666,Jason Isbell: Running With Our Eyes Closed,Jason Isbell: Running With Our Eyes Closed,1103461,"[99, 10402]",2023-04-07,1.127,5.5,4,en,False
+667,Paycheck to Paycheck: The Life & Times of Katrina Gilbert,Paycheck to Paycheck: The Life & Times of Katrina Gilbert,259855,[99],2014-03-17,1.122,5.2,2,en,False
+668,Home Videos,Home Videos,602624,[99],2019-05-12,1.117,5.8,4,en,False
+669,The Slow Hustle,The Slow Hustle,833654,"[99, 80]",2021-06-22,1.07,7.8,4,en,False
+670,The Scheme,The Scheme,682598,"[99, 80]",2020-03-31,1.064,6.5,14,en,False
+671,Rebel Hearts,Rebel Hearts,776524,[99],2021-06-25,1.046,6.0,1,en,False
+672,Boylesque,Boylesque,956439,[99],2023-06-08,1.032,8.5,2,pl,False
+673,Montana,Montana,471800,"[37, 10770]",1990-02-09,1.0,7.0,2,en,False
+674,Wig,Wig,701691,[],2019-07-18,0.99,0.0,0,hi,False
+675,The Parachute Murder Plot,The Parachute Murder Plot,593589,[99],2018-10-17,0.982,7.5,2,en,False
+676,Reopening Night,Reopening Night,911518,[99],2021-12-20,0.974,6.0,1,en,False
+677,War Dog: A Soldier's Best Friend,War Dog: A Soldier's Best Friend,483574,[99],2017-11-13,0.966,8.0,2,en,False
+678,When I Knew,When I Knew,241034,[99],2009-03-24,0.956,6.0,2,en,False
+679,The Fence (La Barda),The Fence (La Barda),222942,[99],2010-01-19,0.914,6.8,6,en,False
+680,Wide Awake,Wide Awake,52086,"[99, 27]",2006-02-11,0.906,6.0,12,en,False
+681,Covid Diaries NYC,Covid Diaries NYC,779184,[99],2021-03-09,0.882,5.3,9,en,False
+682,Demon in the White House,Demon in the White House,911904,[99],2021-11-26,0.879,6.1,4,en,False
+683,Plastic Disasters,Plastic Disasters,250013,[99],2006-06-05,0.861,5.7,5,en,False
+684,Abortion: Stories Women Tell,Abortion: Stories Women Tell,390590,"[99, 10770]",2016-08-12,0.844,6.7,15,en,False
+685,Questioning Darwin,Questioning Darwin,248888,[99],2014-02-10,0.84,5.1,7,en,False
+686,The Devil Made Me Do It,The Devil Made Me Do It,837780,"[99, 27]",2021-06-11,0.829,9.5,4,en,False
+687,"Siempre, Luis","Siempre, Luis",654997,[99],2020-01-25,0.827,8.0,4,en,False
+688,Master of Light,Master of Light,934624,[99],2022-03-12,0.819,6.5,4,en,False
+689,Taylor Mac's 24-Decade History of Popular Music,Taylor Mac's 24-Decade History of Popular Music,1115363,[99],2023-06-14,0.783,5.7,3,en,False
+690,Lucy the Human Chimp,Lucy the Human Chimp,815188,[99],2021-04-29,0.777,6.2,4,en,False
+691,Toe Tag Parole: To Live and Die on Yard A,Toe Tag Parole: To Live and Die on Yard A,353105,[99],2015-08-03,0.756,7.0,2,en,False
+692,Finding the Way Home,Finding the Way Home,625336,[99],2019-12-08,0.755,5.0,3,en,False
+693,A Revolution on Canvas,A Revolution on Canvas,1115125,[99],2023-12-01,0.742,9.5,2,en,False
+694,Positively Naked,Positively Naked,248887,[],2005-04-30,0.702,6.4,7,en,False
+695,Song of Parkland,Song of Parkland,580638,[99],2019-02-07,0.679,6.8,6,en,False
+696,Diagnosis Bipolar: Five Families Search for Answers,Diagnosis Bipolar: Five Families Search for Answers,248873,[99],2010-01-06,0.654,6.2,4,en,False
+697,Torn Apart: Separated at the Border,Torn Apart: Separated at the Border,625323,[99],2019-10-10,0.645,6.3,3,en,False
+698,Citizen USA: A 50 State Road Trip,Citizen USA: A 50 State Road Trip,82325,[99],2011-01-01,0.622,4.0,3,en,False
+699,Under The Grapefruit Tree: The CC Sabathia Story,Under The Grapefruit Tree: The CC Sabathia Story,778743,[99],2020-12-22,0.616,7.3,5,en,False
+700,Women of Troy,Women of Troy,677637,[99],2020-03-10,0.589,5.5,1,en,False
+701,What Killed Maradona?,What Killed Maradona?,825031,[99],2021-01-06,0.554,8.0,2,en,False
+702,Burning Ojai: Our Fire Story,Burning Ojai: Our Fire Story,755420,[99],2020-10-28,0.54,7.5,2,en,False
+703,How We Get Free,How We Get Free,1104006,[99],2023-04-15,0.52,8.3,3,en,False
+704,America Undercover: Life Afterlife,America Undercover: Life Afterlife,845302,"[10770, 99]",2000-11-10,0.506,7.0,1,en,False
+705,Vika!,Vika!,1115708,"[99, 10402]",2023-12-26,0.418,10.0,2,pl,False
+706,A jeśli jutro wojna się skończy?,What If The War Ends Tomorrow?,1312286,"[99, 10752]",2023-12-03,0.416,1.0,1,pl,False
+707,Cigüeñas,Storks,554748,[18],2018-11-08,0.395,4.0,2,es,False
+708,Plantasma,Plantasma,1281640,"[27, 18, 878, 14]",2022-11-01,0.386,0.0,0,en,False
+709,España en dos trincheras. La guerra civil en color,España en dos trincheras. La guerra civil en color,671036,[99],2016-10-28,0.318,2.0,1,es,False
+710,Paterno,Paterno,655969,[],2022-06-14,0.237,2.0,1,pt,False
+711,Una decisión difícil,Una decisión difícil,1158283,[],2021-01-19,0.153,0.0,0,es,False
+712,Ghost Adventures: Devil Island,Ghost Adventures: Devil Island,1187579,"[36, 99]",2023-10-04,0.098,10.0,1,en,False
+713,Monólogos da Vacina,Monólogos da Vacina,1140344,[],2023-06-02,0.069,0.0,0,pt,False
+714,Embarazados,Embarazados,841044,[],2015-12-31,0.042,5.0,1,es,False
+715,The Grindr Killer Scandal: A Faking It Special,The Grindr Killer Scandal: A Faking It Special,1358140,[],,0.004,0.0,0,en,False

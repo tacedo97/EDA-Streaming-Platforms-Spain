@@ -1,0 +1,1090 @@
+,original_name,name,id,genre_ids,first_air_date,popularity,vote_average,vote_count,original_language,adult
+0,The Lord of the Rings: The Rings of Power,The Lord of the Rings: The Rings of Power,84773,"[10759, 10765, 18]",2022-09-01,1422.839,7.351,2941,en,False
+1,Law & Order: Special Victims Unit,Law & Order: Special Victims Unit,2734,"[80, 18, 9648]",1999-09-20,1070.26,7.923,3797,en,False
+2,Supernatural,Supernatural,1622,"[18, 9648, 10765]",2005-09-13,837.182,8.3,7525,en,False
+3,House,House,1408,"[18, 9648, 35]",2004-11-16,563.834,8.59,6484,en,False
+4,The Good Doctor,The Good Doctor,71712,[18],2017-09-25,560.242,8.483,12332,en,False
+5,The Blacklist,The Blacklist,46952,"[18, 80, 9648]",2013-09-23,551.738,7.6,3121,en,False
+6,Shameless,Shameless,34307,"[18, 35]",2011-01-09,482.757,8.153,2684,en,False
+7,The Boys,The Boys,76479,"[10765, 10759]",2019-07-25,479.122,8.475,10424,en,False
+8,Midsomer Murders,Midsomer Murders,764,"[80, 18, 9648]",1997-03-23,461.687,7.544,297,en,False
+9,The Mentalist,The Mentalist,5920,"[80, 18, 9648]",2008-09-23,454.401,8.369,3738,en,False
+10,Peaky Blinders,Peaky Blinders,60574,"[18, 80]",2013-09-12,449.902,8.5,9874,en,False
+11,The Vampire Diaries,The Vampire Diaries,18165,"[18, 10765]",2009-09-10,429.968,8.332,8920,en,False
+12,Chicago Fire,Chicago Fire,44006,[18],2012-10-10,423.604,8.4,2188,en,False
+13,Doctor Who,Doctor Who,57243,"[10759, 18, 10765]",2005-03-26,414.853,7.528,2985,en,False
+14,Two and a Half Men,Two and a Half Men,2691,[35],2003-09-22,406.184,7.5,3191,en,False
+15,Gilmore Girls,Gilmore Girls,4586,"[35, 18]",2000-10-05,391.01,7.9,1003,en,False
+16,Young Sheldon,Young Sheldon,71728,"[35, 10751, 18]",2017-09-25,387.554,8.07,2498,en,False
+17,Chicago P.D.,Chicago P.D.,58841,"[80, 18]",2014-01-08,375.877,8.421,2378,en,False
+18,Monk,Monk,1695,"[35, 80, 18, 9648]",2002-07-12,372.955,7.933,1038,en,False
+19,Smallville,Smallville,4604,"[10765, 10759, 18]",2001-10-16,322.73,8.219,4046,en,False
+20,PAW Patrol,PAW Patrol,57532,"[16, 10762]",2013-08-12,317.146,6.985,731,en,False
+21,Peppa Pig,Peppa Pig,12225,"[16, 10762]",2004-05-31,305.521,6.6,697,en,False
+22,Fargo,Fargo,60622,"[80, 18]",2014-04-15,305.042,8.296,2669,en,False
+23,Columbo,Columbo,873,"[80, 18, 9648]",1971-09-15,293.076,8.1,668,en,False
+24,ベイブレードバースト,Beyblade Burst,67667,"[10759, 16, 35, 10762, 10765, 10751]",2016-04-04,290.045,8.296,308,ja,False
+25,ナルト,Naruto,46260,"[16, 10759, 10765]",2002-10-03,287.812,8.4,5451,ja,False
+26,The Office,The Office,2316,[35],2005-03-24,287.777,8.6,4132,en,False
+27,Reacher,Reacher,108978,"[10759, 80, 18]",2022-02-03,284.936,8.076,1783,en,False
+28,Chicago Med,Chicago Med,62650,[18],2015-11-17,277.363,8.3,1138,en,False
+29,Arrow,Arrow,1412,"[80, 18, 10759]",2012-10-10,275.851,6.8,5903,en,False
+30,My Little Pony: Friendship Is Magic,My Little Pony: Friendship Is Magic,33765,"[16, 35, 10765, 10762]",2010-10-10,264.534,8.128,637,en,False
+31,One Tree Hill,One Tree Hill,269,[18],2003-09-23,249.582,7.747,474,en,False
+32,ナルト 疾風伝,Naruto Shippūden,31910,"[16, 10759, 10765]",2007-02-15,248.712,8.543,8075,ja,False
+33,Agatha Christie's Poirot,Agatha Christie's Poirot,790,"[80, 18, 9648]",1989-01-08,246.813,8.1,458,en,False
+34,オーバーロード,Overlord,64196,"[16, 10765, 10759]",2015-07-07,238.66,8.5,922,ja,False
+35,Gossip Girl,Gossip Girl,1395,"[18, 9648]",2007-09-19,235.935,8.2,2069,en,False
+36,Citadel: Diana,Citadel: Diana,214032,"[10759, 18]",2024-10-10,234.395,8.0,31,it,False
+37,"Yo soy Betty, la fea","I am Betty, the Ugly one",16286,"[10766, 35, 18]",1999-10-25,212.884,8.351,3366,es,False
+38,鋼の錬金術師 FULLMETAL ALCHEMIST,Fullmetal Alchemist: Brotherhood,31911,"[10759, 16, 10765, 35]",2009-04-05,207.622,8.7,2032,ja,False
+39,Fear the Walking Dead,Fear the Walking Dead,62286,"[10759, 18]",2015-08-23,206.451,7.669,4875,en,False
+40,손해 보기 싫어서,No Gain No Love,229480,"[35, 18]",2024-08-26,200.479,8.8,115,ko,False
+41,イナズマイレブン,Inazuma Eleven,42912,"[16, 10765]",2008-10-05,199.82,8.1,249,ja,False
+42,The Expanse,The Expanse,63639,"[18, 9648, 10765]",2015-12-14,194.609,8.1,2342,en,False
+43,Pretty Little Liars,Pretty Little Liars,31917,"[18, 9648]",2010-06-08,191.923,8.0,2577,en,False
+44,출동 슈퍼윙스,Super Wings,71026,"[16, 10762, 10751, 35, 10759, 10765]",2014-09-01,189.182,6.6,16,ko,False
+45,Vera,Vera,39185,"[80, 18, 9648]",2011-05-01,180.252,7.356,139,en,False
+46,Mom,Mom,49011,"[35, 18]",2013-09-23,176.024,7.3,563,en,False
+47,チーズスイートホーム,Chi's Sweet Home,34186,"[16, 35, 10762]",2008-03-31,174.577,6.813,16,ja,False
+48,キングダム,Kingdom,46437,"[10759, 16, 18]",2012-06-04,174.422,7.6,39,ja,False
+49,This Is Us,This Is Us,67136,[18],2016-09-20,173.815,8.244,1416,en,False
+50,"Betty la fea, la historia continúa","Betty la Fea, the Story Continues",230424,"[10766, 35, 18]",2024-07-19,171.458,7.5,159,es,False
+51,2 Broke Girls,2 Broke Girls,39340,[35],2011-09-19,166.675,7.208,1512,en,False
+52,The Handmaid's Tale,The Handmaid's Tale,69478,"[18, 10765]",2017-04-26,166.136,8.2,2684,en,False
+53,コードギアス 反逆のルルーシュ,Code Geass: Lelouch of the Rebellion,31724,"[16, 10765, 10759, 18]",2006-10-05,166.002,8.4,728,ja,False
+54,Downton Abbey,Downton Abbey,33907,[18],2010-09-26,165.175,8.105,990,en,False
+55,Dora the Explorer,Dora the Explorer,79,"[10759, 16, 10751, 10762]",2000-08-14,162.023,6.2,305,en,False
+56,ハイキュー!!,Haikyu!!,60863,"[16, 10759]",2014-04-06,161.991,8.627,1339,ja,False
+57,Bosch,Bosch,60585,"[9648, 18, 80]",2015-01-14,159.896,7.911,564,en,False
+58,Rebelde,Rebelde,12637,"[35, 10766, 18]",2004-10-04,156.891,8.412,5131,es,False
+59,Those About to Die,Those About to Die,218589,[18],2024-07-18,156.357,7.613,190,en,False
+60,The Legend of Vox Machina,The Legend of Vox Machina,135934,"[16, 10765]",2022-01-27,151.107,8.3,420,en,False
+61,Top Gear,Top Gear,45,"[10767, 10759, 10764, 35]",2002-10-20,150.851,7.456,733,en,False
+62,Cold Case,Cold Case,2171,"[80, 18, 9648]",2003-09-28,148.349,7.764,381,en,False
+63,Agatha Christie's Marple,Agatha Christie's Marple,6127,"[18, 80, 9648]",2004-12-12,145.752,7.659,113,en,False
+64,LEGO Ninjago: Dragons Rising,LEGO Ninjago: Dragons Rising,212989,"[16, 10762, 10759]",2023-06-01,145.63,8.1,63,en,False
+65,Chuck,Chuck,1404,"[10759, 35, 18]",2007-09-24,145.223,7.7,991,en,False
+66,Nadie nos va a extrañar,No One Will Miss Us,259666,"[18, 35]",2024-08-09,145.124,8.7,145,es,False
+67,キャプテン翼,Captain Tsubasa,25707,"[35, 18, 16]",1983-10-13,144.519,7.8,774,ja,False
+68,Rizzoli & Isles,Rizzoli & Isles,32895,"[80, 18, 9648]",2010-07-12,144.418,7.9,414,en,False
+69,Leverage,Leverage,7482,"[18, 35, 10759, 80]",2008-12-07,143.793,7.6,359,en,False
+70,黒子のバスケ,Kuroko's Basketball,45783,"[16, 35, 18]",2012-04-08,142.979,8.5,537,ja,False
+71,Henry Danger,Henry Danger,61852,"[35, 10751, 10762, 18]",2014-07-26,139.028,8.3,1077,en,False
+72,Everybody Loves Raymond,Everybody Loves Raymond,2140,[35],1996-09-13,138.813,6.786,546,en,False
+73,The Penguins of Madagascar,The Penguins of Madagascar,7869,"[16, 35]",2008-11-28,137.869,7.4,351,en,False
+74,Endeavour,Endeavour,44264,"[80, 18, 9648]",2013-04-14,137.269,8.1,236,en,False
+75,New Amsterdam,New Amsterdam,80350,[18],2018-09-25,135.482,8.38,975,en,False
+76,Dark/Web,Dark/Web,90492,[10765],2019-07-19,132.516,6.333,21,en,False
+77,Cuéntame cómo pasó,Cuéntame cómo pasó,7897,"[35, 18]",2001-09-13,132.349,7.167,54,es,False
+78,The Thundermans,The Thundermans,58981,"[10759, 35, 10751, 10765]",2013-10-14,130.006,8.029,553,en,False
+79,進撃の巨人,Attack on Titan,1429,"[16, 10765, 10759]",2013-04-07,129.089,8.66,6351,ja,False
+80,Fallout,Fallout,106379,"[10765, 10759, 18]",2024-04-10,128.078,8.3,1456,en,False
+81,Batman: The Animated Series,Batman: The Animated Series,2098,"[10759, 16, 18, 9648]",1992-09-05,126.389,8.5,1579,en,False
+82,名探偵コナン,Case Closed,30983,"[16, 9648, 35]",1996-01-08,122.006,8.0,660,ja,False
+83,Maxton Hall - Die Welt Zwischen Uns,Maxton Hall - The World Between Us,250670,[18],2024-05-09,120.007,8.367,395,de,False
+84,Totally Spies!,Totally Spies!,2808,"[16, 10762, 35, 10759, 18]",2001-11-03,118.311,7.2,224,en,False
+85,Nip/Tuck,Nip/Tuck,3750,[18],2003-07-22,116.363,7.184,459,en,False
+86,Hazbin Hotel,Hazbin Hotel,94954,"[16, 35, 10765]",2024-01-18,115.907,8.9,1105,en,False
+87,Tom Clancy's Jack Ryan,Tom Clancy's Jack Ryan,73375,"[10759, 18, 10768]",2018-08-30,115.179,7.699,1492,en,False
+88,Grantchester,Grantchester,61457,"[80, 18, 9648]",2014-10-06,114.568,7.4,123,en,False
+89,The O.C.,The O.C.,2673,[18],2003-08-05,114.373,7.799,802,en,False
+90,Sherlock,Sherlock,19885,"[80, 18, 9648]",2010-07-25,114.161,8.517,5382,en,False
+91,鬼滅の刃,Demon Slayer: Kimetsu no Yaiba,85937,"[16, 10759, 10765]",2019-04-06,113.152,8.659,6413,ja,False
+92,PJ Masks,PJ Masks,65417,"[16, 10751, 10762, 10765, 35]",2015-09-18,112.337,4.8,42,en,False
+93,Veronica Mars,Veronica Mars,1432,"[9648, 18, 35]",2004-09-22,111.647,7.9,605,en,False
+94,The Good Fight,The Good Fight,69158,[18],2017-02-19,109.434,7.641,276,en,False
+95,내 남편과 결혼해줘,Marry My Husband,221851,"[18, 10765, 35]",2024-01-01,105.966,8.658,424,ko,False
+96,ゴブリンスレイヤー,Goblin Slayer,82591,"[16, 10759, 10765]",2018-10-07,105.281,8.1,485,ja,False
+97,Dawson's Creek,Dawson's Creek,2327,"[18, 10766]",1998-01-20,104.732,7.4,521,en,False
+98,Daniel Tiger's Neighborhood,Daniel Tiger's Neighborhood,40050,"[16, 10751, 10762]",2012-09-03,103.662,6.9,25,en,False
+99,Cicatriz,Scar,238347,[10759],2024-08-21,103.244,6.0,3,es,False
+100,Star Trek: Picard,Star Trek: Picard,85949,"[10765, 10759, 18]",2020-01-23,103.226,7.299,1681,en,False
+101,Hotel Cocaine,Hotel Cocaine,211169,[80],2024-06-16,103.196,7.7,18,en,False
+102,INVINCIBLE,INVINCIBLE,95557,"[16, 10765, 10759, 18]",2021-03-25,101.816,8.645,4426,en,False
+103,Mr. Robot,Mr. Robot,62560,"[80, 18]",2015-06-24,101.648,8.242,4594,en,False
+104,Маша и Медведь,Masha and the Bear,46080,"[16, 10751, 10762, 35]",2009-01-07,101.193,6.9,402,ru,False
+105,The Summer I Turned Pretty,The Summer I Turned Pretty,194766,[18],2022-06-16,99.053,8.175,698,en,False
+106,Vis a vis,Locked Up,62455,"[18, 80]",2015-04-20,98.577,8.008,2414,es,False
+107,Sausage Party: Foodtopia,Sausage Party: Foodtopia,213249,"[16, 35, 10759, 10765]",2024-07-11,98.179,7.004,121,en,False
+108,Goliath,Goliath,67384,"[80, 18]",2016-10-13,97.746,7.6,376,en,False
+109,Inspector Morse,Inspector Morse,3476,"[80, 18, 9648]",1987-01-06,96.227,7.8,120,en,False
+110,Winx Club,Winx Club,1848,"[10762, 16, 10765, 10759, 9648]",2004-01-28,95.599,8.098,480,it,False
+111,フェアリーテイル,Fairy Tail,46261,"[16, 10759, 35, 9648, 10765]",2009-10-12,91.972,7.9,932,ja,False
+112,The Wheel of Time,The Wheel of Time,71914,"[10765, 18]",2021-11-18,91.46,7.678,2064,en,False
+113,A Infância de Romeu e Julieta,The Childhood of Romeo and Juliet,212350,"[18, 10751, 10766]",2023-05-07,88.265,6.8,7,pt,False
+114,Star Trek: Lower Decks,Star Trek: Lower Decks,85948,"[10765, 16, 35]",2020-08-06,86.08,7.54,311,en,False
+115,Interview with the Vampire,Interview with the Vampire,128098,"[18, 10765]",2022-10-02,85.683,7.3,225,en,False
+116,Citadel,Citadel,114922,"[18, 80, 10759]",2023-04-27,84.27,6.9,389,en,False
+117,Mr. Bean,Mr. Bean,4327,"[35, 10751, 18]",1990-01-01,83.535,8.0,1308,en,False
+118,どろろ,Dororo,83100,"[16, 10759]",2019-01-07,83.163,8.554,1147,ja,False
+119,"이재, 곧 죽습니다",Death's Game,218230,"[18, 10765]",2023-12-15,82.319,8.5,362,ko,False
+120,The Last Ship,The Last Ship,60802,"[10759, 18, 10765]",2014-06-22,80.206,6.8,906,en,False
+121,The Marvelous Mrs. Maisel,The Marvelous Mrs. Maisel,70796,"[35, 18]",2017-03-16,79.821,8.1,762,en,False
+122,The Garfield Show,The Garfield Show,18352,"[16, 35, 10762]",2009-11-02,79.574,5.744,82,en,False
+123,The Man in the High Castle,The Man in the High Castle,62017,"[10765, 18]",2015-01-15,78.32,7.5,1241,en,False
+124,Animal Kingdom,Animal Kingdom,66025,"[80, 18]",2016-06-14,78.068,7.713,434,en,False
+125,メイドインアビス,Made in Abyss,72636,"[16, 18, 10759, 10765]",2017-07-07,77.867,8.4,489,ja,False
+126,La que se avecina,La que se avecina,35338,[35],2007-04-22,77.228,8.2,242,es,False
+127,The Walking Dead: Dead City,The Walking Dead: Dead City,194583,"[10759, 18, 10765]",2023-06-18,76.976,8.13,503,en,False
+128,The Adventures of Tintin,The Adventures of Tintin,1570,"[16, 10759]",1991-10-02,76.828,7.947,311,fr,False
+129,American Gods,American Gods,46639,"[18, 9648, 10765]",2017-04-30,76.553,7.075,1579,en,False
+130,Avatar: The Last Airbender,Avatar: The Last Airbender,246,"[16, 10759, 10765]",2005-02-21,76.466,8.731,4092,en,False
+131,からくりサーカス,Karakuri Circus,83054,"[10759, 9648, 80, 16, 18]",2018-10-11,74.136,8.2,118,ja,False
+132,Aída,Aída,1032,"[18, 35]",2005-01-16,72.821,7.7,221,es,False
+133,Batman: Caped Crusader,Batman: Caped Crusader,125909,"[16, 80, 10759]",2024-08-01,70.742,7.4,145,en,False
+134,The Grand Tour,The Grand Tour,67557,"[10764, 35, 10767]",2016-11-17,70.616,8.0,711,en,False
+135,Transformers: Prime,Transformers: Prime,32910,"[10759, 16, 10762]",2010-11-26,70.338,8.1,420,en,False
+136,El internado,The Boarding School,4743,"[18, 10759, 10751]",2007-05-24,70.038,8.1,575,es,False
+137,McLeod's Daughters,McLeod's Daughters,2041,[18],2001-08-08,69.53,7.2,49,en,False
+138,마우스,Mouse,117378,"[80, 9648, 10765]",2021-03-03,69.494,8.481,241,ko,False
+139,Cosita Linda,Cosita Linda,55029,[18],2014-01-27,69.469,6.7,26,en,False
+140,冴えない彼女の育てかた,Saekano: How to Raise a Boring Girlfriend,69367,"[16, 35]",2015-01-16,68.292,6.7,68,ja,False
+141,Gen V,Gen V,205715,"[10759, 18, 10765]",2023-09-28,68.038,7.902,880,en,False
+142,Метод,Method,64446,"[80, 18, 9648]",2015-10-18,67.54,7.2,64,ru,False
+143,Hot in Cleveland,Hot in Cleveland,32294,[35],2010-06-16,67.313,7.4,111,en,False
+144,Mr. Bean: The Animated Series,Mr. Bean: The Animated Series,2530,"[10762, 16, 35, 10751]",2002-01-05,66.846,6.8,402,en,False
+145,LoliRock,LoliRock,66762,"[16, 10762]",2014-10-18,66.6,8.8,36,fr,False
+146,The Peripheral,The Peripheral,95403,"[10765, 18]",2022-10-20,65.871,7.815,1064,en,False
+147,はたらく細胞,Cells at Work!,80671,"[16, 10759, 35]",2018-07-08,65.751,8.1,261,ja,False
+148,モンスターハンター ストーリーズ RIDE ON,Monster Hunter Stories: Ride On,68098,"[16, 10759, 10762]",2016-10-02,65.735,7.989,44,ja,False
+149,Mako: Island of Secrets,Mako: Island of Secrets,42025,"[35, 10765, 18, 10759]",2013-07-26,65.096,7.62,594,en,False
+150,Octonauts,Octonauts,37472,"[10762, 16, 10759]",2010-10-04,64.983,0.0,0,en,False
+151,Hanna,Hanna,54155,"[10759, 18]",2019-03-28,64.94,7.457,798,en,False
+152,Sneaky Pete,Sneaky Pete,64199,"[18, 80]",2015-08-07,63.353,7.487,316,en,False
+153,구해줘,Save Me,72690,"[80, 35, 18]",2017-08-05,63.004,7.9,49,ko,False
+154,Ben & Holly's Little Kingdom,Ben & Holly's Little Kingdom,32388,"[10762, 16, 35, 10751]",2009-05-04,61.087,5.2,20,en,False
+155,Mayfair Witches,Mayfair Witches,207863,"[18, 10765]",2023-01-08,61.001,7.344,199,en,False
+156,Humans,Humans,62822,"[10765, 18, 9648]",2015-06-14,60.854,7.483,590,en,False
+157,El juego de las llaves,El juego de las llaves,90239,[18],2019-08-16,60.37,7.477,1968,es,False
+158,Солнечные зайчики,Sunny Bunnies,106067,"[10762, 16]",2015-12-06,60.269,2.7,3,be,False
+159,Outer Range,Outer Range,113985,"[18, 9648, 10765]",2022-04-14,60.141,6.9,290,en,False
+160,クレヨンしんちゃん外伝,Crayon Shin-chan Spin-off,67324,"[16, 35]",2016-08-03,60.085,7.8,5,ja,False
+161,Das Boot,Das Boot,83936,"[10768, 18]",2018-11-23,59.462,6.905,121,de,False
+162,Kung Fu Panda: Legends of Awesomeness,Kung Fu Panda: Legends of Awesomeness,39898,"[10759, 16, 35, 10765]",2011-09-19,58.699,7.332,170,en,False
+163,Hospital Central,Hospital Central,12288,[18],2000-04-30,58.243,4.6,13,es,False
+164,Merlí,Merlí,62914,"[35, 18]",2015-09-14,58.095,8.628,1089,ca,False
+165,Dirty Linen,Dirty Linen,202250,"[18, 9648]",2023-01-23,57.689,6.6,104,tl,False
+166,Mirzapur,Mirzapur,84105,"[80, 10759, 18]",2018-11-15,57.199,8.071,133,hi,False
+167,甲鉄城のカバネリ,Kabaneri of the Iron Fortress,65945,"[16, 18, 10759, 10765]",2016-04-08,56.351,6.895,133,ja,False
+168,Hey Duggee,Hey Duggee,74280,"[16, 10762, 10751, 35]",2014-12-17,55.606,7.8,16,en,False
+169,Zorro,Zorro,228477,"[10759, 18]",2024-01-25,55.594,7.7,95,es,False
+170,PSYCHO-PASS サイコパス,Psycho-Pass,43865,"[16, 80, 10765, 10759]",2012-10-12,54.982,7.8,382,ja,False
+171,Los Serrano,Los Serrano,7283,"[35, 10751, 18]",2003-04-22,54.64,5.986,35,es,False
+172,Los hombres de Paco,Paco's Men,34376,"[18, 35, 10759, 80]",2005-10-09,54.392,8.0,194,es,False
+173,The Terminal List,The Terminal List,120911,"[10759, 18]",2022-06-30,54.305,8.03,841,en,False
+174,My Lady Jane,My Lady Jane,203413,"[18, 35, 10765]",2024-06-27,54.111,7.5,106,en,False
+175,더케이투,The K2,67391,"[10759, 18, 10768, 80]",2016-09-23,53.879,7.447,114,ko,False
+176,The Continental: From the World of John Wick,The Continental: From the World of John Wick,72710,"[80, 18, 10759]",2023-09-22,53.47,7.5,464,en,False
+177,Mr. & Mrs. Smith,Mr. & Mrs. Smith,118642,"[10759, 35, 18]",2024-02-01,53.109,6.471,224,en,False
+178,Rush,Rush,5566,"[18, 80]",2008-09-02,53.091,7.577,13,en,False
+179,Modern Love,Modern Love,91602,[35],2019-10-18,52.795,7.4,323,en,False
+180,Upload,Upload,86248,"[35, 10765, 18]",2020-04-30,52.698,7.9,1159,en,False
+181,Good Omens,Good Omens,71915,"[10765, 35, 18]",2019-05-31,52.53,8.059,1974,en,False
+182,Pocoyo,Pocoyo,2437,"[16, 10751]",2005-01-05,52.486,7.0,447,en,False
+183,Hunters,Hunters,79622,"[80, 18]",2020-02-20,52.311,7.232,549,en,False
+184,バナナフィッシュ,Banana Fish,80564,"[16, 18, 10759, 9648, 80]",2018-07-06,52.283,8.583,852,ja,False
+185,El barco,The Boat,42035,"[10759, 9648, 18]",2011-01-17,51.913,7.84,1617,es,False
+186,Velvet,Velvet,61260,[18],2014-01-17,51.429,6.069,51,es,False
+187,名探偵ホームズ,Sherlock Hound,21296,"[10759, 16, 10751]",1984-11-06,50.189,7.1,49,ja,False
+188,Clifford the Big Red Dog,Clifford the Big Red Dog,8379,"[16, 10762]",2000-09-04,50.187,6.6,70,en,False
+189,또 오해영,Another Miss Oh,66082,"[35, 18]",2016-05-02,49.161,8.225,220,ko,False
+190,Mozart in the Jungle,Mozart in the Jungle,61744,"[35, 18]",2014-02-06,48.884,7.5,216,en,False
+191,The Walking Dead: World Beyond,The Walking Dead: World Beyond,94305,"[18, 10765, 9648]",2020-10-04,48.302,7.4,1128,en,False
+192,Mixte,Voltaire High,121460,"[35, 18]",2021-06-14,47.972,7.61,41,fr,False
+193,Bosch: Legacy,Bosch: Legacy,153657,"[80, 18]",2022-05-05,47.961,7.993,149,en,False
+194,メガロボクス,MEGALOBOX,77939,"[16, 10759, 18, 10765]",2018-04-06,47.691,7.949,214,ja,False
+195,7 vidas,7 vidas,111,[35],1999-01-17,47.626,6.0,18,es,False
+196,Carnival Row,Carnival Row,90027,"[80, 18, 10765]",2019-08-29,47.415,7.727,1204,en,False
+197,株式会社マジルミエ,Magilumiere Magical Girls Inc.,240576,"[16, 10759, 10765, 35]",2024-10-04,47.178,0.0,0,ja,False
+198,구미호뎐,Tale of the Nine Tailed,108284,"[10765, 18, 35, 9648]",2020-10-07,46.396,8.4,432,ko,False
+199,일당백집사,May I Help You?,209275,[18],2022-10-19,46.244,7.8,27,ko,False
+200,連続ドキュメンタリー RIDE ON TIME,RIDE ON TIME,112933,[99],2018-10-06,45.716,6.0,2,ja,False
+201,LEGO DREAMZzz,LEGO DREAMZzz,225320,"[16, 10765, 10759, 10762]",2023-05-15,45.543,7.3,17,en,False
+202,Gata Salvaje,Wild Cat,15241,[18],2002-01-14,45.406,7.7,7,es,False
+203,El internado: Las Cumbres,The Boarding School: Las Cumbres,97513,"[18, 9648]",2021-02-19,45.376,7.522,874,es,False
+204,ワンワン三銃士,Dogtanian and the Three Muskehounds,5341,"[10751, 16, 10759, 35, 10765]",1981-10-09,44.319,7.245,55,es,False
+205,クズの本懐,Scum's Wish,69292,"[16, 18]",2017-01-13,44.208,6.312,85,ja,False
+206,The Devil's Hour,The Devil's Hour,157061,"[9648, 80, 18]",2022-10-28,43.75,7.4,188,en,False
+207,The Outpost,The Outpost,79340,"[10765, 10759, 18]",2018-07-10,43.355,7.563,240,en,False
+208,Fleabag,Fleabag,67070,"[35, 18]",2016-07-21,42.967,8.3,1403,en,False
+209,The Secret Life of Us,The Secret Life of Us,87,[18],2001-07-16,42.962,5.6,7,en,False
+210,나의 아저씨,My Mister,76662,[18],2018-03-21,42.756,8.5,132,ko,False
+211,Motherland: Fort Salem,Motherland: Fort Salem,91977,"[10765, 18, 10759]",2020-03-18,42.66,8.0,488,en,False
+212,ヴィンランド・サガ,Vinland Saga,88803,"[16, 10768]",2019-07-08,42.31,8.501,686,ja,False
+213,"Escándalo, relato de una obsesión",Scandal: Story of an Obsession,203505,[18],2023-01-11,42.225,4.2,6,es,False
+214,Game Shakers,Game Shakers,64264,[35],2015-09-12,42.008,7.412,114,en,False
+215,아일랜드,Island,211747,"[10765, 10759, 18]",2022-12-30,41.977,8.0,169,ko,False
+216,Café con Aroma de Mujer,Café con Aroma de Mujer,16961,"[18, 10751, 10764]",1994-12-30,41.598,7.5,383,es,False
+217,Com si fos ahir,Com si fos ahir,260609,"[18, 10766]",2017-09-11,40.995,0.0,0,ca,False
+218,Lalola,Lalola,5430,"[18, 10765, 35]",2007-08-28,40.986,7.654,26,es,False
+219,서진이네,Jinny's Kitchen,214250,[10764],2023-02-24,40.743,8.0,12,ko,False
+220,백일의 낭군님,100 Days My Prince,81821,"[35, 18, 9648]",2018-09-10,40.517,8.0,153,ko,False
+221,Just Add Magic,Just Add Magic,62904,"[10751, 10762, 10765, 35, 9648]",2016-01-15,40.512,7.7,73,en,False
+222,Aquí no hay quien viva,Aquí no hay quien viva,2282,[35],2003-09-07,40.465,8.4,157,es,False
+223,Peter Rabbit,Peter Rabbit,63893,"[16, 10762, 10751]",2013-03-20,40.285,5.267,15,en,False
+224,보라! 데보라,True to Love,210586,"[18, 35]",2023-04-12,40.155,7.4,30,ko,False
+225,Gran Hotel,Grand Hotel,47990,"[18, 9648, 80]",2011-05-10,40.117,7.6,84,es,False
+226,恋は雨上がりのように,After the Rain,75777,"[16, 35, 18]",2018-01-12,39.975,7.1,62,ja,False
+227,Acorralada,Acorralada,13091,"[18, 10766, 80]",2007-01-15,39.85,7.0,83,es,False
+228,아는 와이프,Familiar Wife,80741,"[18, 10765]",2018-08-01,39.826,8.063,127,ko,False
+229,Las Estrellas,Las Estrellas,73812,"[35, 10751, 18]",2017-05-29,39.531,4.6,5,es,False
+230,Águila Roja,Red Eagle,25065,"[10759, 18, 9648]",2009-02-19,39.506,7.7,187,es,False
+231,Clarkson's Farm,Clarkson's Farm,117648,"[10764, 35]",2021-06-11,39.055,8.47,253,en,False
+232,Shimmer and Shine,Shimmer and Shine,67098,"[16, 10751, 10762]",2015-05-11,38.948,4.5,11,en,False
+233,Ourika,The Source,197460,"[10759, 18]",2024-03-28,38.699,6.7,16,fr,False
+234,De viaje con los Derbez,Traveling with the Derbez,94667,[99],2019-10-18,37.038,7.5,1326,es,False
+235,NOS4A2,NOS4A2,85273,"[10765, 18]",2019-06-02,36.564,7.3,378,en,False
+236,Natalia del Mar,Natalia del Mar,201040,"[18, 10766]",2011-06-28,36.418,6.0,2,es,False
+237,국민사형투표,The Killing Vote,217088,"[18, 9648, 80]",2023-08-10,36.174,7.5,33,ko,False
+238,The Tick,The Tick,67487,"[35, 10765, 10759]",2016-08-19,36.166,6.976,270,en,False
+239,가슴이 뛴다,HeartBeat,218099,"[18, 35, 9648, 10765]",2023-06-26,35.298,6.7,26,ko,False
+240,Tales of the Walking Dead,Tales of the Walking Dead,136248,"[18, 10759, 10765]",2022-08-14,34.865,7.221,154,en,False
+241,Them,Them,120462,"[18, 9648]",2021-04-09,34.75,7.602,387,en,False
+242,The Boys Presents: Diabolical,The Boys Presents: Diabolical,152483,"[16, 10759]",2022-03-03,34.673,7.129,325,en,False
+243,Transformers: Rescue Bots,Transformers: Rescue Bots,38881,"[10759, 16, 10762, 10765]",2012-02-18,34.668,7.359,32,en,False
+244,Periodistas,Periodistas,71224,"[35, 18, 10767]",1998-01-13,34.199,4.4,5,es,False
+245,The Exorcist,The Exorcist,67135,"[9648, 18]",2016-09-23,34.187,7.3,679,en,False
+246,유괴의 날,The Kidnapping Day,212203,"[18, 35, 80, 9648]",2023-09-13,33.987,8.462,26,ko,False
+247,Las Amazonas,Las Amazonas,91621,"[10766, 18]",2016-05-16,33.973,7.4,105,es,False
+248,Dance Academy,E Dance Academy,32515,"[35, 18, 10751]",2010-05-31,33.72,7.326,43,en,False
+249,The Walking Dead: Origins,The Walking Dead: Origins,129035,[99],2021-07-15,33.691,7.8,477,en,False
+250,내 남자는 큐피드,My Man Is Cupid,155040,"[35, 18]",2023-12-01,33.664,7.6,47,ko,False
+251,Offspring,Offspring,33155,[18],2010-08-22,33.513,7.1,24,en,False
+252,इंडियन पुलिस फोर्स,Indian Police Force,201009,"[10759, 80]",2024-01-19,33.493,6.649,37,hi,False
+253,La Jauría,La Jauría,104819,"[18, 80]",2020-07-10,33.438,7.3,598,es,False
+254,Dark Winds,Dark Winds,128904,"[80, 18, 9648]",2022-06-12,33.063,7.505,103,en,False
+255,Code Lyoko,Code Lyoko,4622,"[10765, 16, 35, 10759]",2003-09-03,33.022,7.423,71,fr,False
+256,ヲタクに恋は難しい,Wotakoi: Love Is Hard for Otaku,78457,"[35, 16]",2018-04-13,32.974,7.433,105,ja,False
+257,Kung Fu Panda: The Paws of Destiny,Kung Fu Panda: The Paws of Destiny,82747,"[16, 10762, 10751, 10759, 35]",2018-11-15,32.813,7.2,869,en,False
+258,Poliana Moça,Poliana Moça,157059,"[10766, 10759, 10751, 18]",2022-03-21,32.78,6.1,27,pt,False
+259,The Night Manager,The Night Manager,61859,"[18, 9648, 80]",2016-02-21,32.61,7.8,1004,en,False
+260,Física o química,Physics or Chemistry,21631,"[18, 35]",2008-02-04,32.082,8.297,288,es,False
+261,द फ़ैमिली मैन,The Family Man,93352,"[35, 18, 10759]",2019-09-20,32.08,7.758,132,hi,False
+262,Transparent,Transparent,61406,"[35, 18]",2014-09-26,31.967,6.415,147,en,False
+263,11.22.63,11.22.63,64464,"[18, 10765]",2016-02-15,31.723,7.8,1459,en,False
+264,오 나의 귀신님,Oh My Ghost,63119,"[35, 10765, 10766]",2015-07-03,31.393,8.2,110,ko,False
+265,법쩐,Payback: Money and Power,209751,"[18, 9648]",2023-01-06,31.247,6.2,33,ko,False
+266,Santiago of the Seas,Santiago of the Seas,113098,"[10762, 10759]",2020-10-09,31.239,7.3,3,en,False
+267,Manes,Dudes,220663,"[18, 35]",2023-02-15,31.204,8.5,25,es,False
+268,पंचायत,Panchayat,101352,"[35, 18]",2020-03-05,30.7,8.0,86,hi,False
+269,SpongeBob SquarePants,SpongeBob SquarePants,387,"[16, 35, 10751]",1999-05-01,30.484,7.7,2943,en,False
+270,Olvidarte Jamás,Olvidarte Jamás,107142,"[10766, 18]",2006-01-09,30.415,2.0,1,es,False
+271,The Wilds,The Wilds,113367,"[9648, 18]",2020-12-11,30.386,7.763,441,en,False
+272,Harlan Coben's Shelter,Harlan Coben's Shelter,210787,"[18, 9648, 80]",2023-08-17,30.126,7.131,88,en,False
+273,안나,Anna,196268,[18],2022-06-24,29.972,7.5,42,ko,False
+274,無限の住人,Blade of the Immortal,34697,"[16, 10759]",2008-07-14,29.922,6.0,14,ja,False
+275,Ángel Rebelde,Ángel Rebelde,19578,"[18, 10766]",2004-02-02,29.728,3.3,3,es,False
+276,Reina roja,Red Queen,203667,"[10759, 9648]",2024-02-29,29.486,7.1,77,es,False
+277,날 녹여주오,Melting Me Softly,92911,"[9648, 35, 10765]",2019-09-28,29.484,8.0,49,ko,False
+278,Odd Squad,Odd Squad,73549,"[35, 80, 10751, 10765, 9648, 10762]",2014-11-26,29.181,6.5,26,en,False
+279,유령을 잡아라,Catch The Ghost,94615,"[35, 80, 9648]",2019-10-21,29.156,7.3,14,ko,False
+280,Bing,Bing,69501,"[10762, 16, 10751]",2014-06-09,29.14,7.5,8,en,False
+281,Nine Perfect Strangers,Nine Perfect Strangers,88989,"[18, 9648]",2021-08-18,28.818,7.06,436,en,False
+282,Dom,DOM,123377,"[80, 18]",2021-06-04,28.656,7.291,103,pt,False
+283,Blue Water High,Blue Water High,109,"[18, 35]",2005-05-11,28.464,7.132,19,en,False
+284,Los Protegidos,Los Protegidos,62466,"[10751, 35, 18]",2010-01-12,28.064,7.4,28,es,False
+285,Rosario,Rosario,92047,"[10766, 18]",2013-01-28,28.025,5.2,4,es,False
+286,Soñar no Cuesta Nada,Soñar no Cuesta Nada,14849,"[18, 10766]",2005-05-23,28.018,0.0,0,es,False
+287,Les Tres Bessones,The Triplets,66695,"[16, 10762, 10765, 10759]",1995-04-18,27.96,6.8,16,ca,False
+288,Homecoming,Homecoming,80335,[18],2018-11-01,27.871,7.0,284,en,False
+289,Patriot,Patriot,64396,"[35, 18]",2015-11-03,27.436,7.626,143,en,False
+290,El Cid,The Legend of El Cid,94167,"[10759, 18, 10768]",2020-12-18,27.367,7.259,195,es,False
+291,Les Barbapapa,Barbapapa,65136,"[10762, 16, 10751]",1974-01-01,27.307,7.295,22,fr,False
+292,School of Rock,School of Rock,65876,"[35, 10751]",2016-03-12,26.897,7.147,68,en,False
+293,LOL: Last One Laughing,LOL: Last One Laughing,122241,"[35, 10764]",2021-04-01,26.806,7.4,57,de,False
+294,Cruel Summer,Cruel Summer,98201,"[18, 9648]",2021-04-20,26.604,7.45,328,en,False
+295,Sergeant Preston of the Yukon,Sergeant Preston of the Yukon,23365,[37],1955-09-29,26.591,6.0,5,en,False
+296,Expats,Expats,95556,[18],2024-01-25,26.282,6.681,80,en,False
+297,Die Biene Maja,Maya the Bee,61740,"[16, 10762]",2013-04-01,26.211,6.9,20,de,False
+298,The Lost Flowers of Alice Hart,The Lost Flowers of Alice Hart,125816,"[18, 9648]",2023-08-03,26.181,7.683,104,en,False
+299,María Magdalena,Maria Magdalena,86361,[18],2018-10-15,26.144,6.3,18,es,False
+300,Call Me Bae,Call Me Bae,238108,"[18, 35]",2024-09-06,26.118,0.0,0,hi,False
+301,僕の愛しい妖怪ガールフレンド,My Undead Yokai Girlfriend,248395,"[10759, 35, 10765]",2024-03-22,25.98,6.6,9,ja,False
+302,Wilderness,Wilderness,204276,[18],2023-09-15,25.927,6.471,85,en,False
+303,Heirs of the Night,Heirs of the Night,93842,"[10765, 9648]",2019-10-25,25.866,7.3,30,en,False
+304,First Dates,First Dates,84443,"[10764, 10767]",2016-04-17,25.844,4.3,3,es,False
+305,ZeroZeroZero,ZeroZeroZero,92137,"[80, 18]",2020-02-14,25.626,7.7,393,it,False
+306,刻刻,"Kokkoku, Moment by Moment",76131,"[16, 18, 9648, 10765]",2018-01-08,25.605,6.7,42,ja,False
+307,The Power,The Power,95558,"[10765, 9648, 18]",2023-03-30,25.601,6.1,83,en,False
+308,Sebastian Fitzeks Die Therapie,Sebastian Fitzek's Therapy,207713,"[9648, 18]",2023-10-26,25.561,7.3,58,de,False
+309,தி வில்லேஜ்,The Village,200879,"[9648, 10765, 10759]",2023-11-24,25.239,4.765,17,ta,False
+310,Transformers: EarthSpark,Transformers: EarthSpark,157747,"[16, 10762, 10765, 35, 18]",2022-11-11,25.142,6.8,19,en,False
+311,Hardcore Pawn,Hardcore Pawn,33478,"[10764, 99]",2010-08-16,24.95,5.1,54,en,False
+312,Cites,Cites,62453,[18],2015-04-27,24.877,7.133,15,ca,False
+313,异常生物见闻录,Journal of the Mysterious Creatures,91160,"[16, 10765, 35]",2019-06-28,24.839,5.0,6,zh,False
+314,モダンラブ・東京～さまざまな愛の形～,Modern Love Tokyo,208596,[18],2022-10-21,24.708,6.7,17,ja,False
+315,사장님의 식단표,Spice Up Our Love,273307,"[35, 18, 10765]",2024-10-03,24.629,7.5,8,ko,False
+316,Chloe's Closet,Chloe's Closet,34449,"[16, 10762, 35, 10751]",2010-04-19,24.591,5.2,5,en,False
+317,La vuelta al mundo de Willy Fog,Around the World With Willy Fog,5150,"[16, 35, 10759, 10751]",1983-08-01,24.45,7.5,63,es,False
+318,Un paso adelante,Un paso adelante,6798,"[18, 10749, 35]",2002-01-08,24.247,5.8,29,es,False
+319,Historias para no dormir,Tales to Keep You Awake,44495,"[18, 35, 9648, 10765]",1966-02-04,24.094,7.0,13,es,False
+320,Frank Herbert's Children of Dune,Frank Herbert's Children of Dune,9156,"[10765, 18]",2003-03-16,24.001,7.0,205,en,False
+321,バビロン,Babylon,92599,"[16, 10759, 9648, 80]",2019-10-07,23.956,6.1,30,ja,False
+322,ペット,Pet,93593,"[16, 9648, 18]",2020-01-06,23.955,6.4,19,ja,False
+323,Four More Shots Please!,Four More Shots Please!,86165,"[18, 35]",2019-01-24,23.949,5.88,25,hi,False
+324,Monsters vs. Aliens,Monsters vs. Aliens,60789,"[16, 10751]",2013-03-23,23.751,5.893,42,en,False
+325,Swarm,Swarm,220116,"[18, 80, 35]",2023-03-16,23.667,6.726,124,en,False
+326,HITOSHI MATSUMOTO Presents ドキュメンタル,HITOSHI MATSUMOTO Presents Documental,78906,"[35, 10764]",2016-11-30,23.584,8.3,7,ja,False
+327,Porno y helado,Porn and Ice Cream,194807,[35],2022-03-11,23.31,6.9,32,es,False
+328,Compañeros,Compañeros,68662,"[35, 18]",1998-03-25,23.261,5.8,9,es,False
+329,守卫者·浮出水面,Head Above Water,74424,"[80, 18, 9648]",2017-10-16,23.256,2.0,1,zh,False
+330,舟を編む,The Great Passage,65952,"[16, 18]",2016-10-14,23.147,7.2,23,ja,False
+331,Cómo cazar a un monstruo,Hunting a Monster,258847,"[99, 18, 80]",2024-09-06,23.114,8.15,10,es,False
+332,Deadloch,Deadloch,225780,"[35, 80]",2023-06-01,23.082,6.361,83,en,False
+333,Prisma,Prisma,158053,[18],2022-09-21,22.912,7.2,61,it,False
+334,Curro Jiménez,Curro Jiménez,19522,"[10759, 35]",1976-12-22,22.735,6.4,6,es,False
+335,Polly Pocket,Polly Pocket,89095,"[10762, 16]",2018-07-01,22.728,6.0,11,en,False
+336,Sacrificio de Mujer,Sacrificio de Mujer,32982,[18],2011-04-18,22.453,2.0,1,en,False
+337,Sin huellas,No Traces,219432,"[35, 10759]",2023-03-16,22.382,6.929,35,es,False
+338,LOL: Last One Laughing,LOL: Last One Laughing,84969,[35],2018-12-13,22.378,7.4,310,es,False
+339,Mar de plástico,Mar de plástico,63869,"[80, 9648, 18]",2015-09-22,22.219,5.354,24,es,False
+340,Madres: amor y vida,Madres: amor y vida,103156,[18],2020-05-08,22.149,5.8,10,es,False
+341,Escort Boys,Escort Boys,241063,"[18, 35]",2023-12-22,22.145,6.9,25,fr,False
+342,Kong: The Animated Series,Kong: The Animated Series,12620,"[16, 10759, 10765]",2000-09-09,22.117,6.8,6,en,False
+343,"De brutas, nada",De brutas nada,111499,"[35, 18]",2020-06-11,22.099,8.1,553,es,False
+344,Tickety Toc,Tickety Toc,76297,"[16, 10762]",2012-09-10,21.885,2.0,1,ko,False
+345,Cimarron Strip,Cimarron Strip,11988,[37],1967-09-07,21.858,5.045,11,en,False
+346,El pueblo,The Countryside,89427,[35],2019-05-14,21.768,7.638,29,es,False
+347,S.O.Z: Soldados o Zombies,S.O.Z: Soldiers or Zombies,95281,"[18, 10765]",2021-08-06,21.619,7.157,655,es,False
+348,Jury Duty,Jury Duty,222023,[35],2023-04-07,21.577,7.648,142,en,False
+349,The Second Best Hospital in the Galaxy,The Second Best Hospital in the Galaxy,202667,"[16, 10765, 35]",2024-02-22,21.503,7.6,24,en,False
+350,Undone,Undone,86340,"[16, 10765, 18]",2019-09-12,21.444,7.685,284,en,False
+351,Los misterios de Laura,Los misterios de Laura,62984,"[80, 18, 9648]",2009-07-27,21.391,7.1,25,es,False
+352,¿Quién lo mató?,Who Killed Him?,252146,"[80, 9648, 18]",2024-05-24,21.355,7.568,66,es,False
+353,Eva Luna,Eva Luna,37743,[18],2010-11-01,21.27,7.0,67,es,False
+354,The Hour,The Hour,39718,"[18, 10767, 10768, 80]",2011-07-19,21.268,7.6,79,en,False
+355,Kevin Can F**K Himself,Kevin Can F**K Himself,99652,"[35, 18]",2021-06-20,21.216,6.878,78,en,False
+356,Little Fires Everywhere,Little Fires Everywhere,90257,[18],2020-03-18,21.156,7.7,317,en,False
+357,HIT,HIT,110338,"[18, 10751]",2020-09-21,21.136,7.2,12,es,False
+358,Les Revenants,The Returned,46616,"[9648, 10765, 18]",2012-11-26,21.046,7.419,248,fr,False
+359,Jalas o Te Rajas,Prank or Tank,228820,[10764],2023-06-15,20.942,7.6,17,es,False
+360,The Rig,The Rig,112581,"[18, 9648]",2023-01-06,20.919,6.75,144,en,False
+361,Okkupert,Occupied,63867,"[18, 10768]",2015-11-19,20.772,7.2,104,no,False
+362,Mya Go,Mya Go,99241,"[10751, 10762]",2020-01-13,20.77,6.0,1,en,False
+363,Red Oaks,Red Oaks,63130,"[35, 18]",2014-08-28,20.741,7.275,100,en,False
+364,エスカ＆ロジーのアトリエ 〜黄昏の空の錬金術士〜,Atelier Escha & Logy: Alchemists of the Dusk Sky,60819,"[16, 10765, 35]",2014-04-10,20.74,7.1,34,ja,False
+365,Morangos com Açúcar,Sweet Strawberries,234520,"[18, 35, 9648]",2023-10-23,20.636,5.8,7,pt,False
+366,Too Old to Die Young,Too Old to Die Young,70168,"[80, 18]",2019-06-10,20.618,7.4,146,en,False
+367,沈黙の艦隊,The Silent Service,244814,"[18, 10768]",2024-02-09,20.565,5.7,3,ja,False
+368,Hand of God,Hand of God,61263,[18],2014-08-28,20.397,6.702,119,en,False
+369,The Romanoffs,The Romanoffs,73607,[18],2018-10-11,20.366,6.5,61,en,False
+370,Utopia,Utopia,78903,"[18, 10759, 9648]",2020-09-25,20.334,7.3,430,en,False
+371,Ciega a citas,Ciega a citas,71164,[35],2014-03-10,20.309,5.7,3,es,False
+372,バッテリー,Battery,65957,"[16, 18]",2016-07-15,20.258,6.1,8,ja,False
+373,"Policías, en el corazón de la calle","Policías, en el corazón de la calle",61793,"[10759, 80, 18]",2000-01-11,20.228,4.5,2,es,False
+374,The Widow,The Widow,85854,"[18, 10759]",2019-02-28,20.054,6.881,177,en,False
+375,I Know What You Did Last Summer,I Know What You Did Last Summer,129680,"[18, 9648]",2021-10-14,19.774,6.6,200,en,False
+376,44 Gatti,44 Cats,89387,"[16, 35, 10762, 10759, 10751]",2018-11-11,19.764,7.2,10,it,False
+377,Los Farad,Los Farad,225283,"[18, 80]",2023-12-12,19.675,6.556,44,es,False
+378,L'Acadèmia,The Academy,250713,[18],2024-04-01,19.652,5.7,5,ca,False
+379,Ricky Zoom,Ricky Zoom,97854,"[16, 10762, 10751, 35]",2019-09-02,19.622,6.0,6,en,False
+380,Zou,Zou,78250,[16],2012-05-12,19.517,6.6,5,fr,False
+381,Modern Love Chennai,Modern Love Chennai,200874,"[35, 18]",2023-05-18,19.513,6.5,8,ta,False
+382,Farmacia de guardia,Farmacia de guardia,70217,[35],1991-09-19,19.446,6.0,10,es,False
+383,The Consultant,The Consultant,139099,"[35, 18]",2023-02-23,19.372,6.809,165,en,False
+384,With Love,With Love,126914,"[35, 18]",2021-12-16,19.206,6.5,34,en,False
+385,Jet Lag,Jet Lag,62579,[35],2001-10-02,19.042,2.0,1,ca,False
+386,Holocaust,Holocaust,15571,"[18, 10768]",1978-04-16,19.032,7.4,62,en,False
+387,David el gnomo,The World of David the Gnome,2849,"[16, 10762, 10765]",1985-10-26,18.962,7.1,44,es,False
+388,ラブ トランジット,Love Transit,226878,[10764],2023-06-15,18.958,0.0,0,ja,False
+389,Sin tetas no hay paraíso,Sin tetas no hay paraíso,3988,[18],2008-01-09,18.694,5.042,12,es,False
+390,"Iosi, el espía arrepentido","Yosi, the Regretful Spy",155646,[18],2022-04-29,18.616,6.925,20,es,False
+391,Lore,Lore,73987,"[9648, 18]",2017-10-13,18.592,6.9,385,en,False
+392,Wolf Like Me,Wolf Like Me,136738,"[35, 10765, 18]",2022-01-13,18.571,7.2,116,en,False
+393,Harry Wild,Harry Wild,156993,"[18, 9648, 35]",2022-04-04,18.394,6.69,42,en,False
+394,Mis adorables vecinos,Mis adorables vecinos,65873,[35],2004-04-11,18.371,6.0,5,es,False
+395,Crusoe,Crusoe,7224,"[18, 10759]",2008-10-17,18.326,6.7,23,en,False
+396,仮面ライダーBLACK SUN,Kamen Rider Black Sun,135822,"[10759, 18, 10765]",2022-10-28,18.198,8.264,53,ja,False
+397,A League of Their Own,A League of Their Own,107005,"[35, 18]",2022-08-11,18.143,6.938,97,en,False
+398,LOL: Chi ride è fuori,LOL: Last One Laughing Italy,120494,"[35, 10764]",2021-04-01,18.109,7.1,96,it,False
+399,Der Greif,The Gryphon,221871,"[10765, 18]",2023-05-26,17.772,6.768,82,de,False
+400,Hostel Daze,Hostel Daze,96421,"[18, 35]",2019-12-13,17.734,7.282,39,hi,False
+401,Yoko,Yoko,96023,[],2016-09-12,17.611,0.0,0,es,False
+402,ImMATURE,ImMATURE,87030,"[35, 18]",2019-02-20,17.61,7.2,15,hi,False
+403,Gortimer Gibbon's Life on Normal Street,Gortimer Gibbon's Life on Normal Street,60610,"[10751, 10762]",2014-02-06,17.5,9.0,16,en,False
+404,Polseres vermelles,Polseres vermelles,42194,[18],2011-01-24,17.486,7.8,23,ca,False
+405,Heidi,Heidi,62475,"[16, 10751, 10762, 18]",2015-04-06,17.472,6.888,40,en,False
+406,Inside Edge,Inside Edge,72739,[18],2017-07-09,17.453,6.0,25,hi,False
+407,El Príncipe,El Principe,60621,"[80, 18]",2014-02-04,17.287,6.95,20,es,False
+408,Ana y los 7,Ana y los 7,76671,"[10751, 35, 18]",2002-03-18,17.233,4.8,8,es,False
+409,King Solomon's Mines,King Solomon's Mines,19699,[10759],2004-06-13,17.179,6.266,145,en,False
+410,Dead Ringers,Dead Ringers,130987,"[9648, 18]",2023-04-20,17.158,6.3,83,en,False
+411,Maradona: Sueño bendito,"Maradona, Blessed Dream",113901,[18],2021-10-29,17.079,7.5,640,es,False
+412,Truth Seekers,Truth Seekers,92209,[35],2020-10-30,16.92,7.094,234,en,False
+413,Hernán,Hernán,94536,"[18, 10759]",2019-11-21,16.689,7.77,174,es,False
+414,Alphonse,Alphonse,197436,"[35, 18]",2023-10-12,16.469,6.3,18,fr,False
+415,Nate Is Late,Nate Is Late,95775,"[10762, 16, 10765, 35]",2018-05-26,16.461,7.0,6,en,False
+416,Cangaço Novo,New Bandits,137883,"[18, 80, 37]",2023-08-17,16.44,7.6,48,pt,False
+417,Sanctuary: A Witch's Tale,Sanctuary: A Witch's Tale,238585,"[18, 10765]",2024-01-04,16.37,6.3,23,en,False
+418,"Ellas aman, Ellos mienten","Ellas aman, Ellos mienten",112212,"[18, 9648, 10766]",2018-09-19,16.332,6.0,2,es,False
+419,Wir Kinder vom Bahnhof Zoo,We Children from Bahnhof Zoo,115771,[18],2021-02-19,16.281,6.5,95,de,False
+420,En fin,En Fin,225282,[35],2024-09-13,16.277,6.0,23,es,False
+421,Daisy Jones & the Six,Daisy Jones & the Six,95555,[18],2023-03-02,16.27,8.0,153,en,False
+422,I'm a Virgo,I'm a Virgo,105169,"[35, 10765, 18]",2023-06-22,16.26,6.8,39,en,False
+423,James May: Our Man in…,James May: Our Man in…,96723,"[99, 35, 10759]",2020-01-03,16.205,7.7,94,en,False
+424,Solos,Solos,119279,"[10765, 18]",2021-05-21,16.198,6.79,214,en,False
+425,Made in Heaven,Made in Heaven,87407,[18],2019-03-07,16.197,7.2,31,hi,False
+426,Paper Girls,Paper Girls,106431,"[18, 9648, 10765]",2022-07-28,16.164,7.496,125,en,False
+427,Operación Marea Negra,Silent Cargo,128676,"[80, 18]",2022-02-25,16.153,6.0,20,es,False
+428,Little Princess,Little Princess,16673,"[16, 10762]",2007-12-05,16.15,4.8,6,en,False
+429,Eufòria,Eufòria,196632,[],2022-03-03,16.115,6.0,2,ca,False
+430,The One That Got Away,The One That Got Away,220134,"[18, 35]",2018-01-15,16.043,0.0,0,tl,False
+431,बंबई मेरी जान,Bambai Meri Jaan,202237,"[80, 18]",2023-09-14,16.041,0.0,0,hi,False
+432,SamSam,SamSam,62206,[16],2007-07-02,15.997,3.7,3,fr,False
+433,Salade grecque,Greek Salad,121459,"[18, 35]",2023-04-14,15.942,7.0,23,fr,False
+434,Lost in Oz,Lost in Oz,63054,"[16, 10751, 10765, 10762, 35]",2015-06-26,15.921,6.5,16,en,False
+435,Un asunto privado,A Private Affair,112321,"[35, 9648, 18]",2022-09-16,15.915,7.214,49,es,False
+436,Conan the Adventurer,Conan the Adventurer,13260,"[10765, 10759]",1997-09-22,15.912,6.2,29,en,False
+437,Night Sky,Night Sky,111894,"[10765, 18]",2022-05-19,15.79,6.9,163,en,False
+438,Cómo sobrevivir soltero,How to Survive Being Single,103787,"[35, 18]",2020-06-26,15.784,7.1,318,es,False
+439,Ángel o demonio,Angel or Demon,62501,"[10765, 9648]",2011-02-01,15.738,6.9,11,es,False
+440,El Candidato,El Candidato,106108,"[10759, 80]",2020-07-17,15.736,6.9,131,es,False
+441,मुंबई डायरीज,Mumbai Diaries,115466,"[18, 9648]",2021-09-09,15.715,7.1,21,hi,False
+442,Killer Cakes,Killer Cakes,261963,[10764],2024-10-08,15.679,6.5,2,en,False
+443,아파트 404,Apartment 404,236536,[10764],2024-02-23,15.472,8.4,5,ko,False
+444,पाताल लोक,Paatal Lok,103051,"[80, 18]",2020-05-15,15.45,7.35,70,hi,False
+445,Last Light,Last Light,195821,"[18, 10765]",2022-09-08,15.373,6.3,45,en,False
+446,Las vueltas que da la vida,Las vueltas que da la vida,237057,[35],2022-10-22,15.312,0.0,0,es,False
+447,Dino Dana,Dino Dana,71655,"[10762, 10751, 35]",2017-05-26,15.295,7.0,11,en,False
+448,The Tribe,The Tribe,249753,[10764],2024-10-04,15.186,0.0,0,en,False
+449,Innocent,Innocent,79013,"[80, 9648, 18]",2018-05-14,15.143,7.238,42,en,False
+450,Planeta Calleja,Planeta Calleja,77727,[],2014-04-13,15.04,0.0,0,es,False
+451,Mentiras Perfectas,Mentiras Perfectas,107078,[18],2013-10-28,14.963,8.25,14,es,False
+452,Tales from the Loop,Tales from the Loop,93784,"[18, 9648, 10765]",2020-04-03,14.955,6.944,383,en,False
+453,Permanent Roommates,Permanent Roommates,64068,[35],2014-10-29,14.87,7.174,46,hi,False
+454,P#t@s redes sociales,F#Ck1Ng Social Media,233531,"[35, 18]",2023-09-14,14.757,7.7,24,es,False
+455,Forever,Forever,81317,"[35, 18]",2018-09-14,14.715,6.654,52,en,False
+456,El tiempo entre costuras,The Time in Between,63485,"[10759, 18]",2013-10-21,14.702,7.6,47,es,False
+457,Jubilee,Jubilee,222922,[18],2023-04-07,14.699,7.1,16,hi,False
+458,जी करदा,Jee Karda,227807,"[35, 18]",2023-06-15,14.645,7.0,5,hi,False
+459,Panic,Panic,122530,"[10759, 18, 80]",2021-05-27,14.52,7.3,260,en,False
+460,"LOL : Qui rit, sort !","LOL : Qui rit, sort !",122228,"[35, 10764]",2021-04-23,14.511,6.6,52,fr,False
+461,Un Extraño Enemigo,An Unknown Enemy,82297,"[18, 10768, 80]",2018-10-01,14.425,8.014,70,es,False
+462,Amor secreto,Amor secreto,90517,[18],2015-05-15,14.324,2.0,1,es,False
+463,German Crime Story: Gefesselt,German Crime Story: Gefesselt,218069,[80],2023-01-13,14.23,7.6,17,de,False
+464,Chavorrucos,Manchild,229509,[35],2023-07-06,14.088,7.222,9,es,False
+465,Jean-Claude Van Johnson,Jean-Claude Van Johnson,67497,"[10759, 35, 18]",2016-08-19,14.016,6.542,144,en,False
+466,Molang,Molang,84508,"[16, 10751]",2015-11-02,14.004,5.3,6,xx,False
+467,దూత,Dhootha,200946,"[9648, 80, 18]",2023-11-30,13.979,7.071,14,te,False
+468,LOL: Last One Laughing Nederland,LOL: Last One Laughing Netherlands,218529,[35],2023-01-20,13.937,6.0,5,nl,False
+469,The Baxters,The Baxters,244563,[18],2024-03-27,13.92,7.2,4,en,False
+470,Sin límites,Boundless,128032,"[10759, 18]",2022-06-17,13.889,7.5,102,es,False
+471,Death Comes to Pemberley,Death Comes to Pemberley,56484,"[18, 9648]",2013-12-26,13.866,6.839,84,en,False
+472,Breathe: Into the Shadows,Breathe: Into the Shadows,105521,"[18, 9648, 80]",2020-07-09,13.82,7.306,31,hi,False
+473,Dispatches from Elsewhere,Dispatches from Elsewhere,81241,"[18, 9648]",2020-03-01,13.78,6.698,106,en,False
+474,La Usurpadora,The Usurper,92433,"[18, 10766]",2019-09-02,13.778,6.9,314,es,False
+475,Düğüm,Dilemma,247219,"[18, 9648]",2024-02-23,13.639,4.8,4,tr,False
+476,Dulceida al desnudo,Dulceida al desnudo,213840,[99],2022-11-04,13.597,6.661,115,es,False
+477,Maggie & Bianca Fashion Friends,Maggie & Bianca Fashion Friends,73379,"[35, 10762]",2016-08-29,13.57,7.6,10,it,False
+478,சுழல்,Suzhal - The Vortex,200861,"[80, 9648]",2022-06-17,13.406,6.5,24,ta,False
+479,El fin del amor,The End of Love,211855,"[18, 35]",2022-11-04,13.369,7.2,41,es,False
+480,Niko and the Sword of Light,Niko and the Sword of Light,72898,"[16, 10759, 10765]",2017-07-21,13.33,7.9,9,en,False
+481,Little Big Awesome,Little Big Awesome,67657,"[35, 10751, 16, 10759, 37]",2018-04-26,13.242,0.0,0,en,False
+482,Les de l'hoquei,The Hockey Girls,90129,[18],2019-04-29,13.191,6.7,14,ca,False
+483,Memento Mori,Memento Mori,234921,[80],2023-10-27,13.16,6.5,22,es,False
+484,Nit i dia,Night and Day,65497,"[80, 18, 9648]",2016-02-01,13.135,5.083,12,ca,False
+485,Archangel,Archangel,30301,"[18, 10759]",2005-03-19,13.106,6.227,44,en,False
+486,Машины сказки,Masha's tales,55397,"[16, 10762, 10751, 35]",2012-01-01,13.053,5.2,9,ru,False
+487,El Presidente,El Presidente,101881,[18],2020-06-05,13.031,7.2,420,es,False
+488,La otra mirada,A Different View,79082,[18],2018-04-25,13.021,6.95,20,es,False
+489,Tarzán,Tarzán,11737,[10759],1991-10-06,12.995,5.85,10,en,False
+490,Soulmates,Soulmates,100771,"[10765, 80, 18]",2020-10-05,12.992,6.222,72,en,False
+491,Mrs Sidhu Investigates,Mrs Sidhu Investigates,235111,"[18, 35, 80, 9648]",2023-09-18,12.955,7.1,10,en,False
+492,Class of '07,Class of '07,207374,"[35, 18]",2023-03-16,12.935,6.8,37,en,False
+493,The Lake,The Lake,158051,"[35, 18]",2022-06-16,12.918,6.406,32,en,False
+494,Novela,Soap Opera,130845,[35],2023-07-27,12.902,6.6,9,pt,False
+495,Paradise City,Paradise City,5768,"[10765, 18]",2021-03-25,12.843,8.1,162,en,False
+496,Mia and Me,Mia and Me,52051,"[16, 10762, 10751]",2012-08-06,12.839,7.0,43,en,False
+497,Enchantimals: Tales From Everwilde,Enchantimals: Tales From Everwilde,100435,"[16, 10751, 10762]",2018-07-20,12.823,8.0,4,en,False
+498,Los Secretos de Lucía,Los Secretos de Lucía,205960,"[10759, 80]",2014-04-22,12.817,2.0,1,es,False
+499,Gran reserva,Gran reserva,59164,"[18, 10751]",2010-04-15,12.731,4.833,6,es,False
+500,The Last Tycoon,The Last Tycoon,67925,[18],2017-07-28,12.725,7.202,52,en,False
+501,Regal Academy,Regal Academy,68737,"[16, 35, 10751]",2016-05-21,12.696,8.2,21,it,False
+502,Barrabrava,Club Hooligans,228963,"[9648, 18, 80]",2023-06-22,12.694,7.9,26,es,False
+503,All or Nothing: Die Nationalmannschaft in Katar,All or Nothing – The German National Team in Qatar,233894,"[99, 35]",2023-09-08,12.692,7.4,13,de,False
+504,Válgame Dios,Válgame Dios,45115,"[18, 10766]",2012-03-13,12.609,7.333,13,es,False
+505,Romancero,Romancero,225287,[9648],2023-11-03,12.577,5.5,15,es,False
+506,కుమారి శ్రీమతి,Kumari Srimathi,235819,"[35, 18]",2023-09-28,12.571,7.0,5,te,False
+507,Pan y circo,Pan y Circo,107112,[10767],2020-08-06,12.561,5.8,5,es,False
+508,The Day of the Triffids,The Day of the Triffids,39796,[10765],2009-12-28,12.505,5.9,132,en,False
+509,Prime Rewind: Inside The Boys,Prime Rewind: Inside The Boys,106418,[10767],2020-08-27,12.498,6.2,8,en,False
+510,Ana,Ana,102625,"[35, 18]",2020-04-20,12.436,7.2,147,es,False
+511,दहाड़,Dahaad,201050,"[80, 9648, 18]",2023-05-12,12.391,6.842,19,hi,False
+512,Darby and Joan,Darby and Joan,157395,"[9648, 18]",2022-08-08,12.379,6.3,6,en,False
+513,Allí abajo,Allí abajo,62524,[35],2015-04-07,12.363,6.174,23,es,False
+514,The Forgotten Army - Azaadi Ke Liye,The Forgotten Army,96853,"[18, 10759]",2020-01-24,12.356,7.0,153,hi,False
+515,Tumble Leaf,Tumble Leaf,65047,"[10762, 16]",2013-04-19,12.162,7.4,5,en,False
+516,Aspirants,Aspirants,124411,[18],2021-04-07,12.093,7.4,46,hi,False
+517,Everybody Loves Diamonds,Everybody Loves Diamonds,229183,"[18, 80, 35]",2023-10-12,12.067,6.5,32,it,False
+518,"Miskina, la pauvre","Miskina, la pauvre",137207,[35],2022-09-30,12.022,5.9,11,fr,False
+519,La cabeza de Joaquín Murrieta,The Head of Joaquín Murrieta,135502,"[18, 37, 10759]",2023-02-17,11.947,6.586,29,es,False
+520,The Underground Railroad,The Underground Railroad,80039,"[18, 10765]",2021-05-13,11.906,7.4,125,en,False
+521,Mala fortuna,Misfortune,231858,[35],2023-08-17,11.819,7.2,6,es,False
+522,That Dirty Black Bag,That Dirty Black Bag,157084,"[37, 18]",2022-03-10,11.8,6.9,52,en,False
+523,Éternelle,Éternelle,35738,"[9648, 18, 10765]",2009-07-30,11.749,4.5,2,fr,False
+524,अधूरा,Adhura,201085,[9648],2023-07-07,11.682,6.25,12,hi,False
+525,Celebrity Hunted : Chasse à l'homme,Celebrity Hunted - France - Manhunt,136673,"[10759, 10764]",2021-10-29,11.677,5.8,8,fr,False
+526,CAT. 8,CAT. 8,64777,"[10759, 10765]",2013-02-08,11.614,6.5,41,en,False
+527,A las once en casa,A las once en casa,71154,[35],1998-01-12,11.61,4.5,2,es,False
+528,The Horror of Dolores Roach,The Horror of Dolores Roach,217825,"[18, 35]",2023-07-06,11.499,6.6,48,en,False
+529,Cannes Confidential,Cannes Confidential,201582,"[35, 80, 18]",2023-06-26,11.316,5.7,7,en,False
+530,All or Nothing: Tottenham Hotspur,All or Nothing: Tottenham Hotspur,106195,[99],2020-08-31,11.264,7.2,57,en,False
+531,Diablo Guardián,Diablo Guardián,58347,[18],2018-05-03,11.251,5.5,15,es,False
+532,The GOAT,The GOAT,250316,[10764],2024-05-09,11.203,2.5,2,en,False
+533,LEGO Jurassic World: Legend of Isla Nublar,LEGO: Jurassic World - Legend of Isla Nublar,93895,"[16, 10759, 10751, 10762, 10765, 35]",2019-07-06,11.176,7.0,84,en,False
+534,London Kills,London Kills,85547,"[18, 80]",2019-02-25,11.175,6.643,28,en,False
+535,Ennemi public,Public Enemy,66384,"[80, 18]",2016-05-01,11.136,6.768,28,fr,False
+536,Harlem,Harlem,138089,[35],2021-12-02,11.118,7.781,57,en,False
+537,Zločiny Velké Prahy,The Prague Mysteries,105917,"[80, 18]",2021-01-31,11.094,6.5,10,cs,False
+538,Motivos personales,Motivos personales,68577,[],2005-02-01,11.079,4.5,4,es,False
+539,Big Girls Don't Cry,Big Girls Don't Cry,248065,[18],2024-03-14,10.899,4.0,2,en,False
+540,ஸ்வீட் காரம் காபி,Sweet Kaaram Coffee,201088,"[35, 10751]",2023-07-06,10.898,6.2,4,ta,False
+541,Breathe,Breathe,76659,"[80, 18]",2018-01-26,10.843,7.516,62,hi,False
+542,LOL: Kto się śmieje ostatni,LOL: Last One Laughing Poland,224504,"[10764, 35]",2023-04-14,10.836,5.0,6,pl,False
+543,The Incredible Journey of Mary Bryant,The Incredible Journey of Mary Bryant,16491,[18],2005-10-30,10.822,7.2,31,en,False
+544,Crisis in Six Scenes,Crisis in Six Scenes,67443,[35],2016-09-30,10.787,6.5,136,en,False
+545,Beat,Beat,83872,[18],2018-11-09,10.785,7.0,42,de,False
+546,Gormiti,Gormiti,96840,"[10762, 16, 35, 10759]",2018-09-10,10.776,7.2,8,en,False
+547,Corazón Esmeralda,Corazón Esmeralda,107163,"[18, 10766]",2014-03-03,10.769,2.0,1,es,False
+548,The Test,The Test,95837,"[18, 99]",2020-03-12,10.704,7.6,17,en,False
+549,బుజ్జి అండ్ భైరవా,Bujji & Bhairava,255504,"[10759, 35, 10765, 16]",2024-05-31,10.622,0.0,0,te,False
+550,The Madame Blanc Mysteries,The Madame Blanc Mysteries,136275,[18],2021-10-16,10.621,7.3,21,en,False
+551,Making the Cut,Making the Cut,101046,[10764],2020-03-27,10.544,6.3,16,en,False
+552,風雲！たけし城,Takeshi's Castle Japan,225072,[10764],2023-04-21,10.543,5.9,16,ja,False
+553,Perverso,Heartless,239663,"[18, 80]",2024-04-19,10.502,6.2,13,es,False
+554,Un esposo para Estela,Un esposo para Estela,136230,"[18, 10766]",2009-09-16,10.421,2.0,1,es,False
+555,Mrs Wilson,Mrs Wilson,78969,[18],2018-11-27,10.388,6.981,79,en,False
+556,All or Nothing,All or Nothing,66943,"[99, 10764]",2016-06-30,10.345,7.5,18,en,False
+557,Casanova,Casanova,11157,"[18, 35]",2005-03-13,10.323,7.029,51,en,False
+558,Shiny Happy People: Duggar Family Secrets,Shiny Happy People: Duggar Family Secrets,226751,[99],2023-06-01,10.314,7.4,17,en,False
+559,Rencana Besar,Rencana Besar,236396,"[18, 80]",2023-10-05,10.291,8.0,2,id,False
+560,Gigolò per caso,Fading Gigolo,241918,[35],2023-12-21,10.29,6.5,15,it,False
+561,Henry VIII,Henry VIII,77961,[18],2003-10-12,10.249,6.5,10,en,False
+562,Atasco,Atasco,248960,[35],2024-05-24,10.237,5.8,6,es,False
+563,Sequía,Drought,128034,"[9648, 80]",2022-01-18,10.218,5.9,6,es,False
+564,வதந்தி,Vadhandhi,200881,"[9648, 80, 18]",2022-12-02,10.199,7.0,7,ta,False
+565,Danger & Eggs,Danger & Eggs,71986,"[10751, 16, 10762]",2017-06-30,10.13,6.1,7,en,False
+566,Flames,FLAMES,76369,"[35, 18]",2018-01-05,10.09,7.2,28,hi,False
+567,Life and Dirt,Life and Dirt,273350,[18],2024-10-03,10.083,0.0,0,en,False
+568,FC Barcelona: A New Era,FC Barcelona: A New Era,216667,[99],2022-12-28,10.062,7.364,11,en,False
+569,Sherlock Yack – Zoo Detective,Sherlock Yack – Zoo Detective,54478,"[16, 10762, 10751]",2011-11-19,10.045,5.3,5,fr,False
+570,You Are Wanted,You Are Wanted,70048,"[18, 9648]",2017-03-17,9.996,6.218,39,de,False
+571,Milo,Milo,226566,"[10762, 16]",2021-05-10,9.99,0.0,0,en,False
+572,Plats bruts,Plats bruts,4802,[35],1999-04-19,9.966,8.0,4,ca,False
+573,Z: The Beginning of Everything,Z: The Beginning of Everything,64506,[18],2015-11-03,9.931,7.171,41,en,False
+574,बंदिश बैंडिट्स,Bandish Bandits,106872,"[10751, 18]",2020-08-04,9.913,7.6,16,hi,False
+575,Viktor bringt's,Viktor bringt's,255313,[35],2024-05-30,9.87,6.5,11,de,False
+576,Ingebrigtsen: Born to Run,Ingebrigtsen: Born to Run,258771,[],2024-09-20,9.826,10.0,1,no,False
+577,In Your Dreams,In Your Dreams,239763,"[10759, 10765]",2023-11-24,9.824,5.3,6,en,False
+578,DIVE!!,DIVE!!,72503,"[16, 35]",2017-07-07,9.762,6.1,7,ja,False
+579,Baahubali: The Lost Legends,Baahubali: The Lost Legends,71819,"[10759, 16]",2017-04-23,9.759,7.2,5,en,False
+580,El Caso: crónica de sucesos,El Caso: crónica de sucesos,65862,[18],2016-03-15,9.752,6.6,10,es,False
+581,LOL: Last One Laughing Colombia,LOL: Last One Laughing Colombia,231804,"[10764, 35]",2023-08-10,9.735,8.5,18,es,False
+582,P.I. मीना,P.I. Meena,201089,"[80, 9648]",2023-11-03,9.646,6.8,4,hi,False
+583,Age of the Living Dead,Age of the Living Dead,78231,"[10759, 10765]",2018-01-07,9.639,5.1,21,en,False
+584,Pequeñas Coincidencias,Little Coincidences,84763,[35],2018-12-07,9.622,6.222,9,es,False
+585,Los artistas: Primeros trazos,Los artistas: Primeros trazos,230212,[18],2023-07-07,9.57,7.0,10,en,False
+586,వ్యూహం,Vyooham,241347,"[18, 80]",2023-12-14,9.555,7.5,2,te,False
+587,Señoras del (h)AMPA,Dangerous Moms,89763,"[18, 35, 10751]",2019-06-19,9.528,5.5,15,es,False
+588,Hlava Medúzy,Hlava Medúzy,105918,[80],2021-01-11,9.516,5.6,4,cs,False
+589,Caronte,Caronte,99565,[18],2020-03-06,9.478,6.0,13,es,False
+590,Parot,Parot,121898,"[9648, 80, 10768, 18]",2021-05-28,9.425,6.3,42,es,False
+591,Good Girls Revolt,Good Girls Revolt,66869,[18],2015-11-04,9.422,6.829,41,en,False
+592,Iron Road,Iron Road,24852,[18],2009-08-09,9.4,8.7,3,en,False
+593,Fairfax,Fairfax,135597,"[35, 16]",2021-10-29,9.353,5.0,17,en,False
+594,El Dorado,El Dorado,39245,"[10759, 18]",2010-08-25,9.278,4.6,19,en,False
+595,Sueltos en Los Cabos,Wild and Free: Cabo,251026,[10764],2024-04-26,9.162,6.6,10,es,False
+596,Inspector Rishi,Inspector Rishi,249543,"[9648, 10759, 18]",2024-03-29,9.153,6.3,7,ta,False
+597,Vita da Carlo,Vita da Carlo,135794,[35],2021-11-05,9.152,6.8,32,it,False
+598,Manhãs de Setembro,September Mornings,118102,[18],2021-06-25,9.148,7.174,43,pt,False
+599,All or Nothing: Manchester City,All or Nothing: Manchester City,81705,[99],2018-08-17,9.105,7.3,68,en,False
+600,Súbete a mi moto,Súbete a mi moto,111119,"[18, 99]",2020-10-09,9.084,7.6,365,es,False
+601,Queens of Mystery,Queens of Mystery,82139,"[18, 35, 9648, 80]",2019-04-08,9.055,7.2,19,en,False
+602,Blackbeard,Blackbeard,72954,"[10759, 18]",2006-06-17,9.032,5.1,20,en,False
+603,LOL: Last One Laughing Argentina,LOL: Last One Laughing Argentina,222598,[35],2023-03-16,8.994,4.1,9,es,False
+604,The Virgin Queen,The Virgin Queen,13710,[18],2006-01-22,8.989,6.2,29,en,False
+605,Borat’s American Lockdown & Debunking Borat,Borat’s American Lockdown & Debunking Borat,126326,"[35, 10764]",2021-05-24,8.901,5.2,18,en,False
+606,Noticia de un Secuestro,News of a Kidnapping,206637,[18],2022-08-12,8.891,6.5,23,es,False
+607,Sabtu Bersama Bapak,Saturday With Dad,229329,"[18, 10751]",2023-06-29,8.869,7.3,3,id,False
+608,The Stinky & Dirty Show,The Stinky & Dirty Show,67459,"[10762, 16, 35]",2016-09-01,8.855,5.4,8,en,False
+609,"Happy Family, Conditions Apply","Happy Family, Conditions Apply",221566,"[35, 18]",2023-03-10,8.682,4.8,4,hi,False
+610,Hermanos,Hermanos,62510,[18],2014-09-16,8.669,3.5,9,es,False
+611,Tierra de lobos,Tierra de lobos,64713,[37],2010-10-29,8.665,4.8,9,es,False
+612,"Gunpowder, Treason & Plot","Gunpowder, Treason & Plot",13406,"[18, 10768]",2004-03-14,8.617,6.1,21,en,False
+613,LOL: Last One Laughing Ireland,LOL: Last One Laughing Ireland,241008,[35],2024-01-19,8.607,5.5,2,en,False
+614,Killer Coaster,Killer Coaster,215636,"[10759, 80, 35]",2023-09-15,8.555,6.7,9,fr,False
+615,All or Nothing: New Zealand All Blacks,All or Nothing: New Zealand All Blacks,79950,[99],2018-05-31,8.549,5.4,13,en,False
+616,La verdad,La verdad,78678,[9648],2018-05-21,8.548,4.2,8,es,False
+617,Bat Pat,BatPat,71606,"[10759, 16]",2016-12-12,8.519,7.0,1,it,False
+618,Modern Love Amsterdam,Modern Love Amsterdam,214663,"[18, 35]",2022-12-16,8.462,6.5,4,nl,False
+619,तांडव,Tandav,114796,"[18, 80, 9648]",2021-01-14,8.428,5.2,18,hi,False
+620,Meteor,Meteor,31757,"[10759, 18, 10765]",2009-07-12,8.402,6.3,47,en,False
+621,3 Caminos,3 Caminos,113791,"[18, 10759]",2021-01-22,8.374,6.1,23,en,False
+622,LOL: Last One Laughing Philippines,LOL: Last One Laughing Philippines,258488,[35],2024-07-04,8.278,0.0,0,tl,False
+623,LEGO Friends: The Next Chapter,LEGO Friends: The Next Chapter,218695,"[10751, 16]",2023-06-17,8.268,7.0,7,en,False
+624,Mammals,Mammals,212512,"[35, 18]",2022-11-11,8.244,5.7,23,en,False
+625,Los Billis,Los Billis,237554,[18],2023-11-02,8.232,8.5,34,es,False
+626,Comedy Class par Éric & Ramzy,Comedy Class by Éric & Ramzy,250443,"[35, 10764]",2024-04-26,8.197,5.9,5,fr,False
+627,Crash Course,Crash Course,207467,[18],2022-08-05,8.146,5.6,8,hi,False
+628,Urban: la vida es nuestra,Urban: la vida es nuestra,234790,[18],2023-10-04,8.117,5.9,10,es,False
+629,Wishenpoof!,Wishenpoof!,70082,"[10762, 10751, 16, 10765]",2015-08-13,8.117,5.0,6,en,False
+630,Para verte mejor,Para verte mejor,107138,"[10766, 18]",2017-07-25,8.116,6.0,2,es,False
+631,Luden - Könige der Reeperbahn,Luden,221483,[18],2023-03-03,8.024,5.6,18,de,False
+632,LOL: Last One Laughing Canada,LOL: Last One Laughing Canada,157082,[10764],2022-02-18,7.977,5.7,5,en,False
+633,いぬやしき,INUYASHIKI LAST HERO,73946,"[16, 18, 10765, 10759]",2017-10-12,7.973,8.038,262,ja,False
+634,Killer Wave,Killer Wave,35426,"[10759, 18]",2007-01-10,7.947,6.0,27,en,False
+635,Willy Fog 2,Willy Fog 2,71542,"[10751, 16, 10759]",1994-09-24,7.86,5.3,7,es,False
+636,แช่งชักหักกระดูก,Curse Code,239989,"[9648, 18]",2023-12-07,7.835,6.0,1,th,False
+637,Totems,Totems,121462,"[18, 10768]",2022-02-18,7.798,6.3,23,fr,False
+638,Redefined: J.R. Smith,Redefined: J.R. Smith,222628,[99],2023-04-03,7.784,5.7,3,en,False
+639,American Playboy: The Hugh Hefner Story,American Playboy: The Hugh Hefner Story,70445,"[99, 18]",2017-04-07,7.715,5.6,29,en,False
+640,La Señora,La Señora,63114,[18],2008-03-06,7.706,3.0,3,es,False
+641,Dil Dosti Dilemma,Dil Dosti Dilemma,249747,"[35, 18]",2024-04-25,7.662,10.0,1,hi,False
+642,Une chance de trop,No Second Chance,64093,"[18, 9648]",2015-10-15,7.649,7.0,22,fr,False
+643,Jessica,Jessica,16494,[18],2004-07-18,7.649,5.6,5,en,False
+644,Historias para no dormir,Stories to Stay Awake,128030,"[18, 9648, 10765]",2021-11-05,7.641,5.0,13,es,False
+645,Praxx,Praxx,204237,[18],2022-09-09,7.572,5.5,3,pt,False
+646,Famille Pirate,Pirate Family,74540,"[16, 10751, 10762, 35]",1999-09-04,7.563,7.9,9,fr,False
+647,Soltos,Wild and Free,100895,[10764],2020-03-20,7.557,7.5,4,pt,False
+648,A+,A+,225864,[18],2023-05-25,7.518,9.2,9,id,False
+649,Días mejores,When You Least Expect It,198146,[18],2022-04-22,7.501,7.917,24,es,False
+650,Celebrity Bake Off España,Celebrity Bake Off España,153589,[10764],2021-12-16,7.494,5.8,2,es,False
+651,The Dangerous Book for Boys,The Dangerous Book for Boys,77345,"[10751, 35, 18]",2018-03-29,7.423,6.0,10,en,False
+652,Solo,Solo,72489,"[18, 80]",2016-11-09,7.407,5.9,7,it,False
+653,Ice Pilots NWT,Ice Pilots NWT,33057,"[99, 10764]",2009-11-18,7.394,7.0,6,en,False
+654,El Continental,El Continental,82421,"[18, 80]",2018-09-17,7.393,5.9,9,es,False
+655,Love Addicts,Love Addicts,157965,"[35, 18]",2022-11-30,7.382,6.4,7,de,False
+656,All or Nothing: Arsenal,All or Nothing: Arsenal,132376,[99],2022-08-04,7.368,8.0,31,en,False
+657,Mayday,Mayday,46898,"[18, 9648]",2013-03-03,7.366,6.025,20,en,False
+658,Modern Love Mumbai,Modern Love Mumbai,200941,[18],2022-05-13,7.333,5.3,10,hi,False
+659,Wayne Shorter: Zero Gravity,Wayne Shorter: Zero Gravity,233356,[99],2023-08-24,7.312,9.2,4,en,False
+660,Bang Bang Baby,Bang Bang Baby,98734,"[18, 80]",2022-04-28,7.306,6.7,42,it,False
+661,LOL: Den der ler sidst - Danmark,LOL: Last One Laughing Denmark,241932,[35],2023-12-29,7.301,10.0,2,da,False
+662,I Love Dick,I Love Dick,67486,"[35, 18]",2016-08-19,7.269,6.2,54,en,False
+663,Wild Isles,Wild Isles,208230,[99],2023-03-12,7.261,8.278,18,en,False
+664,Shehar Lakhot,Shehar Lakhot,240322,"[80, 18]",2023-11-30,7.216,6.0,4,hi,False
+665,Dinner Club,Dinner Club,134710,"[35, 99]",2021-09-24,7.213,7.2,21,it,False
+666,One Mississippi,One Mississippi,67709,"[18, 35]",2016-09-09,7.168,7.2,34,en,False
+667,Die Teddy Teclebrhan Show,The Teddy Teclebrhan Show,241514,[35],2024-02-20,7.166,6.0,1,de,False
+668,"Selección Argentina, la serie - Camino a Qatar","Argentine National Team, Road to Qatar",206085,[99],2022-07-22,7.162,7.6,48,es,False
+669,007: Road to a Million,007: Road to a Million,234455,"[10764, 10759]",2023-11-10,7.149,6.7,13,en,False
+670,Cinema Marte Dum Tak,Cinema Marte Dum Tak,218659,[99],2023-01-17,7.122,6.0,2,hi,False
+671,La Templanza,The Vineyard,118587,[18],2021-03-26,7.039,6.4,13,es,False
+672,The Money Game,The Money Game,261681,[99],2024-09-10,7.034,10.0,1,en,False
+673,Los Fruittis,The Fruitties,41252,"[16, 10751, 35]",1990-09-30,7.014,5.2,8,es,False
+674,Guilty Minds,Guilty Minds,196847,"[18, 9648]",2022-04-22,7.007,4.8,5,hi,False
+675,Imperium,Imperium,63885,[],2012-09-05,6.963,4.3,3,es,False
+676,LOL: Skrattar bäst som skrattar sist - Sverige,LOL: Last One Laughing Sweden,217313,"[10764, 35]",2022-12-28,6.962,4.5,2,sv,False
+677,Les minijusticiers,The Minimighty Kids,72377,"[16, 35, 10762, 10751]",2008-04-23,6.935,5.0,2,fr,False
+678,Juste un regard,Just One Look,72013,"[18, 80]",2017-06-15,6.928,4.6,10,fr,False
+679,Calle y Poche: Sin etiquetas,Calle y Poché: No Labels,228966,"[99, 10764]",2023-06-22,6.92,7.5,30,es,False
+680,ただ離婚してないだけ,We Are Just Not Divorced,128220,[18],2021-07-07,6.86,0.0,0,ja,False
+681,LOL: Den som ler sist - Norge,LOL: Last One Laughing Norway,241584,[35],2023-12-29,6.859,0.0,0,no,False
+682,Evolution of the Black Quarterback,Evolution of the Black Quarterback,270464,[99],2024-09-24,6.821,1.0,1,en,False
+683,ภารกิจฮาแหกเกาะ,Comedy Island Thailand,233228,[],2023-08-31,6.802,1.0,1,th,False
+684,Perdóname Señor,Forgive me Father,71883,[18],2017-05-24,6.791,3.9,9,es,False
+685,Farzi,Farzi,220955,[80],2023-02-10,6.789,1.0,1,hi,False
+686,The World's Most Dangerous Show,Joko Winterscheidt Presents: The World's Most Dangerous Show,227684,"[99, 35]",2023-06-06,6.778,6.5,6,de,False
+687,FC Bayern - Behind the Legend,FC Bayern - Behind the Legend,134601,[99],2021-11-02,6.755,8.1,20,de,False
+688,Benza English,Benza English,106486,[35],2020-04-16,6.741,7.3,3,ja,False
+689,Grind,Grind,219463,[18],2023-01-20,6.718,4.0,2,en,False
+690,The Confession,The Confession,215069,[99],2022-11-24,6.718,5.8,10,en,False
+691,SHE Must Be Obeyed,SHE Must Be Obeyed,235728,[18],2023-09-28,6.696,5.8,15,en,False
+692,"Joaquín, el novato","Joaquín, el novato",209571,"[10751, 35]",2022-10-05,6.667,9.0,2,es,False
+693,"LOL : Qui (c)rie, sort !",LOL: Last One Laughing... or Screaming France,236767,"[35, 10764]",2023-10-26,6.631,7.2,12,fr,False
+694,Squish,Squish,92560,[16],2019-08-19,6.628,0.0,0,es,False
+695,Vaya Semanita,Vaya Semanita,7889,[35],2003-09-04,6.538,5.8,3,es,False
+696,LOL : Qui rira le dernier ?,LOL: Last One Laughing Quebec,217745,"[10764, 35]",2023-01-05,6.53,6.3,6,fr,False
+697,Comicstaan,Comicstaan,80813,"[35, 10764]",2018-07-13,6.523,6.4,16,hi,False
+698,The Kicks,The Kicks,68296,[10751],2016-08-26,6.511,6.25,22,en,False
+699,Marc Márquez: All In,Marc Márquez: All In,220805,[99],2023-02-20,6.51,6.0,4,es,False
+700,வெள்ள ராஜா,Vella Raja,84755,[18],2018-12-06,6.507,6.5,6,ta,False
+701,Minibods,Minibods,233472,"[16, 10762]",2023-04-15,6.494,6.9,15,es,False
+702,Lorena,Lorena,85712,"[99, 80]",2019-02-14,6.48,6.9,30,en,False
+703,Rubius Next Level Japón,Rubius Next Level Japón,234015,"[99, 10759, 35]",2023-09-14,6.461,8.9,23,es,False
+704,Roasted: Verdens Sjoveste Ferie,Roast on the Coast,252079,[35],2024-05-17,6.443,10.0,2,da,False
+705,Cosmic Love France,Cosmic Love France,217681,[10764],2023-01-06,6.434,5.0,3,fr,False
+706,Phat Tuesdays: The Era of Hip Hop Comedy,Phat Tuesdays: The Era of Hip Hop Comedy,154922,[99],2022-02-03,6.408,5.8,5,en,False
+707,Campo de Estrellas,Campo de Estrellas,71784,[99],2017-03-23,6.319,0.0,0,es,False
+708,Mind the Malhotras,Mind the Malhotras,89779,[35],2019-06-07,6.294,5.1,8,hi,False
+709,99,99,251559,[99],2024-05-16,6.292,9.3,5,en,False
+710,Chloe,Chloe,156507,"[9648, 18]",2022-02-06,6.285,6.0,43,en,False
+711,Pombo,Pombo,239784,"[99, 10764]",2023-11-29,6.275,3.5,2,es,False
+712,Faceoff: Inside the NHL,Faceoff: Inside the NHL,272337,"[99, 10764]",2024-10-04,6.262,0.0,0,en,False
+713,First Act,First Act,241158,[99],2023-12-15,6.142,0.0,0,hi,False
+714,Rasbhari,Rasbhari,105218,[18],2020-06-25,6.142,5.0,7,hi,False
+715,The Kids in the Hall,The Kids in the Hall,199918,[35],2022-05-12,6.09,5.9,20,en,False
+716,The Secret World of Nature: Spain,The Secret World of Nature: Spain,111052,[99],2020-07-01,6.076,9.3,28,en,False
+717,Desperately Seeking Soulmate: Escaping Twin Flames Universe,Desperately Seeking Soulmate: Escaping Twin Flames Universe,233811,[99],2023-10-05,6.053,6.0,3,en,False
+718,Back to the Rafters,Back to the Rafters,133814,"[35, 18, 10751]",2021-09-17,6.027,6.7,5,en,False
+719,LOL: Last One Laughing Naija,LOL: Last One Laughing Naija,230507,"[35, 10764]",2023-07-13,6.017,7.5,2,en,False
+720,Jungle Beat,Jungle Beat,112432,"[16, 10751, 10762]",2003-10-01,6.016,6.0,2,en,False
+721,Twin Love,Twin Love,236327,[10764],2023-11-16,6.001,6.8,5,en,False
+722,لعبة بنات,Girls' Play,243390,"[10766, 10759, 80]",2024-01-11,5.986,0.0,0,ar,False
+723,Dark Angel,Dark Angel,67961,"[80, 18, 9648]",2016-10-31,5.981,6.3,35,en,False
+724,"Serrines, madera de actor","Serrines, madera de actor",242024,[35],2024-01-12,5.959,5.2,3,es,False
+725,Blippi Wonders,Blippi Wonders,155063,"[16, 10762]",2021-09-29,5.933,2.7,15,en,False
+726,Dream Deals,Dream Deals,270688,[10764],2024-09-13,5.918,1.0,1,de,False
+727,Surf Girls Hawai'i,Surf Girls Hawai'i,229671,[99],2023-07-17,5.908,9.0,2,en,False
+728,El Marqués,The Marquis,242872,"[80, 9648, 18]",2024-05-22,5.873,6.4,8,es,False
+729,Six Dreams,Six Dreams,81582,[99],2018-07-27,5.857,6.9,4,es,False
+730,The Day Henry Met,The Day Henry Met,94745,"[10762, 16]",2015-07-13,5.787,2.0,1,en,False
+731,The Veil,The Veil,13773,"[18, 9648]",1958-01-01,5.774,7.6,5,en,False
+732,ここは笑いのふしぎ堂書店,Comedy Island: Japan,238311,[35],2023-11-22,5.765,0.0,0,ja,False
+733,Drag Den,Drag Den,216137,[10764],2022-12-08,5.76,5.0,3,tl,False
+734,Una historia de crímenes,Una historia de crímenes,218734,[99],2023-01-20,5.754,7.5,4,es,False
+735,A Garota da Moto,A Garota da Moto,67142,"[10759, 18]",2016-07-13,5.743,6.3,6,pt,False
+736,LOL: Last One Laughing Indonesia,LOL: Last One Laughing Indonesia,255974,[10764],2024-07-11,5.732,8.8,8,id,False
+737,Caravana das Drags,Queens on the Run,135865,[10764],2023-04-13,5.727,5.5,2,pt,False
+738,Toda Família Tem,Every Family,223608,[35],2024-07-11,5.725,7.5,1,pt,False
+739,"LOL: Se Rir, Já Era",LOL: Last One Laughing Brazil,137453,"[10764, 35]",2021-12-03,5.718,6.2,14,pt,False
+740,Fit Check: Confessions of an Ukay Queen,Fit Check: Confessions of an Ukay Queen,228822,"[35, 18]",2023-07-06,5.71,10.0,1,tl,False
+741,Avocado Toast,Avocado Toast,104279,"[35, 18]",2020-05-20,5.611,3.5,4,en,False
+742,Cochina envidia,Filthy Envy,210793,"[35, 18]",2022-10-07,5.6,5.1,7,es,False
+743,The Last Narc,The Last Narc,102831,[99],2020-07-31,5.584,7.3,35,en,False
+744,Delfy and His Friends,Delfy and His Friends,7129,"[16, 10762, 10759]",1992-04-18,5.555,6.0,1,es,False
+745,One Mic Stand,One Mic Stand,95458,"[35, 10764]",2019-11-14,5.532,5.5,10,en,False
+746,Creative Galaxy,Creative Galaxy,70140,"[10762, 16]",2013-04-19,5.497,6.3,3,en,False
+747,Pokémon: Trainer Tour,Pokémon: Trainer Tour,260604,"[10764, 99]",2024-07-31,5.465,0.0,0,en,False
+748,LOL: หัวเราะทีหลังปังกว่า,LOL: Last One Laughing Thailand,258468,[35],2024-07-04,5.435,5.5,2,th,False
+749,AP Dhillon: First of a Kind,AP Dhillon: First of a Kind,232176,[99],2023-08-18,5.424,0.0,0,hi,False
+750,Engga Hostel,Engga Hostel,219147,"[35, 18]",2023-01-26,5.41,4.5,2,ta,False
+751,"LOL: Si te ríes, pierdes",LOL - Last One Laughing Spain,112922,"[10764, 35]",2021-05-14,5.378,7.4,8,es,False
+752,Place of Execution,Place of Execution,27275,"[9648, 18, 80]",2008-09-22,5.346,6.9,15,en,False
+753,World’s Toughest Race: Eco-Challenge Fiji,World’s Toughest Race: Eco-Challenge Fiji,107333,[10764],2020-08-14,5.319,6.6,9,en,False
+754,Demente Criminal,Demente Criminal,83006,"[9648, 18]",2015-01-01,5.271,2.0,1,es,False
+755,Hospital Valle Norte,Hospital Valle Norte,85721,[18],2019-01-14,5.261,5.4,5,es,False
+756,Elisabeth Rioux: Sans filtres,Elisabeth Rioux: Unfiltered,262961,[10764],2024-09-06,5.244,0.0,0,fr,False
+757,Comedy Island Indonesia,Comedy Island Indonesia,239144,"[35, 10764]",2023-11-09,5.237,9.7,3,id,False
+758,As We See It,As We See It,139397,"[35, 18]",2022-01-20,5.207,7.6,24,en,False
+759,Egyxos,Egyxos,86767,"[16, 10762, 10765, 10759]",2015-02-22,5.134,7.375,8,it,False
+760,ORELSAN : Montre jamais ça à personne,Orelsan: Never Show This to Anyone,135184,[99],2021-10-15,5.065,8.3,34,fr,False
+761,Tudo ou nada: Seleçao Brasileira,All or Nothing: Brazil National Team,98887,[99],2020-01-31,5.063,7.1,21,pt,False
+762,La vida después del reality,Back to Reality,225717,[35],2023-05-01,5.05,2.0,1,es,False
+763,El corazón de Sergio Ramos,Sergio Ramos,92878,[99],2019-09-13,5.027,4.4,24,es,False
+764,American MC,American MC,117864,"[10764, 99]",2017-08-04,4.981,8.5,2,en,False
+765,LuLaRich,LuLaRich,131295,[99],2021-09-09,4.962,6.2,19,en,False
+766,One Shot: Overtime Elite,One Shot: Overtime Elite,233059,[99],2023-09-04,4.935,0.0,0,en,False
+767,Futbolistas por el mundo,Futbolistas por el mundo,104505,[99],2020-06-05,4.915,6.7,122,es,False
+768,Comedy Island Philippines,Comedy Island Philippines,231460,"[10759, 35, 10764]",2023-08-31,4.913,2.0,1,tl,False
+769,No Activity: Niente da Segnalare,No Activity: Italy,242932,[35],2024-01-18,4.908,6.4,17,it,False
+770,"Jolanda, la figlia del Corsaro Nero","Jolanda, la figlia del Corsaro Nero",96080,"[16, 10759]",1999-12-05,4.9,10.0,1,it,False
+771,Anclados,Anchored,62728,[35],2015-05-25,4.871,5.7,9,es,False
+772,Animanimals,Animanimals,82066,"[10762, 16, 35]",2013-10-12,4.834,7.0,1,de,False
+773,Cuerpo de élite,Cuerpo de élite,76903,[35],2018-02-06,4.833,6.5,14,es,False
+774,CHIVAS: El Rebaño Sagrado,CHIVAS: El Rebaño Sagrado,128009,[99],2021-06-17,4.815,7.5,84,es,False
+775,Guante blanco,Guante blanco,71251,"[80, 18]",2008-10-15,4.81,6.0,8,es,False
+776,Celebrity Hunted - Jede Spur kann dich verraten,Celebrity Hunted - Jede Spur kann dich verraten,152309,[10764],2021-12-03,4.808,4.2,5,de,False
+777,The Great Escapists,The Great Escapists,116034,[99],2021-01-28,4.794,6.2,25,en,False
+778,Luxe Listings Toronto,Luxe Listings Toronto,229182,[10764],2024-04-25,4.768,1.0,2,en,False
+779,Darknet,Darknet,62987,"[9648, 80, 10765]",2013-10-31,4.752,6.75,40,en,False
+780,Herederos,Herederos,8419,[18],2007-09-25,4.741,2.0,1,es,False
+781,Amar é Para os Fortes,Love Is for the Strong,194615,[18],2023-11-16,4.738,7.4,8,pt,False
+782,Fernando,Fernando,107543,[99],2020-09-25,4.736,7.1,65,es,False
+783,Ella es tu padre,Ella es tu padre,73720,[35],2017-09-04,4.721,4.286,7,es,False
+784,True Story España,True Story España,214269,"[35, 10764]",2022-11-11,4.705,4.0,2,es,False
+785,La Femme Musketeer,The Lady Musketeer,76518,[10759],2004-06-20,4.669,5.2,15,en,False
+786,"Ruy, El pequeño Cid","Ruy, the Little Cid",73616,[16],1980-10-05,4.667,5.778,9,es,False
+787,Heridas,Heridas,127621,"[10766, 18, 80]",2022-04-17,4.633,6.0,8,es,False
+788,Dancing on the Grave,Dancing on the Grave,224782,"[99, 80, 18]",2023-04-21,4.608,3.0,2,hi,False
+789,Lov3,Lov3,154910,"[35, 18]",2022-02-18,4.582,6.2,7,pt,False
+790,Going Home with Tyler Cameron,Going Home with Tyler Cameron,248954,[10764],2024-04-17,4.576,0.0,0,en,False
+791,Traición,Traición,75409,"[18, 9648]",2017-11-28,4.574,8.2,4,es,False
+792,Mission Start Ab,Mission Start Ab,241137,[10764],2023-12-19,4.572,0.0,0,hi,False
+793,All or Nothing: Juventus,All or Nothing: Juventus,137952,[99],2021-11-25,4.483,7.0,35,it,False
+794,James May: Oh Cook!,James May: Oh Cook!,106694,[99],2020-11-13,4.459,6.462,26,en,False
+795,"Joaquín, la penúltima y me voy","Joaquín, la penúltima y me voy",216876,"[10751, 35]",2023-02-02,4.451,10.0,1,es,False
+796,Little Baby Bum,Little Baby Bum,102562,[],2011-08-29,4.441,6.0,3,en,False
+797,फॉलो कर लो यार,Follow Kar Lo Yaar,249857,[10764],2024-08-23,4.404,0.0,0,hi,False
+798,The Pogmentary: Born Ready,The Pogmentary: Born Ready,123357,[99],2022-06-17,4.397,4.4,8,fr,False
+799,हश हश,Hush Hush,201063,[18],2022-09-22,4.396,4.7,3,hi,False
+800,The Far Pavilions,The Far Pavilions,47779,"[18, 10759]",1984-04-22,4.39,7.7,9,en,False
+801,Wedding.con,Wedding.con,242250,[99],2023-12-28,4.316,5.0,1,hi,False
+802,Rainbow Rishta,Rainbow Rishta,238693,"[18, 10764]",2023-11-07,4.301,0.0,0,hi,False
+803,All or Nothing: Toronto Maple Leafs,All or Nothing: Toronto Maple Leafs,135325,[99],2021-10-01,4.284,7.5,11,en,False
+804,Sentença,Verdict,123378,"[18, 80]",2022-04-15,4.283,6.0,12,pt,False
+805,Take Us Home: Leeds United,Take Us Home: Leeds United,92432,[99],2019-08-16,4.262,6.2,21,en,False
+806,El padre de Caín,Cain's Father,69057,"[18, 80]",2016-12-06,4.26,6.375,8,es,False
+807,De Zaak Menten,The Body Collector,68874,[18],2016-11-23,4.251,7.3,7,nl,False
+808,Black Sunday,Black Sunday,228830,[18],2023-06-23,4.244,5.0,1,es,False
+809,The Last Hour,The Last Hour,125481,"[80, 18, 9648]",2021-05-14,4.244,3.5,6,hi,False
+810,"Mud, Sweat and Tears: Premiership Rugby","Mud, Sweat and Tears: Premiership Rugby",235894,[99],2023-10-12,4.24,0.0,0,en,False
+811,Família Gil,Gil Family,201477,[99],2022-06-24,4.228,6.0,2,pt,False
+812,Love Shots,Love Shots,91797,[18],2016-03-08,4.226,6.0,3,hi,False
+813,Luxe Listings Sydney,Luxe Listings Sydney,128912,[99],2021-07-09,4.208,6.3,7,en,False
+814,Bestseller,Bestseller,157232,[18],2022-02-18,4.202,5.2,4,hi,False
+815,Eleita,Elected,158224,[35],2022-10-07,4.196,4.5,2,pt,False
+816,Hope on the Street,Hope on the Street,246711,[99],2024-03-28,4.19,10.0,2,ko,False
+817,Coach Prime,Coach Prime,216584,[99],2022-12-28,4.164,6.0,6,en,False
+818,Pumpkin Reports,Pumpkin Reports,100690,[],2016-01-16,4.149,5.7,6,en,False
+819,We Are Newcastle United,We Are Newcastle United,231442,[99],2023-08-11,4.101,8.0,1,en,False
+820,The Pack,The Pack,112671,[10764],2020-11-20,4.094,6.1,8,en,False
+821,This Is Football,This Is Football,90837,[99],2019-08-02,4.088,5.6,13,en,False
+822,Camilla Läckbergs Fjällbackamorden,Camilla Läckberg's The Fjällbacka Murders,67028,"[18, 80]",2012-12-26,4.066,6.143,7,sv,False
+823,The Kids in the Hall: Comedy Punks,The Kids in the Hall: Comedy Punks,202513,"[99, 35]",2022-05-20,4.048,5.3,3,en,False
+824,Modern Love Hyderabad,Modern Love Hyderabad,200882,"[35, 18]",2022-07-08,4.015,5.7,3,te,False
+825,Match nas Estrelas,Written in the Stars,196875,[10764],2023-09-14,4.009,0.0,0,pt,False
+826,La Promesse du feu,Burning Crimes,71749,"[18, 10759, 80]",2017-05-15,3.969,6.0,4,fr,False
+827,Generación porno,Generación porno,236926,[99],2023-12-21,3.939,6.2,19,es,False
+828,Nick's Law,Nick's Law,200807,[10759],2017-01-01,3.893,2.0,1,en,False
+829,El incidente,El incidente,73732,[],2017-09-05,3.884,4.5,8,es,False
+830,"Sapo, S.A. Memorias de un ladrón","Sapo, S.A. Memorias de un ladrón",205617,[99],2022-07-08,3.882,6.9,21,es,False
+831,The Fake Sheikh,The Fake Sheikh,233340,[99],2023-09-26,3.881,6.0,2,en,False
+832,A Grito Herido,Out Loud,212933,"[35, 18]",2022-11-10,3.869,6.0,3,es,False
+833,The Three Drinkers in Ireland,The Three Drinkers in Ireland,210911,[99],2022-03-17,3.868,2.0,1,en,False
+834,लव स्टोरियाँ,Love Storiyaan,245880,"[99, 18]",2024-02-14,3.857,6.5,2,hi,False
+835,Latin Flow,Latin Flow,127389,[10764],2021-06-11,3.856,5.0,3,pt,False
+836,The Tragically Hip: No Dress Rehearsal,The Tragically Hip: No Dress Rehearsal,261223,[99],2024-09-19,3.846,8.5,2,en,False
+837,L'última nit del karaoke,L'última nit del karaoke,136893,[35],2021-10-18,3.837,6.0,2,ca,False
+838,Lovestruck High,Lovestruck High,197378,[10764],2022-05-17,3.821,4.5,4,en,False
+839,LOL: Last One Laughing - Xmas Special,LOL: Last One Laughing - Xmas Special,241910,"[35, 10764]",2023-12-22,3.818,8.0,3,de,False
+840,Four and a Half Friends,Four and a Half Friends,81896,"[16, 9648, 10762]",2015-10-05,3.806,7.0,1,en,False
+841,Varg Veum,Varg Veum,120019,"[80, 18]",2007-09-08,3.776,7.7,3,no,False
+842,The Greatest Show Never Made,The Greatest Show Never Made,235891,[99],2023-10-10,3.756,4.0,1,en,False
+843,PBC Gloves Off,PBC Gloves Off,249348,[99],2024-03-14,3.744,0.0,0,en,False
+844,Dance Life,Dance Life,242844,[99],2024-01-19,3.727,0.0,0,en,False
+845,Rocky Kwaterner,Rocky Kwaterner,108443,"[16, 35]",2019-01-01,3.724,10.0,1,fr,False
+846,Furioza,Furiosis,156965,[80],2022-02-04,3.706,5.5,4,pl,False
+847,Ice,Ice,39784,[18],2011-01-02,3.703,10.0,2,en,False
+848,Desaparecida,Desaparecida,63758,"[18, 80]",2007-10-03,3.692,4.7,3,es,False
+849,Desjuntados,Uncoupled in Rio,123381,[35],2021-10-01,3.679,5.7,26,pt,False
+850,The Gymkhana Files,The Gymkhana Files,83545,"[99, 10759]",2018-11-15,3.649,4.5,2,en,False
+851,Indices,Indices,103222,[99],2017-05-13,3.616,6.0,1,fr,False
+852,Good Rivals,Good Rivals,214836,[99],2022-11-23,3.612,5.7,3,en,False
+853,La llamada de los gnomos,Wisdom of the Gnomes,3731,"[16, 10751, 10765]",1987-10-04,3.567,6.0,5,es,False
+854,The Unsolved Murder of Beverly Lynn Smith,The Unsolved Murder of Beverly Lynn Smith,201429,"[99, 80]",2022-05-06,3.566,7.6,8,en,False
+855,Metanol,Methanol,81590,"[18, 80, 99]",2018-04-22,3.559,6.5,4,cs,False
+856,Sigmund and the Sea Monsters,Sigmund and the Sea Monsters,67457,"[10762, 35]",2016-06-16,3.552,7.3,3,en,False
+857,Bibi & Tina - Die Serie,Bibi & Tina,100918,"[10751, 10762, 10759]",2020-04-03,3.54,6.9,13,de,False
+858,Efecto Mariposa,Efecto Mariposa,113439,[99],2018-05-13,3.499,0.0,0,es,False
+859,La Segunda Guerra Mundial,The Second World War,79701,"[99, 10768]",2003-02-04,3.49,7.091,22,es,False
+860,Unpaused: Naya Safar,Unpaused: Naya Safar,155098,[18],2022-01-21,3.487,3.7,3,hi,False
+861,Ted Bundy: Falling for a Killer,Ted Bundy: Falling for a Killer,97428,"[99, 80]",2020-01-31,3.454,7.5,30,en,False
+862,Le Mans: Racing Is Everything,Le Mans: Racing Is Everything,71985,[99],2017-06-09,3.449,5.5,18,en,False
+863,Beasts Like Us,Beasts Like Us,244024,"[35, 9648]",2024-02-14,3.439,7.2,5,de,False
+864,The Moth Effect,The Moth Effect,126039,[35],2021-07-30,3.435,4.0,5,en,False
+865,LOL - Hasse Toh Phasse,LOL - Hasse Toh Phasse,124596,"[35, 10764]",2021-04-30,3.344,3.0,4,hi,False
+866,Originalos?,Originalos,92606,"[35, 16, 10751]",2010-07-10,3.331,6.2,4,da,False
+867,Obsessed,Obsessed,18807,[99],2009-05-25,3.31,6.0,1,en,False
+868,Regular Heroes,Regular Heroes,103840,[99],2020-05-08,3.308,4.3,3,en,False
+869,Mi Selección Colombia,Mi Selección Colombia,158748,[],2022-01-27,3.277,2.0,1,es,False
+870,Toppen,Toppen,209780,[35],2022-12-02,3.267,4.5,4,sv,False
+871,Dystopia,Dystopia,84609,"[10765, 18]",2018-10-01,3.255,5.5,6,en,False
+872,The Ferragnez: La Serie,The Ferragnez,153195,[99],2021-12-09,3.24,6.7,18,it,False
+873,Putham Pudhu Kaalai Vidiyaadhaa,Putham Pudhu Kaalai Vidiyaadhaa,155603,[18],2022-01-14,3.239,5.0,2,ta,False
+874,LOL Talent Show: Chi fa ridere è dentro,LOL Talent Show: Be Funny and You're in!,247171,[10764],2024-02-22,3.21,6.1,7,it,False
+875,Free Meek,Free Meek,88309,[99],2019-08-09,3.192,6.7,3,en,False
+876,All or Nothing: The Michigan Wolverines,All or Nothing: The Michigan Wolverines,78594,"[10764, 99]",2018-04-06,3.184,8.0,11,en,False
+877,Cosmic Love,Cosmic Love,197463,[10764],2022-08-11,3.167,2.7,3,en,False
+878,LOL: Australia,LOL: Australia,105041,[35],2020-06-19,3.166,6.1,8,en,False
+879,Shark Academy - Canções para crianças,Shark Academy - Canções para crianças,127181,"[16, 10762]",2020-01-01,3.132,2.0,1,pt,False
+880,La bruixa avorrida,La bruixa avorrida,208749,"[16, 10759, 10762, 10765]",,3.13,0.0,0,ca,False
+881,Dive Olly Dive!,Dive Olly Dive!,36972,"[16, 10751]",2006-12-02,3.129,0.0,0,en,False
+882,Bingo & Julia,Bingo & Julia,233669,[10764],2023-08-25,3.111,0.0,0,sv,False
+883,La Familia,The Family,129062,"[99, 18]",2021-07-15,3.1,5.2,4,es,False
+884,Super Truck of Car City,Super Truck of Car City,90055,"[16, 10762]",2017-06-29,3.068,6.0,2,en,False
+885,Pau Gasol - Lo importante es el Viaje,Pau Gasol: It’s About the Journey,138473,[99],2021-11-12,3.055,5.9,5,es,False
+886,Cry Babies Magic Tears,Cry Babies Magic Tears,116117,"[16, 10762, 10751]",2018-08-19,3.042,6.3,6,fr,False
+887,Libre de reír,Laughing on the Inside,230952,"[99, 35]",2023-07-21,2.995,8.5,6,es,False
+888,Jade Fever,Jade Fever,72403,"[10764, 99]",2015-03-31,2.967,7.0,1,en,False
+889,Hostel Days,Hostel Days,230505,[18],2023-07-12,2.913,0.0,0,te,False
+890,El fitxatge,El fitxatge,254652,[99],2024-05-21,2.912,8.0,1,ca,False
+891,Lola & Virginia,Lola & Virginia,15584,"[16, 10762, 10751]",2006-10-01,2.906,5.7,3,en,False
+892,Barbie Dreamtopia,Barbie Dreamtopia,78839,"[10762, 16]",2017-05-26,2.868,5.0,5,en,False
+893,El desafío: ETA,The Challenge: ETA,110825,"[99, 10768]",2020-10-29,2.859,5.8,19,es,False
+894,Bohéma,Bohéma,69377,[18],2017-01-15,2.853,4.5,4,cs,False
+895,Los camioneros,Los camioneros,93486,"[35, 18]",1973-11-12,2.843,6.0,1,es,False
+896,Tampa Baes,Tampa Baes,130702,[10764],2021-11-05,2.809,2.2,4,en,False
+897,A Thousand and One... Americas,A Thousand and One... Americas,2664,"[16, 10762, 10759]",1991-08-02,2.771,8.0,1,es,False
+898,Boris e Rufus,Boris e Rufus,125706,[16],2018-01-01,2.737,4.5,2,pt,False
+899,El Bulli: historia de un sueño,El Bull - The History of a Dream,78516,[99],2010-10-02,2.707,6.0,2,es,False
+900,Jim Gaffigan: The Pale Tourist,Jim Gaffigan: The Pale Tourist,105031,[35],2020-07-24,2.696,5.889,18,en,False
+901,El Principito es Omar Montes,El Principito es Omar Montes,138446,[99],2021-11-12,2.687,1.5,2,es,False
+902,Lizzo's Watch Out for the Big Grrrls,Lizzo's Watch Out for the Big Grrrls,157903,[10764],2022-03-24,2.675,3.8,7,en,False
+903,"Los Galindos, toda la verdad","The Galindos, all the truth",256298,"[99, 18]",2024-06-06,2.656,6.8,2,es,False
+904,Cave Club,Cave Club,118382,"[16, 10751, 10759, 10762]",2020-10-22,2.655,6.7,3,en,False
+905,Ruta 35,Ruta 35,107216,[],2016-01-12,2.652,2.0,1,en,False
+906,From the Basement,From the Basement,14485,[],2007-12-01,2.616,0.0,0,en,False
+907,El Lute: La Serie,El Lute: The Series,217617,"[18, 80]",1989-07-07,2.6,0.0,0,es,False
+908,LOL: Last One Laughing South Africa,LOL: Last One Laughing South Africa,229180,"[10764, 35]",2024-02-15,2.588,0.0,0,en,False
+909,"Real Madrid, la leyenda blanca",Real Madrid: The White Legend,157423,[99],2022-02-11,2.577,6.5,4,es,False
+910,ソウルメイト,Soul Mate,258063,[18],,2.561,0.0,0,ja,False
+911,Vikingarnas Sista Resa,The Last Journey Of The Vikings,101662,[99],2020-04-12,2.495,7.3,3,sv,False
+912,Con pelos en la lengua,Con pelos en la lengua,89395,[35],2008-11-19,2.474,0.0,0,es,False
+913,Hostel Days,Hostel Days,215048,[35],2022-11-25,2.46,2.0,1,bn,False
+914,The Transporter,The Transporter,203227,[],2022-05-30,2.453,1.0,3,en,False
+915,Museum Secrets,Museum Secrets,47083,[99],2011-01-06,2.43,5.0,2,en,False
+916,Historias de la Biblia,Historias de la Biblia,78348,[16],1997-01-05,2.387,8.0,7,ja,False
+917,Gazoon,Gazoon,121929,"[16, 10762, 10751]",2008-05-01,2.362,5.5,2,fr,False
+918,This Giant Beast That is the Global Economy,This Giant Beast That is the Global Economy,87037,[99],2019-02-22,2.353,8.2,9,en,False
+919,MotoGP Unlimited,MotoGP Unlimited,157731,[99],2022-03-14,2.346,7.6,10,en,False
+920,The Witching Season,The Witching Season,79499,[9648],2015-08-27,2.292,8.0,9,en,False
+921,Dr. Seuss Baking Challenge,Dr. Seuss Baking Challenge,208293,[10764],2022-12-12,2.242,7.4,5,en,False
+922,Go Buster!,Go Buster!,194768,"[16, 10762]",2018-12-08,2.211,0.0,0,en,False
+923,Half Pants Full Pants,Half Pants Full Pants,216260,"[18, 35]",2022-12-16,2.208,4.5,2,hi,False
+924,Reyes de España,Reyes de España,118095,[99],1991-01-01,2.187,6.0,2,es,False
+925,Simeone. Vivir partido a partido,Simeone. Living Match by Match,156343,[99],2022-01-25,2.186,6.7,5,es,False
+926,Clifford the Big Red Dog,Clifford the Big Red Dog,208995,"[16, 10762]",2019-12-05,2.145,4.5,2,en,False
+927,El mort viu,The Living NEET,120963,"[35, 18]",2019-11-12,2.086,4.5,2,ca,False
+928,Lellobee City Farm,Lellobee City Farm,203412,[],2022-06-06,2.066,2.0,1,en,False
+929,Alexia: Labor Omnia Vincit,Alexia: Labor Omnia Vincit,215341,"[99, 10764]",2022-11-30,2.062,6.3,3,es,False
+930,Vida privada,Vida privada,80496,[18],2018-05-07,2.043,7.0,1,ca,False
+931,Forever Summer: Hamptons,Forever Summer: Hamptons,204748,"[10764, 99]",2022-07-14,2.015,2.7,3,en,False
+932,G.E.O. Más allá del límite,G.E.O. Más allá del límite,133765,[99],2021-10-15,2.006,7.3,7,es,False
+933,The New Tomorrow,The New Tomorrow,13293,[18],2005-09-17,2.001,5.7,3,en,False
+934,The Wanderer,The Wanderer,220368,[99],2022-12-13,1.994,3.5,2,en,False
+935,Inside Jokes,Inside Jokes,84627,[35],2018-11-29,1.974,7.4,5,en,False
+936,Backstage with Katherine Ryan,Backstage with Katherine Ryan,202810,"[35, 10764]",2022-06-09,1.927,5.6,5,en,False
+937,Influencers: sobrevivir a las redes,Influencers: sobrevivir a las redes,222264,[99],2023-03-14,1.917,4.7,3,es,False
+938,Akkad Bakkad Rafu Chakkar,Akkad Bakkad Rafu Chakkar,137336,"[80, 18, 9648]",2021-11-03,1.908,3.5,2,hi,False
+939,"PSG City of Lights, 50 years of legend","PSG City of Lights, 50 years of legend",110225,[99],2020-09-15,1.908,5.8,4,fr,False
+940,Inside Borussia Dortmund,Inside Borussia Dortmund,91991,[99],2019-08-16,1.875,5.9,12,de,False
+941,Vražedné stíny,Vražedné stíny,158174,[80],2022-02-20,1.86,4.5,2,cs,False
+942,Always Jane,Always Jane,137208,[99],2021-11-11,1.846,5.9,7,en,False
+943,C.A.E.M.: La forja del rescate,C.A.E.M.: La forja del rescate,245076,[99],2024-01-31,1.801,8.0,1,es,False
+944,Descalç sobre la terra vermella,Descalç sobre la terra vermella,108867,[18],2014-03-24,1.79,0.0,0,ca,False
+945,Momonsters,Momonsters,102925,"[16, 10762]",2020-03-15,1.784,9.0,1,es,False
+946,Glumpers,Glumpers,33187,[],2012-02-18,1.784,6.5,2,xx,False
+947,Eu Amo o Benfica,I Love Benfica,228095,[99],2023-06-06,1.762,10.0,1,pt,False
+948,Drag Heals,Drag Heals,99822,"[99, 10764]",2018-09-07,1.741,4.8,4,en,False
+949,Do or Die,Do or Die,62059,"[99, 10759]",2014-01-02,1.71,7.8,4,en,False
+950,Summer & Todd - L'allegra fattoria,Summer & Todd,209863,"[16, 10762]",2021-09-01,1.659,2.0,1,it,False
+951,El asesinato de Carrero Blanco,The Assassination of Carreto Blanco,73588,[80],2011-06-05,1.622,6.8,4,es,False
+952,5X Comédia,Funny Little Stories,153596,[35],2021-03-26,1.611,2.0,1,pt,False
+953,Inside Secret Societies,Inside Secret Societies,74314,"[99, 80]",2016-05-04,1.593,6.0,1,en,False
+954,Nicklas Pranker,Nicklas Pranker,216874,[35],2022-12-16,1.561,10.0,2,da,False
+955,¡Ala... Dina!,¡Ala... Dina!,68948,[35],2000-01-04,1.554,6.5,2,es,False
+956,Everybody Loves Natti,Everybody Loves Natti,137999,[99],2021-11-19,1.521,4.3,3,en,False
+957,En la corte del Principito,En la corte del Principito,198224,"[10764, 10751]",2022-04-22,1.517,5.0,4,es,False
+958,The Ave,The Ave,204481,[18],2015-10-27,1.515,4.0,2,en,False
+959,"Los Sobrevivientes, Colonia Dignidad",The Survivors: Colonia Dignidad,211192,[99],2022-09-29,1.495,2.0,1,es,False
+960,Jessy & Nessy,Jessy & Nessy,100006,[10762],2020-03-13,1.494,9.0,1,en,False
+961,Ebuka Turns Up Africa,Ebuka Turns Up Africa,245676,[10764],2024-03-01,1.487,0.0,0,en,False
+962,One Mic Stand,One Mic Stand,206185,[35],2022-07-15,1.473,1.5,2,de,False
+963,Long Strange Trip,Long Strange Trip,71852,[99],2017-06-02,1.452,4.3,3,en,False
+964,Bloopies,Bloopies,137716,"[16, 10762]",2021-07-01,1.444,7.2,5,es,False
+965,Nabilla : Sans filtre,Nabilla : Sans filtre,139141,[99],2021-11-26,1.427,2.7,3,fr,False
+966,Rio Ferdinand: Tipping Point,Rio Ferdinand: Tipping Point,214318,[99],2022-11-11,1.358,0.0,0,en,False
+967,Encarcelados,Encarcelados,67310,[99],2013-09-05,1.327,6.0,1,es,False
+968,The Grand Tour,The Grand Tour,273036,[],,1.319,0.0,0,en,False
+969,El caso Wanninkhof,El caso Wanninkhof,79902,"[99, 18]",2008-06-19,1.312,1.5,2,es,False
+970,Případ pro exorcistu,The Case of the Exorcist,92570,"[80, 99, 18]",2015-01-11,1.293,4.0,3,cs,False
+971,Jungle Planet,Jungle Planet,99761,[],2015-12-11,1.261,0.0,0,es,False
+972,La Guerra Civil Española,The Spanish Civil War,101970,"[99, 10768]",1983-01-07,1.238,0.0,0,es,False
+973,Russell Peters: Deported,Russell Peters: Deported,98028,[],2020-01-17,1.218,6.0,2,en,False
+974,Borbón: La maldición de un apellido,Borbón: La maldición de un apellido,90876,[99],2014-01-30,1.21,2.0,1,es,False
+975,El botones Sacarino,El botones Sacarino,203673,[35],2000-12-26,1.193,0.0,0,es,False
+976,Jungle,Jungle,208120,[18],2022-09-30,1.177,5.2,5,en,False
+977,"Sainz, vivir para competir",Sainz: Live to compete,138340,[99],2021-12-02,1.175,5.8,5,es,False
+978,Barbie Dream Squad,Barbie Dream Squad,241205,[16],,1.164,0.0,0,es,False
+979,Planeta de Niños,Kids' Planet,129153,[10762],2018-01-06,1.137,0.0,0,es,False
+980,몰랑,몰랑,239426,[],2017-03-01,1.133,0.0,0,ko,False
+981,El Xef,El Xef,80844,"[99, 10764]",2016-01-10,1.102,0.0,0,es,False
+982,Little Angel,Little Angel,219004,"[16, 10762]",2022-10-01,1.086,0.0,0,en,False
+983,Fago,Fago,101647,"[80, 18]",2008-03-10,1.025,4.4,5,es,False
+984,Back to Basketball,Back to Basketball,196597,[99],2022-04-01,1.014,4.0,2,tr,False
+985,When Eagles Dare: Crystal Palace F.C.,When Eagles Dare: Crystal Palace F.C.,126910,[99],2021-06-04,1.011,5.7,3,en,False
+986,Carolina Marín: Puedo porque pienso que puedo,Carolina Marín: Puedo porque pienso que puedo,111401,[99],2020-10-01,1.004,6.0,2,es,False
+987,Arròs covat,Arròs covat,90308,[16],2009-09-29,1.003,7.0,1,ca,False
+988,"Luis Aragonés, el sabio del éxito","Luis Aragonés, el sabio del éxito",85242,[99],2018-12-21,0.995,6.0,3,es,False
+989,Royals Next Door,Royals Next Door,210810,"[10762, 16]",2021-11-22,0.991,7.0,1,en,False
+990,Os Chocolix,Os Chocolix,113302,[16],2017-12-31,0.97,6.0,2,pt,False
+991,Barbie Dream Vacation,Barbie Dream Vacation,232383,"[16, 10762]",2023-01-28,0.962,0.0,0,en,False
+992,Lorena,Lorena,206152,"[18, 10766]",2005-06-20,0.962,2.0,1,es,False
+993,Pacífico. Un viaje a los confines del hombre,Pacífico. Un viaje a los confines del hombre,68172,[99],2016-09-14,0.953,0.0,0,es,False
+994,Musti,Musti,30672,[],,0.949,0.0,0,en,False
+995,Una vida una cena,Una vida una cena,102799,[],2019-12-17,0.948,0.0,0,es,False
+996,Matchbox Adventures,Matchbox Adventures,227950,[16],2021-09-22,0.938,0.0,0,en,False
+997,Thomas the Tank Engine and Friends,Thomas the Tank Engine and Friends,242531,"[10762, 10759, 16]",2022-02-27,0.934,0.0,0,en,False
+998,"El bloke, coslada cero","El bloke, coslada cero",104835,[18],2009-06-23,0.893,2.0,1,es,False
+999,Barbie Summer Adventure,Barbie Summer Adventure,232443,[16],,0.891,0.0,0,en,False
+1000,Basket Fever,Basket Fever,101731,[16],1993-09-11,0.876,4.0,1,es,False
+1001,Mironins,Mironins,216947,[16],2021-05-01,0.871,0.0,0,es,False
+1002,Juanito Jones,Juanito Jones,216309,[10762],,0.85,0.0,0,es,False
+1003,Hitler: Uncovering His Fatal Obsession,Hitler: Uncovering His Fatal Obsession,208718,[99],2021-05-01,0.817,0.0,0,en,False
+1004,Anglés: historia de una fuga,Anglés: historia de una fuga,220094,"[99, 18, 9648]",2023-02-09,0.815,6.0,4,es,False
+1005,Lost Cities of the Trojans,Lost Cities of the Trojans,225423,[99],2021-11-14,0.812,6.0,1,en,False
+1006,La memoria del agua,La memoria del agua,76955,[18],2012-12-10,0.795,3.5,2,es,False
+1007,The VAR Room,The VAR Room,136436,[35],2021-06-25,0.755,4.5,2,en,False
+1008,Stars Earn Stripes,Stars Earn Stripes,65062,[],2012-08-13,0.736,0.0,0,en,False
+1009,எல்.ஓ.எல் – எங்க சிரி பாப்போம்,LOL: Enga Siri Paappom,132092,"[10764, 35]",2021-08-27,0.728,2.0,1,ta,False
+1010,Making Their Mark,Making Their Mark,114624,[99],2021-03-12,0.728,6.0,2,en,False
+1011,Wineman,Wineman,131106,[99],2014-01-01,0.724,6.0,5,es,False
+1012,Todos Queríamos Matar Al Presidente,Todos Queríamos Matar Al Presidente,81628,"[9648, 35]",2018-07-09,0.706,6.0,2,es,False
+1013,All or Nothing: A Season with the Arizona Cardinals,All or Nothing: A Season with the Arizona Cardinals,228215,[],2016-07-01,0.698,8.0,1,en,False
+1014,Eat. Race. Win.,Eat. Race. Win.,81260,"[99, 10764]",2018-07-27,0.698,6.3,3,en,False
+1015,CoComelon JJ's Animal Time,CoComelon JJ's Animal Time,247813,"[16, 10762, 10751]",2022-09-28,0.693,0.0,0,en,False
+1016,ورق مسموم,ورق مسموم,198192,[],2022-03-28,0.684,0.0,0,en,False
+1017,Jamillah And Aladdin,Jamillah And Aladdin,67952,[],2015-11-29,0.665,6.0,1,en,False
+1018,23 F: El Día Más Difícil del Rey,23 F: El Día Más Difícil del Rey,65754,[],2009-02-10,0.663,6.0,1,es,False
+1019,Secret Societies: In the Shadows,Secret Societies: In the Shadows,211076,[],2022-09-05,0.631,0.0,0,en,False
+1020,Chris Tall Presents...,Chris Tall Presents...,220113,[35],2019-09-27,0.629,2.0,1,de,False
+1021,Pocoyo & Halloween,Pocoyo & Halloween,113305,[],2017-10-17,0.626,2.0,1,pt,False
+1022,ام الدراهم,ام الدراهم,247370,[35],2021-02-25,0.618,0.0,0,ar,False
+1023,Hot Wheels: Monster Trucks Island,Hot Wheels: Monster Trucks Island,256795,[],2021-08-10,0.608,0.0,0,en,False
+1024,Backstage,Backstage,156327,[],2021-12-24,0.596,0.0,0,es,False
+1025,Day Zero,Day Zero,124605,[],2011-01-01,0.572,0.0,0,en,False
+1026,Animacars,Animacars,113250,[10762],2020-01-03,0.55,6.0,2,pt,False
+1027,Tornarem,Tornarem,77137,"[18, 10768]",2012-04-16,0.518,6.0,1,ca,False
+1028,Superzoo,Superzoo,112251,[10762],2018-01-01,0.512,2.0,1,es,False
+1029,我知道你是谁,我知道你是谁,257972,[],2024-05-07,0.481,0.0,0,zh,False
+1030,"La Paca, matriarca de la droga","La Paca, matriarca de la droga",203076,[99],2019-05-12,0.476,2.0,1,es,False
+1031,Copa del Rey 2021-2022: la copa de todos,Copa del Rey 2021-2022: Everybody’s Cup,210738,[99],2022-09-21,0.47,2.0,1,es,False
+1032,Ángel Nieto. Cuatro vidas,Ángel Nieto. Cuatro vidas,205065,[99],2022-06-30,0.467,3.7,3,es,False
+1033,Hullabalooba,Hullabalooba,128037,"[16, 10762]",2015-01-01,0.463,2.0,1,xx,False
+1034,归途,Way Back,252612,[99],2024-04-02,0.459,0.0,0,zh,False
+1035,Hello Kitty & Friends - Let's Learn Together,Hello Kitty & Friends - Let's Learn Together,218893,[],2017-01-01,0.453,7.7,3,en,False
+1036,Amor Brujo,Amor Brujo,219078,[],2022-08-17,0.451,0.0,0,en,False
+1037,The Three Drinkers in Cognac,The Three Drinkers in Cognac,227185,[],2023-05-17,0.448,0.0,0,en,False
+1038,Strange Events,Strange Events,102771,[9648],2017-09-19,0.437,1.5,2,en,False
+1039,바다 탐험대 옥토넛 캐릭터 그리기,바다 탐험대 옥토넛 캐릭터 그리기,254730,[10762],2020-08-06,0.413,0.0,0,ko,False
+1040,Dahab Ghali,Dahab Ghali,258619,[],2024-03-06,0.398,0.0,0,ar,False
+1041,Only see great,Only see great,110598,[99],2020-09-27,0.393,3.5,2,fr,False
+1042,BARBAPAPA und Familie,BARBAPAPA und Familie,218371,[16],2020-09-21,0.386,9.0,1,de,False
+1043,Truck Games,Truck Games,113310,[],2018-10-13,0.385,6.0,2,pt,False
+1044,Mafalda,Mafalda,134243,"[16, 35, 10751]",1973-10-01,0.364,3.8,2,es,False
+1045,Royal Enchantimals: Royals Enchantment Ceremony,Royal Enchantimals: Royals Enchantment Ceremony,207540,[10762],2022-04-01,0.361,2.0,1,en,False
+1046,Monster Town - Cidade do caminhão monstro,Monster Town - Cidade do caminhão monstro,125939,[],2020-01-01,0.356,6.0,2,pt,False
+1047,Hunters,Hunters,126679,[],2021-05-30,0.351,2.0,1,en,False
+1048,Huesca: Más alla de un Sueño,Huesca: Más alla de un Sueño,94274,[99],2018-02-07,0.346,5.7,3,es,False
+1049,Super Truck the Transformer - Super Camion,Super Truck the Transformer - Super Camion,125790,[],2021-01-01,0.341,2.0,1,pt,False
+1050,Aviones de combate,Aviones de combate,79873,[99],2004-01-11,0.339,2.0,1,es,False
+1051,Increditales,Increditales,157610,[],2019-03-13,0.336,7.0,1,en,False
+1052,Car Patrol of Car City,Car Patrol of Car City,225455,"[10762, 10751, 16]",,0.33,10.0,1,es,False
+1053,La cocina de ¡HOLA!,La cocina de ¡HOLA!,118016,[],2020-01-01,0.318,6.5,4,es,False
+1054,超级飞侠(2020),超级飞侠(2020),257605,[],,0.306,0.0,0,zh,False
+1055,Escena en blanco y negro,Escena en blanco y negro,114749,[99],2020-12-15,0.298,0.0,0,es,False
+1056,Lea And Pop,Lea And Pop,255528,"[16, 10762]",2022-01-01,0.27,0.0,0,en,False
+1057,Héroes de la republica,Héroes de la republica,111567,[99],2010-09-08,0.266,2.0,1,es,False
+1058,Capelito,Capelito,71522,"[16, 10762]",,0.256,0.0,0,xx,False
+1059,El conquistador del Aconcagua,El conquistador del Aconcagua,238278,[10764],2010-03-09,0.252,0.0,0,es,False
+1060,Dino the Dinosaur,Dino the Dinosaur,95622,[10762],2016-07-02,0.232,2.0,1,en,False
+1061,Otra Mirada,Otra Mirada,228676,[],2023-06-16,0.23,0.0,0,en,False
+1062,Perfectos desconocídos,Perfectos desconocídos,254032,[],,0.22,0.0,0,es,False
+1063,Moto Nómada,Moto Nómada,220031,[99],2018-04-30,0.217,5.5,2,es,False
+1064,Obras maestras de la pintura universal,Obras maestras de la pintura universal,72466,[99],2015-10-15,0.214,3.0,1,es,False
+1065,20 Preguntas a...,20 Preguntas a...,138960,[],2020-08-11,0.201,6.2,4,en,False
+1066,Las Grandes Batallas de la Guerra Civil Española,Las Grandes Batallas de la Guerra Civil Española,88609,[99],2012-01-01,0.199,5.0,2,es,False
+1067,Amber the Ambulance,Amber the Ambulance,237476,[16],2017-09-06,0.192,0.0,0,en,False
+1068,Pinypon Action,Pinypon Action,202168,[],2019-04-13,0.19,2.0,1,es,False
+1069,KiiYii,KiiYii,218998,[16],2017-04-19,0.173,0.0,0,en,False
+1070,Babies in Car City,Babies in Car City,112208,[],2018-01-31,0.17,2.0,1,es,False
+1071,Par avion,Par avion,132570,[99],2013-04-15,0.149,0.0,0,fr,False
+1072,El taller de pintura de Tom,Tom’s Paint Shop,112204,"[10762, 16]",2020-10-05,0.14,2.0,1,es,False
+1073,El armario de...,El armario de...,119501,[],2019-01-01,0.132,7.0,2,es,False
+1074,Alejandro Sanz: #Lagira de #eldisco,Alejandro Sanz: #Lagira de #eldisco,111151,[],2019-12-06,0.123,10.0,1,es,False
+1075,Guns That Changed The Game,Guns That Changed The Game,203564,[99],2021-08-08,0.116,0.0,0,en,False
+1076,Creadores,Creadores,153214,[],2021-12-03,0.113,6.0,1,es,False
+1077,Tom der Abschleppwagen,Tom der Abschleppwagen,68847,[],2016-08-01,0.094,2.0,1,de,False
+1078,IncrediTales,IncrediTales,226965,[],2022-02-23,0.079,2.0,1,es,False
+1079,Bardzo przygodowe podróże Kulfona,Bardzo przygodowe podróże Kulfona,99288,"[10762, 16]",1997-06-12,0.074,5.0,2,pl,False
+1080,La historia de la iglesia católica,La historia de la iglesia católica,120626,[],2017-06-15,0.06,2.0,1,es,False
+1081,Fast Lap,Fast Lap,120103,[],2017-12-15,0.048,2.0,1,no,False
+1082,No Easy Days,No Easy Days,206998,[],2018-09-20,0.044,0.0,0,nl,False
+1083,Enchantimals City Tails Main Street,Enchantimals City Tails Main Street,251446,[],2023-03-03,0.041,0.0,0,en,False
+1084,Productores con Estrella,Productores con Estrella,154753,[],2021-09-14,0.021,0.0,0,es,False
+1085,Secrets of the Magna Carta,Secrets of the Magna Carta,131839,[99],2017-12-15,0.009,0.0,0,en,False
+1086,巴巴爸爸之科学故事,巴巴爸爸之科学故事,273471,[10762],,0.006,0.0,0,fr,False
+1087,Chyornyy Tsvetok,Chyornyy Tsvetok,234673,[],2016-04-22,0.006,0.0,0,pt,False
+1088,Saturday Club,Saturday Club,5531,[],,0.001,0.0,0,en,False
